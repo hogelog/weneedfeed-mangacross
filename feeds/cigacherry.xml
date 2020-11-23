@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[シガレット＆チェリー]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/cigacherry.xml" rel="self"/>
+    <description><![CDATA[Recent content on シガレット＆チェリー]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:26 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/128</link>
+      
+        <pubDate>Tue, 20 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[EPILOGUE]]></description>
+      <content:encoded><![CDATA[EPILOGUE]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/128</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[最終話]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/127</link>
+      
+        <pubDate>Thu, 10 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[それぞれの幸せ]]></description>
+      <content:encoded><![CDATA[それぞれの幸せ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/127</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第123話]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/126</link>
+      
+        <pubDate>Thu, 03 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[よくがんばったね]]></description>
+      <content:encoded><![CDATA[よくがんばったね]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/126</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/3</link>
+      
+        <pubDate>Tue, 26 Sep 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[コンタクト]]></description>
+      <content:encoded><![CDATA[コンタクト]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/2</link>
+      
+        <pubDate>Tue, 12 Sep 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[無邪気なイタズラ]]></description>
+      <content:encoded><![CDATA[無邪気なイタズラ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/1</link>
+      
+        <pubDate>Tue, 29 Aug 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[入学]]></description>
+      <content:encoded><![CDATA[入学]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/1</guid>
+    </item>
+    
+  </channel>
+</rss>

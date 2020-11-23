@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[クローズ]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
+    <description><![CDATA[Recent content on クローズ]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第61話④]]></title>
+      <link>https://mangacross.jp/comics/crows/236</link>
+      
+        <pubDate>Mon, 23 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></description>
+      <content:encoded><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/236</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第61話③]]></title>
+      <link>https://mangacross.jp/comics/crows/235</link>
+      
+        <pubDate>Fri, 20 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></description>
+      <content:encoded><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/235</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第61話②]]></title>
+      <link>https://mangacross.jp/comics/crows/234</link>
+      
+        <pubDate>Wed, 18 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></description>
+      <content:encoded><![CDATA[BATTLES IN THE CROWS HIGH-SCOOL]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/234</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話②]]></title>
+      <link>https://mangacross.jp/comics/crows/2</link>
+      
+        <pubDate>Mon, 20 May 2019 10:15:00 +0900</pubDate>
+      
+      <description><![CDATA[カラスの学校]]></description>
+      <content:encoded><![CDATA[カラスの学校]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話③]]></title>
+      <link>https://mangacross.jp/comics/crows/3</link>
+      
+        <pubDate>Mon, 20 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[カラスの学校]]></description>
+      <content:encoded><![CDATA[カラスの学校]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話①]]></title>
+      <link>https://mangacross.jp/comics/crows/1</link>
+      
+        <pubDate>Mon, 20 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[カラスの学校]]></description>
+      <content:encoded><![CDATA[カラスの学校]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/1</guid>
+    </item>
+    
+  </channel>
+</rss>

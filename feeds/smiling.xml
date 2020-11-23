@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[スマイリング！〜晴れやかなロード〜]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/smiling.xml" rel="self"/>
+    <description><![CDATA[Recent content on スマイリング！〜晴れやかなロード〜]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:27 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.1]]></title>
+      <link>https://mangacross.jp/comics/smiling/1</link>
+      
+        <pubDate>Tue, 19 Feb 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[始まりの風]]></description>
+      <content:encoded><![CDATA[始まりの風]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/smiling/1</guid>
+    </item>
+    
+  </channel>
+</rss>

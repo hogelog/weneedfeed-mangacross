@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[化けネコ葉月の姉妹事情]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/bakeneko.xml" rel="self"/>
+    <description><![CDATA[Recent content on 化けネコ葉月の姉妹事情]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/bakeneko/5</link>
+      
+        <pubDate>Thu, 25 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[あの日の制服]]></description>
+      <content:encoded><![CDATA[あの日の制服]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/5</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/bakeneko/4</link>
+      
+        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[空の決断]]></description>
+      <content:encoded><![CDATA[空の決断]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/4</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/bakeneko/3</link>
+      
+        <pubDate>Thu, 28 Mar 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ネコのいる日々]]></description>
+      <content:encoded><![CDATA[ネコのいる日々]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/bakeneko/2</link>
+      
+        <pubDate>Thu, 14 Mar 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ふたりの葉月]]></description>
+      <content:encoded><![CDATA[ふたりの葉月]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/bakeneko/1</link>
+      
+        <pubDate>Thu, 28 Feb 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ふたり暮らしの始まりと終わり]]></description>
+      <content:encoded><![CDATA[ふたり暮らしの始まりと終わり]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/1</guid>
+    </item>
+    
+  </channel>
+</rss>

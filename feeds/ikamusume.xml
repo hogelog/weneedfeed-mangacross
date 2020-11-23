@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[侵略！イカ娘]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ikamusume.xml" rel="self"/>
+    <description><![CDATA[Recent content on 侵略！イカ娘]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:57:25 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第6話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/6</link>
+      
+        <pubDate>Wed, 24 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[天敵じゃなイカ？]]></description>
+      <content:encoded><![CDATA[天敵じゃなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/6</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/5</link>
+      
+        <pubDate>Wed, 24 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[好機じゃなイカ？]]></description>
+      <content:encoded><![CDATA[好機じゃなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/5</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/1</link>
+      
+        <pubDate>Mon, 22 Apr 2019 10:15:00 +0900</pubDate>
+      
+      <description><![CDATA[侵略しなイカ？]]></description>
+      <content:encoded><![CDATA[侵略しなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/1</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/4</link>
+      
+        <pubDate>Mon, 22 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[拾わなイカ？]]></description>
+      <content:encoded><![CDATA[拾わなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/4</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/3</link>
+      
+        <pubDate>Mon, 22 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[逃げなイカ？]]></description>
+      <content:encoded><![CDATA[逃げなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/ikamusume/2</link>
+      
+        <pubDate>Mon, 22 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[吐かなイカ？]]></description>
+      <content:encoded><![CDATA[吐かなイカ？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/2</guid>
+    </item>
+    
+  </channel>
+</rss>

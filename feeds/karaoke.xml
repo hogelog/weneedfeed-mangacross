@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[私の異常なカラオケ愛]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/karaoke.xml" rel="self"/>
+    <description><![CDATA[Recent content on 私の異常なカラオケ愛]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:57:34 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/karaoke/5</link>
+      
+        <pubDate>Tue, 01 May 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[出会いのカラオケ]]></description>
+      <content:encoded><![CDATA[出会いのカラオケ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/5</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/karaoke/4</link>
+      
+        <pubDate>Tue, 24 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[遠隔のカラオケ]]></description>
+      <content:encoded><![CDATA[遠隔のカラオケ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/4</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/karaoke/3</link>
+      
+        <pubDate>Tue, 17 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[食べ過ぎのカラオケ]]></description>
+      <content:encoded><![CDATA[食べ過ぎのカラオケ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/karaoke/2</link>
+      
+        <pubDate>Tue, 10 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[孤独のカラオケ]]></description>
+      <content:encoded><![CDATA[孤独のカラオケ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/karaoke/1</link>
+      
+        <pubDate>Tue, 03 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[私のカラオケ]]></description>
+      <content:encoded><![CDATA[私のカラオケ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/1</guid>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[お姫様のお姫様]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/princess.xml" rel="self"/>
+    <description><![CDATA[Recent content on お姫様のお姫様]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第18話]]></title>
+      <link>https://mangacross.jp/comics/princess/18</link>
+      
+        <pubDate>Thu, 19 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[わたしの蟲毒ゲーム]]></description>
+      <content:encoded><![CDATA[わたしの蟲毒ゲーム]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/18</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第17話]]></title>
+      <link>https://mangacross.jp/comics/princess/17</link>
+      
+        <pubDate>Thu, 15 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[好意の南山環状線]]></description>
+      <content:encoded><![CDATA[好意の南山環状線]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/17</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第16話]]></title>
+      <link>https://mangacross.jp/comics/princess/16</link>
+      
+        <pubDate>Thu, 17 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[三矢の教え]]></description>
+      <content:encoded><![CDATA[三矢の教え]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/16</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第15話]]></title>
+      <link>https://mangacross.jp/comics/princess/15</link>
+      
+        <pubDate>Thu, 16 Jul 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[Yの者たち]]></description>
+      <content:encoded><![CDATA[Yの者たち]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/15</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://mangacross.jp/comics/princess/14</link>
+      
+        <pubDate>Thu, 18 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[アンチノミー]]></description>
+      <content:encoded><![CDATA[アンチノミー]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/14</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/princess/3</link>
+      
+        <pubDate>Thu, 01 Aug 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[例のプール]]></description>
+      <content:encoded><![CDATA[例のプール]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/princess/2</link>
+      
+        <pubDate>Thu, 25 Jul 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[シンデレラのガールズ]]></description>
+      <content:encoded><![CDATA[シンデレラのガールズ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/princess/1</link>
+      
+        <pubDate>Thu, 18 Jul 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ときめきのメモリアル]]></description>
+      <content:encoded><![CDATA[ときめきのメモリアル]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/1</guid>
+    </item>
+    
+  </channel>
+</rss>

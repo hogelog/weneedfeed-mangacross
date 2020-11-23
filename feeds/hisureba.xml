@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[秘すれば]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hisureba.xml" rel="self"/>
+    <description><![CDATA[Recent content on 秘すれば]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:57:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第30話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/13</link>
+      
+        <pubDate>Tue, 25 Jun 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[境界]]></description>
+      <content:encoded><![CDATA[境界]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/13</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第29話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/12</link>
+      
+        <pubDate>Tue, 23 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[逃避]]></description>
+      <content:encoded><![CDATA[逃避]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/12</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第28話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/11</link>
+      
+        <pubDate>Tue, 26 Feb 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[破壊]]></description>
+      <content:encoded><![CDATA[破壊]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/11</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/3</link>
+      
+        <pubDate>Tue, 19 Dec 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[痴漢]]></description>
+      <content:encoded><![CDATA[痴漢]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/2</link>
+      
+        <pubDate>Tue, 12 Dec 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[追咎]]></description>
+      <content:encoded><![CDATA[追咎]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/hisureba/1</link>
+      
+        <pubDate>Tue, 05 Dec 2017 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[秘密]]></description>
+      <content:encoded><![CDATA[秘密]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hisureba/1</guid>
+    </item>
+    
+  </channel>
+</rss>

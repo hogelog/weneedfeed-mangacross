@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[当て馬カノジョ]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ateuma.xml" rel="self"/>
+    <description><![CDATA[Recent content on 当て馬カノジョ]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第6話（後編）]]></title>
+      <link>https://mangacross.jp/comics/ateuma/11</link>
+      
+        <pubDate>Thu, 19 Sep 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ateuma/11</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第6話（前編）]]></title>
+      <link>https://mangacross.jp/comics/ateuma/10</link>
+      
+        <pubDate>Thu, 15 Aug 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ateuma/10</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話（後編）]]></title>
+      <link>https://mangacross.jp/comics/ateuma/3</link>
+      
+        <pubDate>Thu, 27 Dec 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ateuma/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話（前編）]]></title>
+      <link>https://mangacross.jp/comics/ateuma/2</link>
+      
+        <pubDate>Thu, 13 Dec 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ateuma/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/ateuma/1</link>
+      
+        <pubDate>Thu, 22 Nov 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ateuma/1</guid>
+    </item>
+    
+  </channel>
+</rss>

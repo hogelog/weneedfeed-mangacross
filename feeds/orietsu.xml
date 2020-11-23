@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[織津江大志の異世界クリ娘サバイバル日誌]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
+    <description><![CDATA[Recent content on 織津江大志の異世界クリ娘サバイバル日誌]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/9</link>
+      
+        <pubDate>Tue, 17 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></description>
+      <content:encoded><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/9</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第8話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/8</link>
+      
+        <pubDate>Tue, 20 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[魚と虫と木の実はサバイバル食の基本]]></description>
+      <content:encoded><![CDATA[魚と虫と木の実はサバイバル食の基本]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/8</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/1</link>
+      
+        <pubDate>Tue, 17 Mar 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[異世界転移とか冗談じゃないですよ]]></description>
+      <content:encoded><![CDATA[異世界転移とか冗談じゃないですよ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/1</guid>
+    </item>
+    
+  </channel>
+</rss>

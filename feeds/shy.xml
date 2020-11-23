@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[SHY]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shy.xml" rel="self"/>
+    <description><![CDATA[Recent content on SHY]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:26 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第21話]]></title>
+      <link>https://mangacross.jp/comics/shy/24</link>
+      
+        <pubDate>Wed, 19 Aug 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[なんつって]]></description>
+      <content:encoded><![CDATA[なんつって]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/24</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第20話]]></title>
+      <link>https://mangacross.jp/comics/shy/23</link>
+      
+        <pubDate>Mon, 17 Aug 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[さぷらいず]]></description>
+      <content:encoded><![CDATA[さぷらいず]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/23</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第19話]]></title>
+      <link>https://mangacross.jp/comics/shy/22</link>
+      
+        <pubDate>Wed, 12 Aug 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[アルコホリックと呼ばないで]]></description>
+      <content:encoded><![CDATA[アルコホリックと呼ばないで]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/22</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/shy/7</link>
+      
+        <pubDate>Mon, 22 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ありったけの心で]]></description>
+      <content:encoded><![CDATA[ありったけの心で]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/7</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/shy/6</link>
+      
+        <pubDate>Wed, 17 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[呪い]]></description>
+      <content:encoded><![CDATA[呪い]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/6</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話②]]></title>
+      <link>https://mangacross.jp/comics/shy/5</link>
+      
+        <pubDate>Mon, 15 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ヒーローの使命]]></description>
+      <content:encoded><![CDATA[ヒーローの使命]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/5</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話①]]></title>
+      <link>https://mangacross.jp/comics/shy/4</link>
+      
+        <pubDate>Wed, 10 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ヒーローの使命]]></description>
+      <content:encoded><![CDATA[ヒーローの使命]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/4</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話③]]></title>
+      <link>https://mangacross.jp/comics/shy/3</link>
+      
+        <pubDate>Mon, 08 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[シャイなので]]></description>
+      <content:encoded><![CDATA[シャイなので]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話②]]></title>
+      <link>https://mangacross.jp/comics/shy/2</link>
+      
+        <pubDate>Wed, 03 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[シャイなので]]></description>
+      <content:encoded><![CDATA[シャイなので]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話①]]></title>
+      <link>https://mangacross.jp/comics/shy/1</link>
+      
+        <pubDate>Mon, 01 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[シャイなので]]></description>
+      <content:encoded><![CDATA[シャイなので]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shy/1</guid>
+    </item>
+    
+  </channel>
+</rss>

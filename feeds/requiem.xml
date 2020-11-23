@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[聖闘士星矢EPISODE.Gレクイエム]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
+    <description><![CDATA[Recent content on 聖闘士星矢EPISODE.Gレクイエム]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第6話]]></title>
+      <link>https://mangacross.jp/comics/requiem/6</link>
+      
+        <pubDate>Tue, 29 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[大神乃小宇宙]]></description>
+      <content:encoded><![CDATA[大神乃小宇宙]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/6</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/requiem/5</link>
+      
+        <pubDate>Tue, 30 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[悪衣]]></description>
+      <content:encoded><![CDATA[悪衣]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/5</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/requiem/4</link>
+      
+        <pubDate>Tue, 19 May 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[天馬星座の聖衣]]></description>
+      <content:encoded><![CDATA[天馬星座の聖衣]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/4</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/requiem/3</link>
+      
+        <pubDate>Tue, 21 Apr 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[最後の聖闘士]]></description>
+      <content:encoded><![CDATA[最後の聖闘士]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/requiem/2</link>
+      
+        <pubDate>Tue, 25 Feb 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[陥落]]></description>
+      <content:encoded><![CDATA[陥落]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/requiem/1</link>
+      
+        <pubDate>Tue, 28 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[帰還]]></description>
+      <content:encoded><![CDATA[帰還]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/1</guid>
+    </item>
+    
+  </channel>
+</rss>

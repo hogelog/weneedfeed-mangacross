@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[AIの遺電子]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
+    <description><![CDATA[Recent content on AIの遺電子]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:55:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/ai/3</link>
+      
+        <pubDate>Thu, 20 Dec 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ポッポ]]></description>
+      <content:encoded><![CDATA[ポッポ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/ai/2</link>
+      
+        <pubDate>Thu, 13 Dec 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[かけそば]]></description>
+      <content:encoded><![CDATA[かけそば]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/ai/1</link>
+      
+        <pubDate>Thu, 06 Dec 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[バックアップ]]></description>
+      <content:encoded><![CDATA[バックアップ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/1</guid>
+    </item>
+    
+  </channel>
+</rss>

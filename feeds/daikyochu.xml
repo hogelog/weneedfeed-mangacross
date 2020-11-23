@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[大巨蟲列島]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/daikyochu.xml" rel="self"/>
+    <description><![CDATA[Recent content on 大巨蟲列島]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:43 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第16話（後編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/33</link>
+      
+        <pubDate>Thu, 12 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[キリング・ボトル]]></description>
+      <content:encoded><![CDATA[キリング・ボトル]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/33</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第16話（前編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/32</link>
+      
+        <pubDate>Thu, 22 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[キリング・ボトル]]></description>
+      <content:encoded><![CDATA[キリング・ボトル]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/32</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第15話（後編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/31</link>
+      
+        <pubDate>Thu, 24 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[キャッチ・アンド・ラン]]></description>
+      <content:encoded><![CDATA[キャッチ・アンド・ラン]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/31</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話（前編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/1</link>
+      
+        <pubDate>Thu, 25 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[会敵]]></description>
+      <content:encoded><![CDATA[会敵]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/1</guid>
+    </item>
+    
+  </channel>
+</rss>

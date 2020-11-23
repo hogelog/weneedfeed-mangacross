@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[海喰い]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
+    <description><![CDATA[Recent content on 海喰い]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話 前半]]></title>
+      <link>https://mangacross.jp/comics/umigui/17</link>
+      
+        <pubDate>Tue, 10 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[人殺し]]></description>
+      <content:encoded><![CDATA[人殺し]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/17</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第8話 後半]]></title>
+      <link>https://mangacross.jp/comics/umigui/16</link>
+      
+        <pubDate>Tue, 27 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[確保]]></description>
+      <content:encoded><![CDATA[確保]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/16</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第8話 前半]]></title>
+      <link>https://mangacross.jp/comics/umigui/15</link>
+      
+        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[新情報]]></description>
+      <content:encoded><![CDATA[新情報]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/15</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 後半]]></title>
+      <link>https://mangacross.jp/comics/umigui/2</link>
+      
+        <pubDate>Tue, 24 Mar 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[襲来]]></description>
+      <content:encoded><![CDATA[襲来]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話 前半]]></title>
+      <link>https://mangacross.jp/comics/umigui/1</link>
+      
+        <pubDate>Tue, 10 Mar 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[終わりの始まり]]></description>
+      <content:encoded><![CDATA[終わりの始まり]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/1</guid>
+    </item>
+    
+  </channel>
+</rss>

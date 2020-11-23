@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[おしえて。ポコ先生]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/poko.xml" rel="self"/>
+    <description><![CDATA[Recent content on おしえて。ポコ先生]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:58:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第33話]]></title>
+      <link>https://mangacross.jp/comics/poko/33</link>
+      
+        <pubDate>Thu, 06 Feb 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[てるてるいるか]]></description>
+      <content:encoded><![CDATA[てるてるいるか]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/33</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第32話]]></title>
+      <link>https://mangacross.jp/comics/poko/32</link>
+      
+        <pubDate>Thu, 30 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[タレマンボウ]]></description>
+      <content:encoded><![CDATA[タレマンボウ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/32</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第31話]]></title>
+      <link>https://mangacross.jp/comics/poko/31</link>
+      
+        <pubDate>Thu, 23 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[プロペラヒーロー]]></description>
+      <content:encoded><![CDATA[プロペラヒーロー]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/31</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第30話]]></title>
+      <link>https://mangacross.jp/comics/poko/30</link>
+      
+        <pubDate>Thu, 16 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[メシフロシャーク]]></description>
+      <content:encoded><![CDATA[メシフロシャーク]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/30</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第29話]]></title>
+      <link>https://mangacross.jp/comics/poko/29</link>
+      
+        <pubDate>Thu, 09 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[空の幸]]></description>
+      <content:encoded><![CDATA[空の幸]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/29</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第17話]]></title>
+      <link>https://mangacross.jp/comics/poko/17</link>
+      
+        <pubDate>Thu, 26 May 2016 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ヤコの寝グセ]]></description>
+      <content:encoded><![CDATA[ヤコの寝グセ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/17</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/poko/1</link>
+      
+        <pubDate>Thu, 04 Jul 2013 07:00:00 +0900</pubDate>
+      
+      <description><![CDATA[「打ち合わせ」]]></description>
+      <content:encoded><![CDATA[「打ち合わせ」]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/poko/1</guid>
+    </item>
+    
+  </channel>
+</rss>

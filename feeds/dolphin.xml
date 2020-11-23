@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[ドルフィン]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
+    <description><![CDATA[Recent content on ドルフィン]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:56:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第二章 第五十二話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/97</link>
+      
+        <pubDate>Tue, 10 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[意地]]></description>
+      <content:encoded><![CDATA[意地]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/97</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第二章 第五十一話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/96</link>
+      
+        <pubDate>Tue, 27 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[因縁]]></description>
+      <content:encoded><![CDATA[因縁]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/96</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第二章 第五十話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/95</link>
+      
+        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[大歓迎]]></description>
+      <content:encoded><![CDATA[大歓迎]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/95</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/3</link>
+      
+        <pubDate>Tue, 25 Nov 2014 09:00:00 +0900</pubDate>
+      
+      <description><![CDATA[友達]]></description>
+      <content:encoded><![CDATA[友達]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/3</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/2</link>
+      
+        <pubDate>Tue, 11 Nov 2014 09:00:00 +0900</pubDate>
+      
+      <description><![CDATA[覚醒]]></description>
+      <content:encoded><![CDATA[覚醒]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/2</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/1</link>
+      
+        <pubDate>Tue, 28 Oct 2014 09:00:00 +0900</pubDate>
+      
+      <description><![CDATA[殺人拳法]]></description>
+      <content:encoded><![CDATA[殺人拳法]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/1</guid>
+    </item>
+    
+  </channel>
+</rss>

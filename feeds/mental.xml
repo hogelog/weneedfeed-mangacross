@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[史群アル仙のメンタルチップス～不安障害とADHDの歩き方～]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/mental.xml" rel="self"/>
+    <description><![CDATA[Recent content on 史群アル仙のメンタルチップス～不安障害とADHDの歩き方～]]></description>
+    <lastBuildDate>Mon, 23 Nov 2020 09:57:48 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/mental/65</link>
+      
+        <pubDate>Thu, 05 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/mental/65</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/mental/1</link>
+      
+        <pubDate>Thu, 18 Aug 2016 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[はじめに]]></description>
+      <content:encoded><![CDATA[はじめに]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/mental/1</guid>
+    </item>
+    
+  </channel>
+</rss>
