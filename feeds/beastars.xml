@@ -4,10 +4,21 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[BEASTARS]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
-    <description><![CDATA[Recent content on BEASTARS]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:07:21 +0000</lastBuildDate>
+    <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:07:19 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第38話]]></title>
+      <link>https://mangacross.jp/comics/beastars/40</link>
+      
+        <pubDate>Wed, 25 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[罫線に白い毛這わせて]]></description>
+      <content:encoded><![CDATA[罫線に白い毛這わせて]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/40</guid>
+    </item>
     
     <item>
       <title><![CDATA[第37話]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[地下鉄の風はみずみずしい]]></description>
       <content:encoded><![CDATA[地下鉄の風はみずみずしい]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/31</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第28話]]></title>
-      <link>https://mangacross.jp/comics/beastars/30</link>
-      
-        <pubDate>Mon, 02 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[その感情、極彩色]]></description>
-      <content:encoded><![CDATA[その感情、極彩色]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/30</guid>
     </item>
     
   </channel>

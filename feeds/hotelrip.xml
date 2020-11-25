@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[HOTEL R.I.P.]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/hotelrip.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hotelrip.xml" rel="self"/>
-    <description><![CDATA[Recent content on HOTEL R.I.P.]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:08:21 +0000</lastBuildDate>
+    <description><![CDATA[誰もが安らかに眠れるホテルへ。]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:08:17 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[#5]]></title>

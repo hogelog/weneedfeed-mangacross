@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[ドルフィン]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/dolphin.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
-    <description><![CDATA[Recent content on ドルフィン]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:08:05 +0000</lastBuildDate>
+    <description><![CDATA[実話にもとづく横浜暴走族浪漫！]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:08:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第二章 第五十二話]]></title>

@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[聖闘士星矢EPISODE.Gレクイエム]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/requiem.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
-    <description><![CDATA[Recent content on 聖闘士星矢EPISODE.Gレクイエム]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:09:25 +0000</lastBuildDate>
+    <description><![CDATA[黄金聖闘士たちの激闘録！！]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:09:23 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第7話]]></title>

@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[衛府の七忍]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/efu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/efu.xml" rel="self"/>
-    <description><![CDATA[Recent content on 衛府の七忍]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:08:07 +0000</lastBuildDate>
+    <description><![CDATA[衛府の刃・怨身忍者だ!]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:08:03 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第一話 零鬼編一]]></title>

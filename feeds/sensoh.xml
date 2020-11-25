@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[戦争めし]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/sensoh.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/sensoh.xml" rel="self"/>
-    <description><![CDATA[Recent content on 戦争めし]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:09:35 +0000</lastBuildDate>
+    <description><![CDATA[ほろり味の昭和初期グルメ]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:09:33 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[その15]]></title>

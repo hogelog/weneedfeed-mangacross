@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[宝石王子と鉱物カフェ]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/jewely.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/jewely.xml" rel="self"/>
-    <description><![CDATA[Recent content on 宝石王子と鉱物カフェ]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:08:45 +0000</lastBuildDate>
+    <description><![CDATA[鉱物命のドS美少年×カフェ店員]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:08:41 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[最終話]]></title>

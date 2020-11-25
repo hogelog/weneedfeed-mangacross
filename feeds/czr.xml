@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[クローズZEROリブート]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/czr.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/czr.xml" rel="self"/>
-    <description><![CDATA[Recent content on クローズZEROリブート]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:07:57 +0000</lastBuildDate>
+    <description><![CDATA[大ヒット映画を新生コミカライズ!!]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:07:53 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話（後編）]]></title>

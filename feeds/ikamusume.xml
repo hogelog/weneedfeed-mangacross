@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[侵略！イカ娘]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/ikamusume.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ikamusume.xml" rel="self"/>
-    <description><![CDATA[Recent content on 侵略！イカ娘]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:08:39 +0000</lastBuildDate>
+    <description><![CDATA[人類征服コメディー！]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:08:36 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第6話]]></title>

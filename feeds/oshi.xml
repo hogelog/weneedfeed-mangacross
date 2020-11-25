@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[キミは俺の推しじゃない]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/oshi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/oshi.xml" rel="self"/>
-    <description><![CDATA[Recent content on キミは俺の推しじゃない]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:09:16 +0000</lastBuildDate>
+    <description><![CDATA[オタク男子が恋の応援⁉︎]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:09:12 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[番外編]]></title>

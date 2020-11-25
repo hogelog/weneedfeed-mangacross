@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[シガレット＆チェリー]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/cigacherry.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/cigacherry.xml" rel="self"/>
-    <description><![CDATA[Recent content on シガレット＆チェリー]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:07:39 +0000</lastBuildDate>
+    <description><![CDATA[この先輩…控えめに言って、最高です！]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:07:36 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>

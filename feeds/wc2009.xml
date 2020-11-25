@@ -4,10 +4,10 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[週刊少年チャンピオン9号 特別無料公開]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-mangacross</link>
+    <link>https://mangacross.jp/api/comics/wc2009.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/wc2009.xml" rel="self"/>
-    <description><![CDATA[Recent content on 週刊少年チャンピオン9号 特別無料公開]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 15:09:53 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Wed, 25 Nov 2020 15:09:52 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[どらコン！]]></title>
