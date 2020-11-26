@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/daikyochu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/daikyochu.xml" rel="self"/>
     <description><![CDATA[昆虫パニック漫画、新章突入!!]]></description>
-    <lastBuildDate>Wed, 25 Nov 2020 15:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 15:08:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第17話（前編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/34</link>
+      
+        <pubDate>Thu, 26 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[水中の狩人]]></description>
+      <content:encoded><![CDATA[水中の狩人]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/34</guid>
+    </item>
     
     <item>
       <title><![CDATA[第16話（後編）]]></title>
@@ -18,17 +29,6 @@
       <description><![CDATA[キリング・ボトル]]></description>
       <content:encoded><![CDATA[キリング・ボトル]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/33</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第16話（前編）]]></title>
-      <link>https://mangacross.jp/comics/daikyochu/32</link>
-      
-        <pubDate>Thu, 22 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[キリング・ボトル]]></description>
-      <content:encoded><![CDATA[キリング・ボトル]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/32</guid>
     </item>
     
     <item>

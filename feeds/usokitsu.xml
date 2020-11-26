@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 25 Nov 2020 15:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 15:09:52 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/usokitsu/2</link>
+      
+        <pubDate>Thu, 26 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[雨の帰り道]]></description>
+      <content:encoded><![CDATA[雨の帰り道]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/2</guid>
+    </item>
     
     <item>
       <title><![CDATA[第1話]]></title>

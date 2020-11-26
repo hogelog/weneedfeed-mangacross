@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 25 Nov 2020 15:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 15:08:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第35話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/44</link>
+      
+        <pubDate>Thu, 26 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[私のことも見てほしい]]></description>
+      <content:encoded><![CDATA[私のことも見てほしい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/44</guid>
+    </item>
     
     <item>
       <title><![CDATA[第34話]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[「写真を撮りたい」と言わせたい]]></description>
       <content:encoded><![CDATA[「写真を撮りたい」と言わせたい]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/4</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/3</link>
-      
-        <pubDate>Thu, 01 Aug 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[「腕を組みたい」と言わせたい]]></description>
-      <content:encoded><![CDATA[「腕を組みたい」と言わせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/3</guid>
     </item>
     
   </channel>
