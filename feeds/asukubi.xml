@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/asukubi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/asukubi.xml" rel="self"/>
     <description><![CDATA[クズサラリーマンあるあるGAG！]]></description>
-    <lastBuildDate>Thu, 26 Nov 2020 15:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 15:07:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[22日目]]></title>
+      <link>https://mangacross.jp/comics/asukubi/22</link>
+      
+        <pubDate>Fri, 27 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[二次会]]></description>
+      <content:encoded><![CDATA[二次会]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/22</guid>
+    </item>
     
     <item>
       <title><![CDATA[21日目]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[夏休み]]></description>
       <content:encoded><![CDATA[夏休み]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/13</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[12日目]]></title>
-      <link>https://mangacross.jp/comics/asukubi/12</link>
-      
-        <pubDate>Fri, 18 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[パソコンテクニック]]></description>
-      <content:encoded><![CDATA[パソコンテクニック]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/12</guid>
     </item>
     
   </channel>

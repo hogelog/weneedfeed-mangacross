@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/aomori.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/aomori.xml" rel="self"/>
     <description><![CDATA[他には無い青森グルメまんが！]]></description>
-    <lastBuildDate>Thu, 26 Nov 2020 15:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 15:07:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第62話]]></title>
@@ -98,25 +98,25 @@
     </item>
     
     <item>
-      <title><![CDATA[第54話]]></title>
-      <link>https://mangacross.jp/comics/aomori/54</link>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/aomori/3</link>
       
-        <pubDate>Tue, 21 Jul 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 05 Jun 2018 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[陸奥八仙]]></description>
-      <content:encoded><![CDATA[陸奥八仙]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/54</guid>
+      <description><![CDATA[せんべい汁]]></description>
+      <content:encoded><![CDATA[せんべい汁]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/3</guid>
     </item>
     
     <item>
-      <title><![CDATA[第53話]]></title>
-      <link>https://mangacross.jp/comics/aomori/53</link>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/aomori/2</link>
       
-        <pubDate>Tue, 07 Jul 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 15 May 2018 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[糠塚きゅうり]]></description>
-      <content:encoded><![CDATA[糠塚きゅうり]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/53</guid>
+      <description><![CDATA[味噌カレー牛乳ラーメン]]></description>
+      <content:encoded><![CDATA[味噌カレー牛乳ラーメン]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/2</guid>
     </item>
     
   </channel>

@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Thu, 26 Nov 2020 15:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 15:07:10 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第39話]]></title>
+      <link>https://mangacross.jp/comics/beastars/41</link>
+      
+        <pubDate>Fri, 27 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[君を捕まえたい]]></description>
+      <content:encoded><![CDATA[君を捕まえたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/41</guid>
+    </item>
     
     <item>
       <title><![CDATA[第38話]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[鉄の猛獣使い]]></description>
       <content:encoded><![CDATA[鉄の猛獣使い]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/32</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第29話]]></title>
-      <link>https://mangacross.jp/comics/beastars/31</link>
-      
-        <pubDate>Wed, 04 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[地下鉄の風はみずみずしい]]></description>
-      <content:encoded><![CDATA[地下鉄の風はみずみずしい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/31</guid>
     </item>
     
   </channel>
