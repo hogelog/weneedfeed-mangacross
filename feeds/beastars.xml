@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Sun, 29 Nov 2020 15:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 15:09:31 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第40話]]></title>
+      <link>https://mangacross.jp/comics/beastars/42</link>
+      
+        <pubDate>Mon, 30 Nov 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[胸いっぱいより肺いっぱい]]></description>
+      <content:encoded><![CDATA[胸いっぱいより肺いっぱい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/42</guid>
+    </item>
     
     <item>
       <title><![CDATA[第39話]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[野望はショッキングピンク]]></description>
       <content:encoded><![CDATA[野望はショッキングピンク]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/33</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第30話]]></title>
-      <link>https://mangacross.jp/comics/beastars/32</link>
-      
-        <pubDate>Fri, 06 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[鉄の猛獣使い]]></description>
-      <content:encoded><![CDATA[鉄の猛獣使い]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/32</guid>
     </item>
     
   </channel>
