@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/creature.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/creature.xml" rel="self"/>
     <description><![CDATA[異世界でクリ娘とハーレムしちゃう!?]]></description>
-    <lastBuildDate>Mon, 30 Nov 2020 15:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 15:09:17 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第46話]]></title>
+      <link>https://mangacross.jp/comics/creature/46</link>
+      
+        <pubDate>Tue, 01 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[全滅確認]]></description>
+      <content:encoded><![CDATA[全滅確認]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/creature/46</guid>
+    </item>
     
     <item>
       <title><![CDATA[第45話]]></title>
@@ -18,17 +29,6 @@
       <description><![CDATA[トロール城陥落]]></description>
       <content:encoded><![CDATA[トロール城陥落]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/45</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第44話]]></title>
-      <link>https://mangacross.jp/comics/creature/44</link>
-      
-        <pubDate>Tue, 06 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[トロール集落攻防戦]]></description>
-      <content:encoded><![CDATA[トロール集落攻防戦]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/creature/44</guid>
     </item>
     
     <item>

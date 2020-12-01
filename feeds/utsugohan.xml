@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 30 Nov 2020 15:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 15:11:26 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第11話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/30</link>
+      
+        <pubDate>Tue, 01 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[人間の、なれの果て]]></description>
+      <content:encoded><![CDATA[人間の、なれの果て]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/30</guid>
+    </item>
     
     <item>
       <title><![CDATA[第137話]]></title>
@@ -106,17 +117,6 @@
       <description><![CDATA[悪意のハンバーガー]]></description>
       <content:encoded><![CDATA[悪意のハンバーガー]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/21</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第6話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/20</link>
-      
-        <pubDate>Tue, 07 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[食事中、外したマスクの置き場所]]></description>
-      <content:encoded><![CDATA[食事中、外したマスクの置き場所]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/20</guid>
     </item>
     
   </channel>

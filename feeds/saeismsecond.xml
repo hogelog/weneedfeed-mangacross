@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/saeismsecond.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/saeismsecond.xml" rel="self"/>
     <description><![CDATA[束縛サイコサスペンス、新章！]]></description>
-    <lastBuildDate>Mon, 30 Nov 2020 15:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 15:11:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第49話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/49</link>
+      
+        <pubDate>Tue, 01 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[オシオキ②]]></description>
+      <content:encoded><![CDATA[オシオキ②]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/49</guid>
+    </item>
     
     <item>
       <title><![CDATA[第48話]]></title>
@@ -21,102 +32,36 @@
     </item>
     
     <item>
-      <title><![CDATA[第47話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/47</link>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/3</link>
       
-        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 05 Jun 2018 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[ケツダン③]]></description>
-      <content:encoded><![CDATA[ケツダン③]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/47</guid>
+      <description><![CDATA[フタタビ③]]></description>
+      <content:encoded><![CDATA[フタタビ③]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/3</guid>
     </item>
     
     <item>
-      <title><![CDATA[第46話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/46</link>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/2</link>
       
-        <pubDate>Tue, 22 Sep 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 29 May 2018 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[ケツダン②]]></description>
-      <content:encoded><![CDATA[ケツダン②]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/46</guid>
+      <description><![CDATA[フタタビ②]]></description>
+      <content:encoded><![CDATA[フタタビ②]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/2</guid>
     </item>
     
     <item>
-      <title><![CDATA[第45話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/45</link>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/1</link>
       
-        <pubDate>Tue, 08 Sep 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 22 May 2018 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[ケツダン①]]></description>
-      <content:encoded><![CDATA[ケツダン①]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/45</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第44話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/44</link>
-      
-        <pubDate>Tue, 25 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[カクレガ③]]></description>
-      <content:encoded><![CDATA[カクレガ③]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/44</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第43話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/43</link>
-      
-        <pubDate>Tue, 04 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[カクレガ②]]></description>
-      <content:encoded><![CDATA[カクレガ②]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/43</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第42話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/42</link>
-      
-        <pubDate>Tue, 21 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[カクレガ①]]></description>
-      <content:encoded><![CDATA[カクレガ①]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/42</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第41話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/41</link>
-      
-        <pubDate>Tue, 23 Jun 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[タヅサエ④]]></description>
-      <content:encoded><![CDATA[タヅサエ④]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/41</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第40話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/40</link>
-      
-        <pubDate>Tue, 09 Jun 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[タヅサエ③]]></description>
-      <content:encoded><![CDATA[タヅサエ③]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/40</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第39話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/39</link>
-      
-        <pubDate>Tue, 26 May 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[タヅサエ②]]></description>
-      <content:encoded><![CDATA[タヅサエ②]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/39</guid>
+      <description><![CDATA[フタタビ①]]></description>
+      <content:encoded><![CDATA[フタタビ①]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/1</guid>
     </item>
     
   </channel>
