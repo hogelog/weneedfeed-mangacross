@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/creature.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/creature.xml" rel="self"/>
     <description><![CDATA[異世界でクリ娘とハーレムしちゃう!?]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:29 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第46話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[全滅確認]]></description>
       <content:encoded><![CDATA[全滅確認]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/46</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[トロール城陥落]]></description>
       <content:encoded><![CDATA[トロール城陥落]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/45</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[アラクネ]]></description>
       <content:encoded><![CDATA[アラクネ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:12 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第41話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[大型忠誠心]]></description>
       <content:encoded><![CDATA[大型忠誠心]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/43</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[胸いっぱいより肺いっぱい]]></description>
       <content:encoded><![CDATA[胸いっぱいより肺いっぱい]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/42</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[君を捕まえたい]]></description>
       <content:encoded><![CDATA[君を捕まえたい]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/41</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[罫線に白い毛這わせて]]></description>
       <content:encoded><![CDATA[罫線に白い毛這わせて]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/40</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[雨雲の誘導]]></description>
       <content:encoded><![CDATA[雨雲の誘導]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/39</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[こぶしの縁から溢れるもの]]></description>
       <content:encoded><![CDATA[こぶしの縁から溢れるもの]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/38</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[美味礼賛のため]]></description>
       <content:encoded><![CDATA[美味礼賛のため]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/37</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[ボディガードは神妙に]]></description>
       <content:encoded><![CDATA[ボディガードは神妙に]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/36</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[宣誓…上へまいります]]></description>
       <content:encoded><![CDATA[宣誓…上へまいります]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/35</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[なら電気を消して]]></description>
       <content:encoded><![CDATA[なら電気を消して]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/34</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

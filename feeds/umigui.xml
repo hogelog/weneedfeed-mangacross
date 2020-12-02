@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:28 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第9話 後半]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[提案]]></description>
       <content:encoded><![CDATA[提案]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/18</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[人殺し]]></description>
       <content:encoded><![CDATA[人殺し]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/17</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[確保]]></description>
       <content:encoded><![CDATA[確保]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/16</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[新情報]]></description>
       <content:encoded><![CDATA[新情報]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/15</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[襲来]]></description>
       <content:encoded><![CDATA[襲来]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/2</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[終わりの始まり]]></description>
       <content:encoded><![CDATA[終わりの始まり]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

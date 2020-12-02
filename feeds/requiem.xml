@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/requiem.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
     <description><![CDATA[黄金聖闘士たちの激闘録！！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:06 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第7話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[粛清の業火]]></description>
       <content:encoded><![CDATA[粛清の業火]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/7</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[大神乃小宇宙]]></description>
       <content:encoded><![CDATA[大神乃小宇宙]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/6</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[悪衣]]></description>
       <content:encoded><![CDATA[悪衣]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/5</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[天馬星座の聖衣]]></description>
       <content:encoded><![CDATA[天馬星座の聖衣]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/4</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[最後の聖闘士]]></description>
       <content:encoded><![CDATA[最後の聖闘士]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/3</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[陥落]]></description>
       <content:encoded><![CDATA[陥落]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/2</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[帰還]]></description>
       <content:encoded><![CDATA[帰還]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

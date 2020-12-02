@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/savedata.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/savedata.xml" rel="self"/>
     <description><![CDATA[ゲーム世界ラブコメディ]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:13 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第3話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[ついていくだけの簡単な(?)お仕事]]></description>
       <content:encoded><![CDATA[ついていくだけの簡単な(?)お仕事]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/savedata/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/KHrBX2eTR3ROqORN2mkFWc6RUM2clA18XmSJatR-t4k/episode_ogp/original.png?1536647102" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[オフの過ごし方それぞれ]]></description>
       <content:encoded><![CDATA[オフの過ごし方それぞれ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/savedata/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/b10HQQ79XwKM4JjrlkLocOhwOgue3w6VUwjSGYcmi4I/episode_ogp/original.png?1534146790" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[裏庭へようこそ]]></description>
       <content:encoded><![CDATA[裏庭へようこそ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/savedata/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/cdzHuNSgh9RQypmaf70QffVADLXxFnx4v_rr8aCWPKI/episode_ogp/original.jpg?1532588548" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/bon.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/bon.xml" rel="self"/>
     <description><![CDATA[超不良破天荒一代記!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:18 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話③]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[ぼんざざぼん]]></description>
       <content:encoded><![CDATA[ぼんざざぼん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bon/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Sf3sQjSBZiadc9QTH_x8Kyin4ZoNJDpZHXGHT-vX2WY/episode_ogp/original.png?1561364963" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[ぼんざざぼん]]></description>
       <content:encoded><![CDATA[ぼんざざぼん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bon/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/WPeubS0VgtFtNjCWp661VybHjYJaLB99G7-Hf221P3Q/episode_ogp/original.png?1561364647" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[ぼんざざぼん]]></description>
       <content:encoded><![CDATA[ぼんざざぼん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bon/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Y7DY9qI42WqcdzIetlWGTHaDPkdPpL1YKjr5lNnaqQE/episode_ogp/original.png?1561363319" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

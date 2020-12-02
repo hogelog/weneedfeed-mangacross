@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/umitaro.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umitaro.xml" rel="self"/>
     <description><![CDATA[最強ヤンキー、寿司を握る!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:29 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第7話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[握るぜ!! 海太郎‼]]></description>
       <content:encoded><![CDATA[握るぜ!! 海太郎‼]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/10</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[漬け太郎、大炎上!!]]></description>
       <content:encoded><![CDATA[漬け太郎、大炎上!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/9</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[漬け上等!!]]></description>
       <content:encoded><![CDATA[漬け上等!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/8</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[シメンぞ、ゴラァ!!]]></description>
       <content:encoded><![CDATA[シメンぞ、ゴラァ!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/7</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[あら汁　荒川　荒療治!!]]></description>
       <content:encoded><![CDATA[あら汁　荒川　荒療治!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/6</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[巻き物上等!!]]></description>
       <content:encoded><![CDATA[巻き物上等!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/5</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[巻き物上等!!]]></description>
       <content:encoded><![CDATA[巻き物上等!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/4</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[仁義理の海太郎]]></description>
       <content:encoded><![CDATA[仁義理の海太郎]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/3</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[仁義理の海太郎]]></description>
       <content:encoded><![CDATA[仁義理の海太郎]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/2</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[仁義理の海太郎]]></description>
       <content:encoded><![CDATA[仁義理の海太郎]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/umitaro/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

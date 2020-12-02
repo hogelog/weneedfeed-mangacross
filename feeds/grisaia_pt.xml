@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/grisaia_pt.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/grisaia_pt.xml" rel="self"/>
     <description><![CDATA[学園美少女バイオレンス!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1回]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[第1話 超法規組織SORD]]></description>
       <content:encoded><![CDATA[第1話 超法規組織SORD]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/grisaia_pt/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/uvc_DMd7cxNdCPiG1wfHFJ89GyVTq5-2t0Gj2pBUgHA/episode_ogp/original.jpg?1530285775" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

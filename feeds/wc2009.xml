@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/wc2009.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/wc2009.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:33 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[どらコン！]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[第29話 絆の実]]></description>
       <content:encoded><![CDATA[第29話 絆の実]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/wc2009/24</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

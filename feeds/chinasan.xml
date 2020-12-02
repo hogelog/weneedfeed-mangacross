@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/chinasan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/chinasan.xml" rel="self"/>
     <description><![CDATA[異文化交流中国OL４コマ！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:22 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第3話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[日本人の三国志愛って…]]></description>
       <content:encoded><![CDATA[日本人の三国志愛って…]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/chinasan/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/mGCB9RvDUrZL963bm5mKywFyHkId2aJdal49Fl18OUI/episode_ogp/original.jpg?1530286273" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[中国人のイメージって？]]></description>
       <content:encoded><![CDATA[中国人のイメージって？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/chinasan/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/uiRb-3A4fWlzmbq6qx3N9qIpq75UoKVXRssJssxombc/episode_ogp/original.jpg?1530286267" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[隣の席のチャイナさん]]></description>
       <content:encoded><![CDATA[隣の席のチャイナさん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/chinasan/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/B7T4v_SIWoJXZdkz1_a2oLo1J6_eHRIaIlJJusWmu7g/episode_ogp/original.jpg?1530286261" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

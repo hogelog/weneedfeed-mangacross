@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/smiling.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/smiling.xml" rel="self"/>
     <description><![CDATA[二人が起こす奇蹟の夏物語]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:20 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[ACT.1]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[始まりの風]]></description>
       <content:encoded><![CDATA[始まりの風]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/smiling/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/UrVFkDGX1R3S4MTO5tdphN2z_ql5spgqgwe15y39qDs/episode_ogp/original.png?1550479384" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/rororro.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/rororro.xml" rel="self"/>
     <description><![CDATA[すぐ脱ぐポンコツロボコメ♥]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:08 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[ver.0.5]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[さらばイチカ! 友情の行方と突然の別れ!!]]></description>
       <content:encoded><![CDATA[さらばイチカ! 友情の行方と突然の別れ!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rororro/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/kRElzmJMSXwP6cK7Mexd4lFz_GBSCBD3cxuVZMS0y9A/episode_ogp/original.jpg?1530328484" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[危機一髪! 初めての家宅捜索!!]]></description>
       <content:encoded><![CDATA[危機一髪! 初めての家宅捜索!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rororro/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/14r4lYeyyMMsho09ycS6VQh2fOFBheHhhyKJVy_cNYA/episode_ogp/original.jpg?1530328477" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[恐怖! 水辺に漂う死の香り!!]]></description>
       <content:encoded><![CDATA[恐怖! 水辺に漂う死の香り!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rororro/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/wpEh7oYJrzO-JdBMZUIm6PVUw3VLTGWOfEv_NYsKvZY/episode_ogp/original.jpg?1530328470" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[一触即発! 少女たちの悲しい過去]]></description>
       <content:encoded><![CDATA[一触即発! 少女たちの悲しい過去]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rororro/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/gV0or3kngfHup--7JZnWKFl4G9dh5u3uzh6Uuz6vIbg/episode_ogp/original.jpg?1530328463" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[起動! 出会って速攻お友達!?]]></description>
       <content:encoded><![CDATA[起動! 出会って速攻お友達!?]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rororro/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fw6ul0RwH_su1h5pZkfcxzWr8paprxFHJqp3vhwdh7c/episode_ogp/original.jpg?1530328454" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

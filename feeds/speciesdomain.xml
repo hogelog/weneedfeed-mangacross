@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/speciesdomain.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/speciesdomain.xml" rel="self"/>
     <description><![CDATA[青春群像亜人ラブコメ]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:23 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[最終話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[スピーシーズドメイン]]></description>
       <content:encoded><![CDATA[スピーシーズドメイン]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/77</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[風森さんと大機くん]]></description>
       <content:encoded><![CDATA[風森さんと大機くん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/76</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[知らない大機くん]]></description>
       <content:encoded><![CDATA[知らない大機くん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/75</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[動かす大機くん]]></description>
       <content:encoded><![CDATA[動かす大機くん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/74</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[目覚める風森さん]]></description>
       <content:encoded><![CDATA[目覚める風森さん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/73</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[狙われたジンくん]]></description>
       <content:encoded><![CDATA[狙われたジンくん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/72</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[伝えたい風森さん]]></description>
       <content:encoded><![CDATA[伝えたい風森さん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/71</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[気付いた風森さん]]></description>
       <content:encoded><![CDATA[気付いた風森さん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/70</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[奮い立つ風森さん]]></description>
       <content:encoded><![CDATA[奮い立つ風森さん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/69</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[向き合う風森さん]]></description>
       <content:encoded><![CDATA[向き合う風森さん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/speciesdomain/68</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

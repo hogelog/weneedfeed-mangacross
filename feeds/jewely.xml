@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/jewely.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/jewely.xml" rel="self"/>
     <description><![CDATA[鉱物命のドS美少年×カフェ店員]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:26 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[最終話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/24</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/23</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/22</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/21</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/20</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/akGrCUDRxkxZE3UarmM_PtQEnWjG3qEbZs29PKqSI2I/episode_ogp/original.png?1559012859" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/19</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/mLwP9kUeVrok7j3qNAfNiQHgkHyPHs7htJfBM_rjykk/episode_ogp/original.png?1557726755" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/18</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/c3KFY-sad0hKt7o6oszFyxbhsb3S9vxDOoZi2JxiD0I/episode_ogp/original.png?1555901918" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/17</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6cDGR4SJM_o-PgBoNQpehj33shb8MgWM2aRZhimC2Qo/episode_ogp/original.png?1554441772" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/16</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/hY4oJ_oCalma7mDL7GO-SZSJrfz8pyvRspF3EvJL-zM/episode_ogp/original.png?1553223290" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/jewely/15</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZbtwimBdy-qRId3G5JFZz1rCsbFQzIvUNqMIUw-at7A/episode_ogp/original.png?1552373750" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

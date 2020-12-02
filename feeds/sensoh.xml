@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/sensoh.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/sensoh.xml" rel="self"/>
     <description><![CDATA[ほろり味の昭和初期グルメ]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:16 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[その15]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 最終回]]></description>
       <content:encoded><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 最終回]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensoh/15</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Yx5hDPf5csLIOE1BhdwKdNN-Kb--qI-QaO39AlPSoTA/episode_ogp/original.png?1534410326" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 後編]]></description>
       <content:encoded><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 後編]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensoh/14</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/razQVtYoaVhYShNBwKDkUWhSM1PgzxluVNIh4dRy324/episode_ogp/original.png?1533809581" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 中編]]></description>
       <content:encoded><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 中編]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensoh/13</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/VJrkw_Pkd-nY9yhP5_h9se48E5LWcdZm7jQKipOkQWA/episode_ogp/original.png?1533191163" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 前編]]></description>
       <content:encoded><![CDATA[スペシャルエピソード 真珠湾のスキヤキ 前編]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensoh/12</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/aDMrPFNZQGbG-eFo5CkRrh0ISWqizrphcLuKuDaY9Nk/episode_ogp/original.jpg?1532504036" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[スペシャル話 幻のカツ丼 前編]]></description>
       <content:encoded><![CDATA[スペシャル話 幻のカツ丼 前編]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensoh/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zgcedLiwKdoiHfxrx9U-DD--wKJ-4UKb0ARRIwl_5-w/episode_ogp/original.jpg?1530280714" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

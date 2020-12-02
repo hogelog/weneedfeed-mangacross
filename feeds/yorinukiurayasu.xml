@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/yorinukiurayasu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yorinukiurayasu.xml" rel="self"/>
     <description><![CDATA[ご存知、日本最強ギャグ!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:42 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第88話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[10ヤニ：ピノキオは何処へ？]]></description>
       <content:encoded><![CDATA[10ヤニ：ピノキオは何処へ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/88</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[10らむ：生クリスマス]]></description>
       <content:encoded><![CDATA[10らむ：生クリスマス]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/87</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[10糞：うんち]]></description>
       <content:encoded><![CDATA[10糞：うんち]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/86</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[10汗：夏の痰壺]]></description>
       <content:encoded><![CDATA[10汗：夏の痰壺]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/85</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[10ガキ：モアイの秘密]]></description>
       <content:encoded><![CDATA[10ガキ：モアイの秘密]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/84</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[10打撲：テーズ屋]]></description>
       <content:encoded><![CDATA[10打撲：テーズ屋]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/83</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[10ノラ：近所ネタ]]></description>
       <content:encoded><![CDATA[10ノラ：近所ネタ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/82</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[9ベム：耳の奥]]></description>
       <content:encoded><![CDATA[9ベム：耳の奥]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/81</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[9ドイツ：ふたりんぐ]]></description>
       <content:encoded><![CDATA[9ドイツ：ふたりんぐ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/80</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[9ヤニ：トムマン]]></description>
       <content:encoded><![CDATA[9ヤニ：トムマン]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yorinukiurayasu/79</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

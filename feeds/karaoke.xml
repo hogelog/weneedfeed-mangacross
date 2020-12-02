@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/karaoke.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/karaoke.xml" rel="self"/>
     <description><![CDATA[ENJOYカラオケまんが！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:30 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第5話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[出会いのカラオケ]]></description>
       <content:encoded><![CDATA[出会いのカラオケ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/yc67B1loHVrtpkxqPqel8TwxzkHusTTmftM2Kv0tQGI/episode_ogp/original.jpg?1530287278" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[遠隔のカラオケ]]></description>
       <content:encoded><![CDATA[遠隔のカラオケ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/mbuKT0eYLe74xRxmF1DRKHARGq8YYJkZmhABbOXhWBs/episode_ogp/original.jpg?1530287274" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[食べ過ぎのカラオケ]]></description>
       <content:encoded><![CDATA[食べ過ぎのカラオケ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/xpnAHnImOIhpYYua_w9karGYtFMLM-JJTEbAgwmG7QY/episode_ogp/original.jpg?1530287270" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[孤独のカラオケ]]></description>
       <content:encoded><![CDATA[孤独のカラオケ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/bPLt3BDdsQ_OGmlMv8AR1sF2ktWUZaX99Z_wiuGWEgI/episode_ogp/original.jpg?1530287266" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[私のカラオケ]]></description>
       <content:encoded><![CDATA[私のカラオケ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/karaoke/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/F7q97qFO6Duekirx-jheq2MqEqvrmxrlKIxEHtUuf5k/episode_ogp/original.jpg?1530287262" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/czr.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/czr.xml" rel="self"/>
     <description><![CDATA[大ヒット映画を新生コミカライズ!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:42 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話（後編）]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[鴉の学校]]></description>
       <content:encoded><![CDATA[鴉の学校]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/czr/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/OCNOM2Om6eSX9qzSm0VemCbiB0k3UfLBtQzKzzChe7w/episode_ogp/original.png?1559552210" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[鴉の学校]]></description>
       <content:encoded><![CDATA[鴉の学校]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/czr/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/LBtI281W9sbcms60s8ySTx_sp9d8ZjwzTynmX8hNLC0/episode_ogp/original.png?1559551960" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[鴉の学校]]></description>
       <content:encoded><![CDATA[鴉の学校]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/czr/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RTBi_h7kp6T1PYSyuBbKHPIDusSeG5lykyoRppAiY-I/episode_ogp/original.png?1559551721" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

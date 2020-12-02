@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/takakura.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/takakura.xml" rel="self"/>
     <description><![CDATA[不器用だけどカッコいい!?]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:25 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別ショート]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[高倉くんとジャンプ]]></description>
       <content:encoded><![CDATA[高倉くんとジャンプ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/takakura/11</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/oKFGKJBl20oCdMnrLbmYVbCgQrb-5q9_mMBa2ZTOqOQ/episode_ogp/original.jpg?1530284686" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[高倉くんと動物Ｒ]]></description>
       <content:encoded><![CDATA[高倉くんと動物Ｒ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/takakura/10</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/dnrI0MCevia5OivwnPQOfhOXRbHmFV21Dz1kqiUjDiw/episode_ogp/original.jpg?1530284684" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[ 高倉くんと仲介]]></description>
       <content:encoded><![CDATA[ 高倉くんと仲介]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/takakura/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Op14jTBwQFmgU6mgrHMPA9gWt8sEW2MxKSw4cXQQrZ8/episode_ogp/original.jpg?1530284681" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[高倉くん]]></description>
       <content:encoded><![CDATA[高倉くん]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/takakura/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/8I3qH9XNNwiP6Pw1ftlQnzbeigOyTPlsLn40zTH4DUU/episode_ogp/original.jpg?1530284638" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/renoreno.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/renoreno.xml" rel="self"/>
     <description><![CDATA[超無理しない、結婚のヒケツ]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:05 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/uS3mozY2ldR3FvRchorZGP-e7Y-1nb8nVbgEc6AQLQE/episode_ogp/original.png?1533264960" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/8</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/C8PX_R1HNUDBO4H9PO82AwxSO0VSj92BFeLTrTYqFBA/episode_ogp/original.jpg?1530328735" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/7</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/T25ENP0r5_R0wtiI67Nt-1q480tmz-Oz53xTTVNEhfc/episode_ogp/original.jpg?1530328732" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/6</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/h1FB9WkhtmGkI3z0fDWp_iOghFvZsDX6X80Ms9ulzb0/episode_ogp/original.jpg?1530328728" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/1lAhsCSMsbsY_iCw0fCdChwhTrROjvs6zLsotfhc27U/episode_ogp/original.jpg?1530328725" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/itFDOGh-qV8sLMmaVcwBD__sjBNOUD8QG-vlIOKE5Gs/episode_ogp/original.jpg?1530328722" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Eu4PXNIrRCJB87kc98HyLB4_4s8y1rwH-uPrmoRUBu0/episode_ogp/original.jpg?1530328719" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/t8jEYMJuQHX71mTAL7IMXm1r55BYty8VWE9b8_FmsSs/episode_ogp/original.jpg?1530328716" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/renoreno/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rliwnE-lld1GeGGiR-chB5b03XPgbt-Q-owJz4TN95w/episode_ogp/original.jpg?1530328713" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

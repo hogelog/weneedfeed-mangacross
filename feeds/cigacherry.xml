@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/cigacherry.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/cigacherry.xml" rel="self"/>
     <description><![CDATA[この先輩…控えめに言って、最高です！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:27 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[EPILOGUE]]></description>
       <content:encoded><![CDATA[EPILOGUE]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/128</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[それぞれの幸せ]]></description>
       <content:encoded><![CDATA[それぞれの幸せ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/127</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[よくがんばったね]]></description>
       <content:encoded><![CDATA[よくがんばったね]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/126</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[コンタクト]]></description>
       <content:encoded><![CDATA[コンタクト]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/PO1kSrTiYuQ08eF_C1-GdQHaiJsHqOi4NIriZoHB-v4/episode_ogp/original.jpg?1530286042" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[無邪気なイタズラ]]></description>
       <content:encoded><![CDATA[無邪気なイタズラ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rdq9-2tZjRbACPDyqdIeWpzCb0XKByz1um-0LRDwN_A/episode_ogp/original.jpg?1530286035" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[入学]]></description>
       <content:encoded><![CDATA[入学]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/3NU9NtdJtUSlfzuZANOoeNaAQ7nb8U7OiuvKNoGHtow/episode_ogp/original.jpg?1530286026" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

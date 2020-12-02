@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/shy.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shy.xml" rel="self"/>
     <description><![CDATA[恥ずかしがり屋のヒーロー譚！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:19 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[なんつって]]></description>
       <content:encoded><![CDATA[なんつって]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/24</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[さぷらいず]]></description>
       <content:encoded><![CDATA[さぷらいず]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/23</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[アルコホリックと呼ばないで]]></description>
       <content:encoded><![CDATA[アルコホリックと呼ばないで]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/22</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[ありったけの心で]]></description>
       <content:encoded><![CDATA[ありったけの心で]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/7</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[呪い]]></description>
       <content:encoded><![CDATA[呪い]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/6</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[ヒーローの使命]]></description>
       <content:encoded><![CDATA[ヒーローの使命]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/5</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[ヒーローの使命]]></description>
       <content:encoded><![CDATA[ヒーローの使命]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/4</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[シャイなので]]></description>
       <content:encoded><![CDATA[シャイなので]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/3</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[シャイなので]]></description>
       <content:encoded><![CDATA[シャイなので]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/2</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[シャイなので]]></description>
       <content:encoded><![CDATA[シャイなので]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/shy/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

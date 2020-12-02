@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/strawberry.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/strawberry.xml" rel="self"/>
     <description><![CDATA[こじらせ女子のガールズトーク]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:24 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[コミックス発売記念読切！]]></description>
       <content:encoded><![CDATA[コミックス発売記念読切！]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/strawberry/11</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fdNZUZNEdu-9RAYFZXCrwuCYYXuPngMrVvn-6WHDP-k/episode_ogp/original.jpg?1530326870" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/strawberry/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/DeByL7dbEMy4nA0Gkf8_8dBQc2_Bx5dyHSz49s1bov4/episode_ogp/original.jpg?1530326750" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/dolphin.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
     <description><![CDATA[実話にもとづく横浜暴走族浪漫！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:50 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第二章 第五十二話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[意地]]></description>
       <content:encoded><![CDATA[意地]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/97</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[因縁]]></description>
       <content:encoded><![CDATA[因縁]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/96</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[大歓迎]]></description>
       <content:encoded><![CDATA[大歓迎]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/95</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[友達]]></description>
       <content:encoded><![CDATA[友達]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/q54a0PC7xvfy-fp_5r50KETYpv2gou1erTwIKN1suC0/episode_ogp/original.jpg?1530277470" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[覚醒]]></description>
       <content:encoded><![CDATA[覚醒]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Dx_JpUlZ7_mjr1GKT3lKGur2TIyKMejbWzc4fFDBo9s/episode_ogp/original.jpg?1530277453" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[殺人拳法]]></description>
       <content:encoded><![CDATA[殺人拳法]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/k0wzUFeMazfS6dmXunisZvPS-Vc3T6KI-r07dqsA-Dc/episode_ogp/original.jpg?1530277439" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

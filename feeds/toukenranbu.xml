@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/toukenranbu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/toukenranbu.xml" rel="self"/>
     <description><![CDATA[刀剣男士の日常たっぷり！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:26 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第5回]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[刀剣男士たちの矜持／風都ノリ]]></description>
       <content:encoded><![CDATA[刀剣男士たちの矜持／風都ノリ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/lFh_5ozkg1M0iTTVb_b-7-yeVypZJQesgs47WFZwvaQ/episode_ogp/original.jpg?1530287370" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[本丸学校で体験授業／まゆむし]]></description>
       <content:encoded><![CDATA[本丸学校で体験授業／まゆむし]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ViwkgbbEAVnEkTY5eo89f4SWiKhZ93s1Go5Ru1d3rxM/episode_ogp/original.jpg?1530287365" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[ある夏の一幕／フク]]></description>
       <content:encoded><![CDATA[ある夏の一幕／フク]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/87F6ietABhjYvVtVlCusCAozRIMGqvA4NMOnO5DFWME/episode_ogp/original.jpg?1530287360" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[岩融の奔走／理央]]></description>
       <content:encoded><![CDATA[岩融の奔走／理央]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/hqZgAn2ULq3pfWL_0ClmMa2AJNe7Yea_15LNQ1Ahdvc/episode_ogp/original.jpg?1530287355" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[ほかほか記念日／みなもと悠]]></description>
       <content:encoded><![CDATA[ほかほか記念日／みなもと悠]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Eon5LVPLV33oQ-x8MWnid-XkxDKneEhdG6b-IDOYGZM/episode_ogp/original.jpg?1530287350" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

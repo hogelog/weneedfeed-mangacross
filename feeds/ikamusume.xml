@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/ikamusume.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ikamusume.xml" rel="self"/>
     <description><![CDATA[人類征服コメディー！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:21 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第6話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[天敵じゃなイカ？]]></description>
       <content:encoded><![CDATA[天敵じゃなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/6</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-L4LiltF0XssIs8hWFdv1oGpH1BkSbgA-PPbLykNetA/episode_ogp/original.png?1555655557" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[好機じゃなイカ？]]></description>
       <content:encoded><![CDATA[好機じゃなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-KTy-clJGutrsr-lWrXZ2Etr_T03ldwqNv1m2qztpog/episode_ogp/original.png?1555655173" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[侵略しなイカ？]]></description>
       <content:encoded><![CDATA[侵略しなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/1WgXLduQL9zdoT-R_EU31GwwmXtFG-IBT5sEDr32ezk/episode_ogp/original.png?1555650463" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[拾わなイカ？]]></description>
       <content:encoded><![CDATA[拾わなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/pDj0socEjOOvJ2tsqtYo7-rVG-IfHQYm96NGAainYLM/episode_ogp/original.png?1555653095" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[逃げなイカ？]]></description>
       <content:encoded><![CDATA[逃げなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6YwsCP8rUScq7OOZ4pavxhAW7nSDzJLgHUum8SYwiwE/episode_ogp/original.png?1555651994" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[吐かなイカ？]]></description>
       <content:encoded><![CDATA[吐かなイカ？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ikamusume/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/7FLgErBK-o-djUMKZGTIfFWWewdBnKkgFkPcfeyMQ7Q/episode_ogp/original.png?1555651200" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

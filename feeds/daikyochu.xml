@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/daikyochu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/daikyochu.xml" rel="self"/>
     <description><![CDATA[昆虫パニック漫画、新章突入!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:44 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第17話（前編）]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[水中の狩人]]></description>
       <content:encoded><![CDATA[水中の狩人]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/34</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[キリング・ボトル]]></description>
       <content:encoded><![CDATA[キリング・ボトル]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/33</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[会敵]]></description>
       <content:encoded><![CDATA[会敵]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/lDXsCRooKqh_oDxxwd8bWLOL8iuhRKoUrS4_tsTyHAw/episode_ogp/original.png?1556075799" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

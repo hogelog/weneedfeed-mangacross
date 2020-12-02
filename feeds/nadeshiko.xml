@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/nadeshiko.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/nadeshiko.xml" rel="self"/>
     <description><![CDATA[過激Ｈ(ホーム)コメディ!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:48 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[出会いは雨の中]]></description>
       <content:encoded><![CDATA[出会いは雨の中]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nadeshiko/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/e-yuRAR7P-KRQvKYz_EfJLnd0fCLSFhGcKQAkz4e_go/episode_ogp/original.jpg?1530285682" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/aomori.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/aomori.xml" rel="self"/>
     <description><![CDATA[他には無い青森グルメまんが！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:56:03 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第63話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[へっちょこ汁]]></description>
       <content:encoded><![CDATA[へっちょこ汁]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/63</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[倉石牛]]></description>
       <content:encoded><![CDATA[倉石牛]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/62</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[棒パン]]></description>
       <content:encoded><![CDATA[棒パン]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/61</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[つがる豚]]></description>
       <content:encoded><![CDATA[つがる豚]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/60</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[ナスのしそ巻き]]></description>
       <content:encoded><![CDATA[ナスのしそ巻き]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/59</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[中泊メバル]]></description>
       <content:encoded><![CDATA[中泊メバル]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/58</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[清水森ナンバ]]></description>
       <content:encoded><![CDATA[清水森ナンバ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/57</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[いちご煮]]></description>
       <content:encoded><![CDATA[いちご煮]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/56</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[平川サガリ]]></description>
       <content:encoded><![CDATA[平川サガリ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/55</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[せんべい汁]]></description>
       <content:encoded><![CDATA[せんべい汁]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/VwbNCZ_p1YK2UpX8ECNGtJWv1tjnd66GaEUACAgPzvU/episode_ogp/original.jpg?1530287340" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

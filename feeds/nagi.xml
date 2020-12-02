@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/nagi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/nagi.xml" rel="self"/>
     <description><![CDATA[大島凪28歳の、人生リセットコメディ!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:49 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第3話 後編]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/7</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RDItOMV7SmXtR9TNLor2uf47AzpKGmoQlPZ7JaQsHok/episode_ogp/original.png?1541666853" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/6</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/LQopf8BzpJ3YAzgfbm9cpbpsdqe8czn8RS1j8_ssIMw/episode_ogp/original.png?1541665904" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6dY2SUxCnEPXOEZon-BhpE7fV9ksTMfmGdP2gwnmA80/episode_ogp/original.png?1541666384" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/4</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/VWhj4Q7X1AWTz_CPTxpWpYYndPJy5JUdCBK4gW-GXVc/episode_ogp/original.png?1541664853" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/q6BQ4kNEXUU53_3VZnvQpDzRi8mmc7TkdxhymvpMogI/episode_ogp/original.png?1541664030" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/8I8qW3qANPFDZrJq_CwJ_JBfr_gKMfzR0955kRgAZjQ/episode_ogp/original.png?1541580345" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/nagi/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/0sPPRjPWn5SdoErFn6Rj6lN5OkY3HgNOg90oCYic5As/episode_ogp/original.png?1541664491" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

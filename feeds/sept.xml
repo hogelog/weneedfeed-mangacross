@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/sept.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/sept.xml" rel="self"/>
     <description><![CDATA[新魔法少女悲劇譚!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:58:16 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[Shift.1]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[2人の少女]]></description>
       <content:encoded><![CDATA[2人の少女]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sept/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/06Ckfl22B0dnQ3jfmDZDrvOAHinYH7tverY5gg53Mds/episode_ogp/original.jpg?1530328490" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

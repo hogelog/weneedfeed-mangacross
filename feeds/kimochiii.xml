@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/kimochiii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kimochiii.xml" rel="self"/>
     <description><![CDATA[気持ちよさを求める実録漫画！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:35 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[海ご飯]]></description>
       <content:encoded><![CDATA[海ご飯]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/20</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[砂風呂]]></description>
       <content:encoded><![CDATA[砂風呂]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/19</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[山ご飯]]></description>
       <content:encoded><![CDATA[山ご飯]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/18</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -51,6 +60,9 @@
       <description><![CDATA[貸し切りサウナ]]></description>
       <content:encoded><![CDATA[貸し切りサウナ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/17</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -62,6 +74,9 @@
       <description><![CDATA[すき間ヨガ]]></description>
       <content:encoded><![CDATA[すき間ヨガ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/16</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -73,6 +88,9 @@
       <description><![CDATA[フルーツ生活]]></description>
       <content:encoded><![CDATA[フルーツ生活]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/15</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -84,6 +102,9 @@
       <description><![CDATA[鍼・灸・吸い玉]]></description>
       <content:encoded><![CDATA[鍼・灸・吸い玉]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/14</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -95,6 +116,9 @@
       <description><![CDATA[もふもふ]]></description>
       <content:encoded><![CDATA[もふもふ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/13</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -106,6 +130,9 @@
       <description><![CDATA[ハードボイルドウォーキング]]></description>
       <content:encoded><![CDATA[ハードボイルドウォーキング]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/12</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -117,6 +144,9 @@
       <description><![CDATA[チェアリング]]></description>
       <content:encoded><![CDATA[チェアリング]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/11</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>

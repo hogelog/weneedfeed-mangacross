@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/hosihime.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hosihime.xml" rel="self"/>
     <description><![CDATA[ちょっとHなド田舎ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:05 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[オトナの内緒話02]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[部活と秘密の隠れ場所]]></description>
       <content:encoded><![CDATA[部活と秘密の隠れ場所]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hosihime/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qf_079dp-7WeK8TUFJQ2XBW9xT-3adm4RBFknnK2E2U/episode_ogp/original.jpg?1533015797" length="0" type="image/jpeg"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[新たな出会いと新生活]]></description>
       <content:encoded><![CDATA[新たな出会いと新生活]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hosihime/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/FH98t2uGK60DuEjxIIr5-igoEw6tvq8Qc89jgS9XEd0/episode_ogp/original.jpg?1531107936" length="0" type="image/jpeg"/>
+      
     </item>
     
   </channel>

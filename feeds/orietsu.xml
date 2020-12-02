@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/orietsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
     <description><![CDATA[サブキャラ・織津江大志活躍！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 18:57:55 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第9話]]></title>
@@ -18,6 +18,9 @@
       <description><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></description>
       <content:encoded><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/9</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -29,6 +32,9 @@
       <description><![CDATA[魚と虫と木の実はサバイバル食の基本]]></description>
       <content:encoded><![CDATA[魚と虫と木の実はサバイバル食の基本]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/8</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
     <item>
@@ -40,6 +46,9 @@
       <description><![CDATA[異世界転移とか冗談じゃないですよ]]></description>
       <content:encoded><![CDATA[異世界転移とか冗談じゃないですよ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/1</guid>
+      
+        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+      
     </item>
     
   </channel>
