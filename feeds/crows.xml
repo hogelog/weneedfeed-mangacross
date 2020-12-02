@@ -7,7 +7,18 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Tue, 01 Dec 2020 15:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:09:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第63話②]]></title>
+      <link>https://mangacross.jp/comics/crows/240</link>
+      
+        <pubDate>Wed, 02 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[アンモ！]]></description>
+      <content:encoded><![CDATA[アンモ！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/240</guid>
+    </item>
     
     <item>
       <title><![CDATA[第63話①]]></title>
@@ -29,17 +40,6 @@
       <description><![CDATA[黒焚連合幹部会！]]></description>
       <content:encoded><![CDATA[黒焚連合幹部会！]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/238</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第62話①]]></title>
-      <link>https://mangacross.jp/comics/crows/237</link>
-      
-        <pubDate>Wed, 25 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[黒焚連合幹部会！]]></description>
-      <content:encoded><![CDATA[黒焚連合幹部会！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/237</guid>
     </item>
     
     <item>
