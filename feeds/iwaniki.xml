@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/iwaniki.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/iwaniki.xml" rel="self"/>
     <description><![CDATA[神話レベルの”愛”のおはなし。]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:05:52 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第5話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[米粒と百人の神様]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/iwaniki/5</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/PmGCnXv4PYflMBMnXyfTPvL1Nli8kSl98XfFzvh6Fm8/image/original.jpg?1530328347" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[イワとニキの新婚旅行(後編)]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/iwaniki/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/jIPeJXlG66-8PX_qZWa5UUGe5VM725AgyLCbAZ-ZgVs/episode_ogp/original.jpg?1530328306" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/wpLKtXpZXmfB5A-1vtO5z7B-XqkCc6vAxSTi-EXsG-Y/image/original.jpg?1530328306" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[イワとニキの新婚旅行(前編)]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/iwaniki/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/kUxgjq3fP7GXCMHeqMnYX0zJqii5BQoOxnMX_YsaaFE/episode_ogp/original.jpg?1530328286" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/AkZNUX3Qx8k_8sMqBsuxb2M01sKZj6nqwEIND0pucSc/image/original.jpg?1530328286" length="0" type="image/jpeg"/>
       
     </item>
     

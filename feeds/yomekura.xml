@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/yomekura.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yomekura.xml" rel="self"/>
     <description><![CDATA[ハートフル・エンゲージコメディ!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:07:02 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[EPISODE.1（後編）]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[それ、本気なんですか!?]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yomekura/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/XYrZkQmJK4xqs3fQhwf2iCVYN3R0UmelENWUF_q5OpA/episode_ogp/original.png?1551856724" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/XYrZkQmJK4xqs3fQhwf2iCVYN3R0UmelENWUF_q5OpA/episode_thumbnail/thumb_double.jpg?1551856724" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[それ、本気なんですか!?]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yomekura/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/29aDYZrFDbGT-N3Ayf3KRUGWfSSz5Qss2zUf9iRV2Bw/episode_ogp/original.png?1551855665" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/29aDYZrFDbGT-N3Ayf3KRUGWfSSz5Qss2zUf9iRV2Bw/episode_thumbnail/thumb_double.jpg?1551855665" length="0" type="image/jpeg"/>
       
     </item>
     

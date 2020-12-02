@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/yui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yui.xml" rel="self"/>
     <description><![CDATA[妖美なる吸血姫浪漫、完結編]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:07:06 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/yui/1</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/afRCyk1mVGiL2iVCTHffICwFNmzxLThNXGe-yQlOvcY/image/original.jpg?1530286422" length="0" type="image/jpeg"/>
       
     </item>
     

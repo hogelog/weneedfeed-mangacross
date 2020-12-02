@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/oshi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/oshi.xml" rel="self"/>
     <description><![CDATA[オタク男子が恋の応援⁉︎]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:23 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[番外編]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[甘い？約束]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/oshi/25</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/vKX_krycr7r--dgfzk1iZszXdGdcfGxqYmhA1Rh6QnI/episode_thumbnail/thumb_double.png?1571380707" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/oshi/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/TNiFpnAIRJ1wPEYpCYdWOagcjcHp_cZOlkJJMdLGEjg/episode_ogp/original.jpg?1530328767" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/TNiFpnAIRJ1wPEYpCYdWOagcjcHp_cZOlkJJMdLGEjg/episode_thumbnail/thumb_double.jpg?1538367569" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/oshi/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/ywObF5nJpRYoZAIdcM1i5JupnS_2k_whsoqfR4_U3E0/episode_ogp/original.jpg?1530328752" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/ywObF5nJpRYoZAIdcM1i5JupnS_2k_whsoqfR4_U3E0/episode_thumbnail/thumb_double.png?1572935231" length="0" type="image/png"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/oshi/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/pie-sd_SfI_AoFt-Ay57aN8PbOJXV_b5Op4ycVzOYVs/episode_ogp/original.jpg?1530328738" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/pie-sd_SfI_AoFt-Ay57aN8PbOJXV_b5Op4ycVzOYVs/episode_thumbnail/thumb_double.png?1572935310" length="0" type="image/png"/>
       
     </item>
     

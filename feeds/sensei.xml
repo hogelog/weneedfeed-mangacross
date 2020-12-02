@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/sensei.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/sensei.xml" rel="self"/>
     <description><![CDATA[教師と生徒の禁断恋愛]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:39 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第2話（前編）]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensei/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/nvoWBI4FyspJthrjvCW7FF0VMJq5ii5G30ulBda3eO8/episode_ogp/original.png?1543886193" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/nvoWBI4FyspJthrjvCW7FF0VMJq5ii5G30ulBda3eO8/episode_thumbnail/thumb_double.jpg?1543886193" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/sensei/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/X2-qg7Z-FPE1XjgZ-jBSOsc2zUZlt8i-Zo6jBSTBU7U/episode_ogp/original.png?1543885997" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/X2-qg7Z-FPE1XjgZ-jBSOsc2zUZlt8i-Zo6jBSTBU7U/episode_thumbnail/thumb_double.jpg?1543885997" length="0" type="image/jpeg"/>
       
     </item>
     

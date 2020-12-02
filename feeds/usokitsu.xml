@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:53 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第2話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[雨の帰り道]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/2</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/UHYgJcqcS4nbGwyE9ibc53Lk1SDHqnF7QzwZj7VGFt0/episode_thumbnail/thumb_double.png?1606271791" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[さくらともみじ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/1</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/mqvvWi7Dv1EObLzRor485FZ3KftsQfxFKv-AzPUiz40/episode_thumbnail/thumb_double.png?1603180965" length="0" type="image/png"/>
       
     </item>
     

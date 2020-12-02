@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/kyochuretto.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kyochuretto.xml" rel="self"/>
     <description><![CDATA[巨大昆虫パニック!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:04 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第21話（後編）]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[挟撃]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kyochuretto/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/NY63z__B3a64JTfUBPv_ONyXWdlO0Vrwijr20UMWXuE/episode_ogp/original.png?1547530994" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/NY63z__B3a64JTfUBPv_ONyXWdlO0Vrwijr20UMWXuE/episode_thumbnail/thumb_double.jpg?1547530994" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[挟撃]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kyochuretto/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/R4z_NmAtAOXzbfYegwu1pjpaZnCpEa7iO0O_zAzE1kg/episode_ogp/original.png?1545809741" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/R4z_NmAtAOXzbfYegwu1pjpaZnCpEa7iO0O_zAzE1kg/episode_thumbnail/thumb_double.jpg?1545809741" length="0" type="image/jpeg"/>
       
     </item>
     

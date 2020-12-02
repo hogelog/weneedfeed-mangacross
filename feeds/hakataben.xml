@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:05:25 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第48話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[通りもんは世界一ィィ!!]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/49</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/I1M9BMF7GlcIXFW7Rvw55idN1Z7xzIDCa50vbC01wVU/episode_thumbnail/thumb_double.png?1570769213" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[一日一本ヤクルトを]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/48</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/5NQGyshQkiPk3Y0VA-pz43jALblwrj0b1u_PGXhRUB4/episode_ogp/original.png?1562900195" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/5NQGyshQkiPk3Y0VA-pz43jALblwrj0b1u_PGXhRUB4/episode_thumbnail/thumb_double.jpg?1562900195" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[バリ好いとーよ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/47</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/uoEI_TZbGrV8V7Gidtsx7EiuAcnyMzKUlYlLEXxR18Q/episode_ogp/original.png?1561950106" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/uoEI_TZbGrV8V7Gidtsx7EiuAcnyMzKUlYlLEXxR18Q/episode_thumbnail/thumb_double.jpg?1561950106" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[どうしたらいいとかいな]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/RDJ7UcxeoYoTXYobzvGnjIqh5yFW3yrd10Uu7M2Ap_E/episode_ogp/original.jpg?1530282830" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/RDJ7UcxeoYoTXYobzvGnjIqh5yFW3yrd10Uu7M2Ap_E/episode_thumbnail/thumb_double.png?1577437981" length="0" type="image/png"/>
       
     </item>
     
@@ -75,7 +75,7 @@
       <content:encoded><![CDATA[とっとーと]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/0NkXFoC62KIGGGl5Iw9legPLlwWQsJ4u_1dMAsNX5CQ/episode_ogp/original.jpg?1530282824" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/0NkXFoC62KIGGGl5Iw9legPLlwWQsJ4u_1dMAsNX5CQ/episode_thumbnail/thumb_double.png?1577437926" length="0" type="image/png"/>
       
     </item>
     
@@ -89,7 +89,7 @@
       <content:encoded><![CDATA[博多乃どん子、東京に現わる]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/al7lidNXxIYaQ063w7VuheJdMR0dCFQ4CVbEThZEzkE/episode_ogp/original.jpg?1530282818" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/al7lidNXxIYaQ063w7VuheJdMR0dCFQ4CVbEThZEzkE/episode_thumbnail/thumb_double.png?1577437885" length="0" type="image/png"/>
       
     </item>
     

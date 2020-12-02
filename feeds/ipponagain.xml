@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/ipponagain.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ipponagain.xml" rel="self"/>
     <description><![CDATA[柔道ガールズ・ダイアリー！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:05:49 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第3話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[女神]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ipponagain/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/xI_9xw-WlLYoJ8I3P-lcAtBYaQ0w2-6-mYe_KbibL0Q/episode_ogp/original.png?1548400353" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/xI_9xw-WlLYoJ8I3P-lcAtBYaQ0w2-6-mYe_KbibL0Q/episode_thumbnail/thumb_double.jpg?1548400353" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[ベスト1]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ipponagain/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/NIpSDRMLk9qagJiPHsjTroUQ3P5HxaZ_jR2aDtXsEYU/episode_ogp/original.png?1548399219" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/NIpSDRMLk9qagJiPHsjTroUQ3P5HxaZ_jR2aDtXsEYU/episode_thumbnail/thumb_double.jpg?1548399219" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[いい気持ち]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/ipponagain/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/jS9-CwBp3-_SCHjIb8W-Gncisq-KdaZLEGTuDgHqweU/episode_ogp/original.png?1548397921" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/jS9-CwBp3-_SCHjIb8W-Gncisq-KdaZLEGTuDgHqweU/episode_thumbnail/thumb_double.jpg?1548397921" length="0" type="image/jpeg"/>
       
     </item>
     

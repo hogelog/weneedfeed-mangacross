@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/kanmurisan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kanmurisan.xml" rel="self"/>
     <description><![CDATA[時計店を営むお姉さんの日常]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:05:57 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[ぬるい…]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/20</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/7BOrWESYT3AuokoqHb1_2DWzdrdlq1ecG0CAoLMruPY/episode_thumbnail/thumb_double.png?1605497408" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[気が散るんですが…]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/19</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/VKwDp_ROBxEZqUE6UDPA360RIS66FIbyOmd45el4xz8/episode_thumbnail/thumb_double.png?1604295495" length="0" type="image/png"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[世間は狭いですね]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/18</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/ZpHJMUVdSNUfFoxDBHfwYCe0eSoC3g0PNPX6qQ85J4M/episode_thumbnail/thumb_double.png?1599800371" length="0" type="image/png"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[いらっしゃいませ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/pHlj6ng3qRmbygKfo17mYQ-HcBTUc0ewdwGeegT5SV0/episode_ogp/original.png?1552633626" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/pHlj6ng3qRmbygKfo17mYQ-HcBTUc0ewdwGeegT5SV0/episode_thumbnail/thumb_double.jpg?1552633626" length="0" type="image/jpeg"/>
       
     </item>
     

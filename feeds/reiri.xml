@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/reiri.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/reiri.xml" rel="self"/>
     <description><![CDATA[衝撃の本格戦国時代劇、開幕!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:30 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[雑兵どもの慣例]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/reiri/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/Ob0kspGbrg4O-o2DNDW3yli8vg5pGc6tXmSQi1ywT_c/episode_ogp/original.png?1552028181" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/Ob0kspGbrg4O-o2DNDW3yli8vg5pGc6tXmSQi1ywT_c/episode_thumbnail/thumb_double.jpg?1552028181" length="0" type="image/jpeg"/>
       
     </item>
     

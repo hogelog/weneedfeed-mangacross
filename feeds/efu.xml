@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/efu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/efu.xml" rel="self"/>
     <description><![CDATA[衛府の刃・怨身忍者だ!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:05:18 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第一話 零鬼編一]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[秘境葉隠谷化外者]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/efu/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/juXrAemweFq4ZpI6BGhBbBBU9l9JM6TLC1zjmIxwNZ8/episode_ogp/original.png?1550481658" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/juXrAemweFq4ZpI6BGhBbBBU9l9JM6TLC1zjmIxwNZ8/episode_thumbnail/thumb_double.jpg?1550481658" length="0" type="image/jpeg"/>
       
     </item>
     

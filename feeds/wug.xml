@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/wug.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/wug.xml" rel="self"/>
     <description><![CDATA[人気アニメの新作コミカライズ]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[変われるよ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/wug/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/-9EoRMmIvC41Ir_Bk1dGxOCjWjIiee7k_AvDRtg1DDw/episode_ogp/original.jpg?1530285467" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/0WdXiU-cnu3lS2fwlvTYNZSq3e0PIEV-n30wBmczBf4/image/original.jpg?1530285467" length="0" type="image/jpeg"/>
       
     </item>
     

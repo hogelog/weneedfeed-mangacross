@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/rokudo.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/rokudo.xml" rel="self"/>
     <description><![CDATA[悪女ラブパニック!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:32 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話（後編）]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[平和で楽しい学園生活]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rokudo/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/S6pdnUc2J87u9bSIYGJpkewYYvN6wut_a1Wy_YLKu9U/episode_ogp/original.png?1551423215" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/S6pdnUc2J87u9bSIYGJpkewYYvN6wut_a1Wy_YLKu9U/episode_thumbnail/thumb_double.jpg?1551423215" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[平和で楽しい学園生活]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/rokudo/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/vk5fTJB7_9vQv99DJHkIMdXB42ZxEOy7x6xUQYZDSc0/episode_ogp/original.png?1551422126" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/vk5fTJB7_9vQv99DJHkIMdXB42ZxEOy7x6xUQYZDSc0/episode_thumbnail/thumb_double.jpg?1551422126" length="0" type="image/jpeg"/>
       
     </item>
     

@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/setsunaflick.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/setsunaflick.xml" rel="self"/>
     <description><![CDATA[恋とAIを描く近未来SF]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:41 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[#1]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[ラッキーポイント]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/setsunaflick/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/BC2B48TcsND8VP6c2S-FCbpSfDo1cxdXu8DIhjxJqxM/episode_ogp/original.png?1554089308" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/BC2B48TcsND8VP6c2S-FCbpSfDo1cxdXu8DIhjxJqxM/episode_thumbnail/thumb_double.jpg?1554089308" length="0" type="image/jpeg"/>
       
     </item>
     

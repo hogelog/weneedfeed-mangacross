@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/poko.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/poko.xml" rel="self"/>
     <description><![CDATA[ポコのゆるかわショート!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:24 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第33話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[てるてるいるか]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/33</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/HDmOTpCTAEGOdv-z-HvxzZBino-2tKcIhmUb32utlVg/episode_thumbnail/thumb_double.png?1579252685" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[タレマンボウ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/32</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/BCB_62xCqqrLdVBO93g2yZn4GqBrYeeOfF1WEZA9vaA/episode_thumbnail/thumb_double.png?1579251842" length="0" type="image/png"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[プロペラヒーロー]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/31</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/WkFImaCQwvJZpwxGtd_MdMKh7H0-lfLZRaHFZJJIwNU/episode_thumbnail/thumb_double.png?1579251002" length="0" type="image/png"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[メシフロシャーク]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/30</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/bAGFDgi_bDkGe4jo0rsffK0zLOEw_a5WITsAIH4zjV4/episode_thumbnail/thumb_double.png?1578979998" length="0" type="image/png"/>
       
     </item>
     
@@ -75,7 +75,7 @@
       <content:encoded><![CDATA[空の幸]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/29</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/8nCi0CrvduG6ZKyJv4j8NP5uXabVmKKPt5rdqQ5vA_0/episode_thumbnail/thumb_double.png?1577424297" length="0" type="image/png"/>
       
     </item>
     
@@ -89,7 +89,7 @@
       <content:encoded><![CDATA[ヤコの寝グセ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/17</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/XdpsvTvHRHyqK9XQ7UvC81D_Ql_7H8KrAlIrkGeXlEM/episode_ogp/original.jpg?1530320250" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/-jfB8N2nESzDut5TK6RtEOrHbV3YsFwHgOxFZgqqxLU/image/original.jpg?1530320250" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -103,7 +103,7 @@
       <content:encoded><![CDATA[「打ち合わせ」]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/poko/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/U7cGqS2sn5ASRIf4d-VeQXgXZj94XtBOMYk4GfLpy9w/episode_ogp/original.jpg?1530320211" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/549yHHUar2Xm0AtqTZWjchJgICoBDU1k2vu9bHKW74g/image/original.jpg?1530320211" length="0" type="image/jpeg"/>
       
     </item>
     

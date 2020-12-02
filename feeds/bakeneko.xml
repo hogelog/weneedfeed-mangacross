@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/bakeneko.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/bakeneko.xml" rel="self"/>
     <description><![CDATA[JSとJKと、時々化けネコ。]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:04:35 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第5話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[あの日の制服]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/5</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/QcW2ZIIuSXK4I-oVtYE2YvnhggEqI84fn0Mb64tNMaA/episode_ogp/original.png?1555901631" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/QcW2ZIIuSXK4I-oVtYE2YvnhggEqI84fn0Mb64tNMaA/episode_thumbnail/thumb_double.jpg?1555901631" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[空の決断]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/4</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/pUr9c7xQvRa7dDNOLkXaEEJ2hLVAvOsbIwwctLWgT08/episode_ogp/original.png?1554434037" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/pUr9c7xQvRa7dDNOLkXaEEJ2hLVAvOsbIwwctLWgT08/episode_thumbnail/thumb_double.jpg?1554434037" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[ネコのいる日々]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/fUe_DOS_z5ad1GfZl6Zp4fwa-nlt6b8VlkCUzldCC1M/episode_ogp/original.png?1553235488" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/fUe_DOS_z5ad1GfZl6Zp4fwa-nlt6b8VlkCUzldCC1M/episode_thumbnail/thumb_double.jpg?1553235488" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[ふたりの葉月]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/wqJWh4CJhUsOquc-ftzDdO4Wd3DxQ82onQM9V-RRl3I/episode_ogp/original.png?1552377491" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/wqJWh4CJhUsOquc-ftzDdO4Wd3DxQ82onQM9V-RRl3I/episode_thumbnail/thumb_double.jpg?1552377491" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -75,7 +75,7 @@
       <content:encoded><![CDATA[ふたり暮らしの始まりと終わり]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/bakeneko/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/aCEwSgoT7_VGg6piqUot75LbjLE-YyHKfNAiwVIzbJI/episode_ogp/original.png?1551159120" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/aCEwSgoT7_VGg6piqUot75LbjLE-YyHKfNAiwVIzbJI/episode_thumbnail/thumb_double.jpg?1551159120" length="0" type="image/jpeg"/>
       
     </item>
     

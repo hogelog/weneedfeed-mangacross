@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/toukenranbu2.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/toukenranbu2.xml" rel="self"/>
     <description><![CDATA[刀剣男士の日常をお届け！]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:51 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第4話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu2/4</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/XHAfi8pWASJJWRdVufDHdUGEvbJCetJz6KI1SSuzCfA/episode_thumbnail/thumb_double.png?1567389924" length="0" type="image/png"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu2/3</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/ke_81Qe6KfyJL0XwAK6-t2z70gAvEWqKQ9mQEsfM1LU/episode_thumbnail/thumb_double.png?1566788396" length="0" type="image/png"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu2/2</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/9o7DroBuNo7L25ARrlSH8D7spX-0uwPyWzm_n0BWVOU/episode_thumbnail/thumb_double.png?1566787965" length="0" type="image/png"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/toukenranbu2/1</guid>
       
-        <enclosure url="https://mangacross.jp/episode_ogps/original/missing.png" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/HiDF_kVGFniKsUgubUhAgqzNDVZAkeit2wKQCUryIBU/episode_thumbnail/thumb_double.png?1566787571" length="0" type="image/png"/>
       
     </item>
     

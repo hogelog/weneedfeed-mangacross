@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/caesar.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/caesar.xml" rel="self"/>
     <description><![CDATA[歴史改変ローマン・ギャグ‼︎]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:04:46 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[英雄譚1]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[シーザーさんとブルータス]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/caesar/5</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/0-o5xjgbc7tPLVLbrICZAQmoWoG-FmvUmct9uV2wdW8/episode_ogp/original.png?1540356514" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/0-o5xjgbc7tPLVLbrICZAQmoWoG-FmvUmct9uV2wdW8/episode_thumbnail/thumb_double.jpg?1540368816" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/caesar/4</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/aepLjH3F9__ZiV53X-qV8OjQ4eSbrmLrqB1uiUojtLM/episode_ogp/original.png?1539668858" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/aepLjH3F9__ZiV53X-qV8OjQ4eSbrmLrqB1uiUojtLM/episode_thumbnail/thumb_double.jpg?1539824379" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/caesar/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/MFgzbPPfy-WjVcz_VAWfnX16s4Z3EsadztFFXLqEqvw/episode_ogp/original.png?1539668282" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/MFgzbPPfy-WjVcz_VAWfnX16s4Z3EsadztFFXLqEqvw/episode_thumbnail/thumb_double.jpg?1539824404" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/caesar/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/37vUbzBMecjLaB0pfzufIpnS6dwNJnfyxLqSTUrRpLk/episode_ogp/original.png?1539166591" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode_share_image/xWnGkj4gXCcOJpZVAIsSCCncly9Lq2P0fyFyPERAiyQ/episode_share/thumb_double.jpg?1539166591" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -75,7 +75,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/caesar/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/tSOEghQCA3weWV6vY63gpxRgFw6LNC0Q84pLEpShMGo/episode_ogp/original.png?1539165616" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode_share_image/r24wkXrw3YujP_U17b0NP7t-XVSJ-k7TMDBwSGw9Ly4/episode_share/thumb_double.jpg?1539165616" length="0" type="image/jpeg"/>
       
     </item>
     

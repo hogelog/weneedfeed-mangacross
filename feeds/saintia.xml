@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/saintia.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/saintia.xml" rel="self"/>
     <description><![CDATA[戦う少女たちの新銀河伝説、開幕!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:36 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[Stage01]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[翔子と響子]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/saintia/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/4IzyJwKVMT8WZvbhSQp55IDDDtthQCmz8xtr1gDcCrU/episode_ogp/original.png?1551765790" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/4IzyJwKVMT8WZvbhSQp55IDDDtthQCmz8xtr1gDcCrU/episode_thumbnail/thumb_double.jpg?1551765790" length="0" type="image/jpeg"/>
       
     </item>
     

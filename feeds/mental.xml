@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/mental.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/mental.xml" rel="self"/>
     <description><![CDATA[悩む著者の赤裸々エッセイ!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:10 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/mental/65</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/4Z0aNEGshcex-qTdFVIK4rPdnVh7Ao8Fnbag0PG1yFg/episode_ogp/original.jpg?1530326422" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_share_image/W1ySxzkmu8R0Yev47DbsL4GFxPDXiGp7IE4aEF6FaT0/episode_share/thumb_double.jpg?1530514025" length="0" type="image/jpeg"/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[はじめに]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/mental/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/3fJa1x2w3G9SX7eZsFKDz20mwIQZ_EJbUQ2K7MHE62E/episode_ogp/original.jpg?1530326226" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode_page/wV2CfP3HH_Hd9Bk_-7Ul7coR_91mgJTuM8K2xg5JGyY/image/original.jpg?1530326226" length="0" type="image/jpeg"/>
       
     </item>
     

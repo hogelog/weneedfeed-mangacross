@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/kokyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kokyu.xml" rel="self"/>
     <description><![CDATA[後宮で翡翠を待っている者とは!?]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 18:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 19:06:03 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/kokyu/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/33YxiLQ7Q6Pn4uJBnAWtoeKIzGnMBUdsycPa6DhYjXs/episode_ogp/original.png?1550478013" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/33YxiLQ7Q6Pn4uJBnAWtoeKIzGnMBUdsycPa6DhYjXs/episode_thumbnail/thumb_double.jpg?1550478013" length="0" type="image/jpeg"/>
       
     </item>
     
