@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ohitsurisama.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ohitsurisama.xml" rel="self"/>
     <description><![CDATA[お一人様女子、必釣日誌!!]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 19:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 15:09:23 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第93話]]></title>
+      <link>https://mangacross.jp/comics/ohitsurisama/93</link>
+      
+        <pubDate>Thu, 03 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[エサ釣りについて]]></description>
+      <content:encoded><![CDATA[エサ釣りについて]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/93</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/1H7htv4_PAVJ9g5zdMbdboLRWf28Qy0flYBbgAr311s/episode_thumbnail/thumb_double.png?1606875932" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第92話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/91</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/MEwBFPt9cphfFGZQZnCXXcqJOb0ysFa3MYO4FlreMbM/episode_thumbnail/thumb_double.png?1604297038" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第90話]]></title>
-      <link>https://mangacross.jp/comics/ohitsurisama/90</link>
-      
-        <pubDate>Thu, 15 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[サイトフィッシング②(見えバス)]]></description>
-      <content:encoded><![CDATA[サイトフィッシング②(見えバス)]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/90</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/HPKNXPiMvcH4ogtEAQc4I1fOX4RkwObd3_nwteysPrc/episode_thumbnail/thumb_double.png?1602469126" length="0" type="image/png"/>
       
     </item>
     
