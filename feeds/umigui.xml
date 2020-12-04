@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Thu, 03 Dec 2020 15:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Dec 2020 15:09:49 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第9話 後半]]></title>
@@ -48,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/16</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/c5hVcPS-9cK99JBP9bHTryhdL4LFs-HTwbkC-5CrGDU/episode_thumbnail/thumb_double.png?1603432888" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話 前半]]></title>
-      <link>https://mangacross.jp/comics/umigui/15</link>
-      
-        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[新情報]]></description>
-      <content:encoded><![CDATA[新情報]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/15</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/LhZNPwfeAXP1mEtQcv7BWJReOqS8t-JPWNHPC0FaPYc/episode_thumbnail/thumb_double.png?1602221945" length="0" type="image/png"/>
       
     </item>
     

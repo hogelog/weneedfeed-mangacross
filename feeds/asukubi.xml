@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/asukubi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/asukubi.xml" rel="self"/>
     <description><![CDATA[クズサラリーマンあるあるGAG！]]></description>
-    <lastBuildDate>Thu, 03 Dec 2020 15:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Dec 2020 15:07:15 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[23日目]]></title>
+      <link>https://mangacross.jp/comics/asukubi/23</link>
+      
+        <pubDate>Fri, 04 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[チェキ会]]></description>
+      <content:encoded><![CDATA[チェキ会]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-bq0GDnVK81MMy3Wp7vCqddO1JPOWwylFjH2ZL-wJsc/episode_thumbnail/thumb_double.png?1602580077" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[22日目]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/14</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/CLZz0hz8yLrTsje1FMXqnnoAY05UWMRmoTUPmSdfq_s/episode_thumbnail/thumb_double.png?1601012730" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[13日目]]></title>
-      <link>https://mangacross.jp/comics/asukubi/13</link>
-      
-        <pubDate>Fri, 25 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[夏休み]]></description>
-      <content:encoded><![CDATA[夏休み]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/13</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/b7Eo_clxYovRxwgSVVWioqSFOv-NnKZUq1IJfkP-rm4/episode_thumbnail/thumb_double.png?1597216075" length="0" type="image/png"/>
       
     </item>
     
