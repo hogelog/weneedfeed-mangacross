@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Sun, 06 Dec 2020 15:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 15:08:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第64話①]]></title>
+      <link>https://mangacross.jp/comics/crows/242</link>
+      
+        <pubDate>Mon, 07 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[海の見える街へ]]></description>
+      <content:encoded><![CDATA[海の見える街へ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/242</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/dVp2_cijw-2MTvCtxCc6S4A1pxPrEn_pGJpPgZjGBz4/episode_thumbnail/thumb_double.png?1606272593" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第63話③]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/240</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Bsp4jlQQrjVPOBbn991MeanthIIZDroDW3574exWCCo/episode_thumbnail/thumb_double.png?1606440862" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第63話①]]></title>
-      <link>https://mangacross.jp/comics/crows/239</link>
-      
-        <pubDate>Mon, 30 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[アンモ！]]></description>
-      <content:encoded><![CDATA[アンモ！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/239</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Raa-SHBBczqZj74gtliY8ORx--Tzvv7YGrGjkEZHVVE/episode_thumbnail/thumb_double.png?1606184587" length="0" type="image/png"/>
       
     </item>
     

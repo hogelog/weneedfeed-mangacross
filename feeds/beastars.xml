@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Sun, 06 Dec 2020 15:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 15:08:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第43話]]></title>
+      <link>https://mangacross.jp/comics/beastars/45</link>
+      
+        <pubDate>Mon, 07 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[オートマチックなる青年]]></description>
+      <content:encoded><![CDATA[オートマチックなる青年]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/45</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/yyxqldHz3RgTHk_g8B5n4zKBRhyGjyi5MGW7fSe_xgM/episode_thumbnail/thumb_double.png?1598428039" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第42話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/36</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/PU5_SvrNBCJt5KXICiz0HELOA2gQx1P5hia_N2PfIhc/episode_thumbnail/thumb_double.png?1598421767" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第33話]]></title>
-      <link>https://mangacross.jp/comics/beastars/35</link>
-      
-        <pubDate>Fri, 13 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[宣誓…上へまいります]]></description>
-      <content:encoded><![CDATA[宣誓…上へまいります]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/35</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/mf6-prKjKqHr0-gigEuX7BWdC80ipQtZMgoZ5vl_kfs/episode_thumbnail/thumb_double.png?1598421231" length="0" type="image/png"/>
       
     </item>
     
