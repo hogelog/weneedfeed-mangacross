@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/Harlock.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/Harlock.xml" rel="self"/>
     <description><![CDATA[スペースパイレーツロマン！！]]></description>
-    <lastBuildDate>Mon, 07 Dec 2020 15:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 15:08:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Vol.16]]></title>
+      <link>https://mangacross.jp/comics/Harlock/16</link>
+      
+        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/16</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-SMcvd6dfz0onSB5v-L3M6g0wZXALIk_xw2if4ISsoU/episode_thumbnail/thumb_double.png?1607071964" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Vol.15]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/7</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/vMPT2ZaMuyf7KG884pX3e5Lisb8fsdOfqrFjp6_PY-0/episode_thumbnail/thumb_double.png?1564109853" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Vol.6]]></title>
-      <link>https://mangacross.jp/comics/Harlock/6</link>
-      
-        <pubDate>Tue, 23 Jul 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/6</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/zNQNS5jlevlMpBMH6b0VozoGAeFqrk2PFh_wanPIp_c/episode_thumbnail/thumb_double.png?1563441104" length="0" type="image/png"/>
       
     </item>
     

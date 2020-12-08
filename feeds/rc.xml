@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/rc.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/rc.xml" rel="self"/>
     <description><![CDATA[ラジコンカーの魅力満載！！]]></description>
-    <lastBuildDate>Mon, 07 Dec 2020 15:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 15:09:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第26話]]></title>
+      <link>https://mangacross.jp/comics/rc/26</link>
+      
+        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[おうちでラジコンできるかな？]]></description>
+      <content:encoded><![CDATA[おうちでラジコンできるかな？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/rc/26</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/vIY1I83wuurMYGgl2nk8NJ7h-KOboDMg6BJlpQuawMo/episode_thumbnail/thumb_double.png?1607070548" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第25話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/rc/24</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/j8w0Zumt7Uoviu0h2Z-fOMGXNiJPcHUFfulVvjwR5Ss/episode_thumbnail/thumb_double.png?1599196060" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第23話]]></title>
-      <link>https://mangacross.jp/comics/rc/23</link>
-      
-        <pubDate>Tue, 14 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ボクでもラジコンできるかな？ 後編]]></description>
-      <content:encoded><![CDATA[ボクでもラジコンできるかな？ 後編]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/rc/23</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/toutx8Ttb6LlH7XaJdO8p1Y0gvFoaAqlGymCT57135g/episode_thumbnail/thumb_double.png?1594617500" length="0" type="image/png"/>
       
     </item>
     
