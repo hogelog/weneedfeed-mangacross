@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 09 Dec 2020 15:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 15:09:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第12話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/12</link>
+      
+        <pubDate>Thu, 10 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[写生]]></description>
+      <content:encoded><![CDATA[写生]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/12</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Oln8aNsYYx1X5YrlB_Pbmhn3AqhbJGlebJ3o2jR7zFE/episode_thumbnail/thumb_double.png?1607410702" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第11話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/3</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/8AoNupDehBFCNGHmfiwi0pLyWN_N0GYdyC6wRjOLeLg/episode_thumbnail/thumb_double.png?1586412727" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/2</link>
-      
-        <pubDate>Thu, 09 Apr 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[バカンス]]></description>
-      <content:encoded><![CDATA[バカンス]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ZjdyKPGRoJ2BS754xwFk5DMTYR4ksJ9kxujAWODk9Go/episode_thumbnail/thumb_double.png?1585813075" length="0" type="image/png"/>
       
     </item>
     
