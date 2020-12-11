@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/asukubi.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/asukubi.xml" rel="self"/>
     <description><![CDATA[クズサラリーマンあるあるGAG！]]></description>
-    <lastBuildDate>Thu, 10 Dec 2020 15:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 15:07:46 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[24日目]]></title>
+      <link>https://mangacross.jp/comics/asukubi/24</link>
+      
+        <pubDate>Fri, 11 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[設営]]></description>
+      <content:encoded><![CDATA[設営]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/24</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/3CYfb5jXyZLLSzKQE6i2Cb7zzyjkTrXzJLpY5QCfeQ0/episode_thumbnail/thumb_double.png?1602580389" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[23日目]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/15</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/HIt_mJYXUoxTfqDwSb-9SzBkog0Wm7UB99VB_qhXU7g/episode_thumbnail/thumb_double.png?1601013355" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[14日目]]></title>
-      <link>https://mangacross.jp/comics/asukubi/14</link>
-      
-        <pubDate>Fri, 02 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ウンコ(営業編)]]></description>
-      <content:encoded><![CDATA[ウンコ(営業編)]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/asukubi/14</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CLZz0hz8yLrTsje1FMXqnnoAY05UWMRmoTUPmSdfq_s/episode_thumbnail/thumb_double.png?1601012730" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Thu, 10 Dec 2020 15:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 15:07:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第45話]]></title>
+      <link>https://mangacross.jp/comics/beastars/47</link>
+      
+        <pubDate>Fri, 11 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[睫毛の奥のブラックホール]]></description>
+      <content:encoded><![CDATA[睫毛の奥のブラックホール]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/47</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/4zVHIEi-Ndb0vf7ytWBHhSc6fMRCbM-OWoOikjjerhk/episode_thumbnail/thumb_double.png?1598507632" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第44話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/38</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/kve2U6I_UTIN8ON3DmEPafvKN4SmVjTmPyzbHwNqWq8/episode_thumbnail/thumb_double.png?1598423077" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第35話]]></title>
-      <link>https://mangacross.jp/comics/beastars/37</link>
-      
-        <pubDate>Wed, 18 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[美味礼賛のため]]></description>
-      <content:encoded><![CDATA[美味礼賛のため]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/37</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/QPYAEbHRNop0GWRZMQ5o2f3ZZrSmRnMSsdCRZL4RPng/episode_thumbnail/thumb_double.png?1598422681" length="0" type="image/png"/>
       
     </item>
     
