@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Sun, 13 Dec 2020 15:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 15:08:32 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第46話]]></title>
+      <link>https://mangacross.jp/comics/beastars/48</link>
+      
+        <pubDate>Mon, 14 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[コントラストで支配せよ]]></description>
+      <content:encoded><![CDATA[コントラストで支配せよ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/48</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/GgFxskAsp2GLdgH_HVivYtmCQwo0t4WkmfscTwzyFPA/episode_thumbnail/thumb_double.png?1598508050" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第45話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/39</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/iTN9Kt8x-ph6-f6gtf5ADAkgX6WxBXCCFwd-4W3zZwE/episode_thumbnail/thumb_double.png?1598423447" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第36話]]></title>
-      <link>https://mangacross.jp/comics/beastars/38</link>
-      
-        <pubDate>Fri, 20 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[こぶしの縁から溢れるもの]]></description>
-      <content:encoded><![CDATA[こぶしの縁から溢れるもの]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/38</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/kve2U6I_UTIN8ON3DmEPafvKN4SmVjTmPyzbHwNqWq8/episode_thumbnail/thumb_double.png?1598423077" length="0" type="image/png"/>
       
     </item>
     
