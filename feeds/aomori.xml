@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/aomori.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/aomori.xml" rel="self"/>
     <description><![CDATA[他には無い青森グルメまんが！]]></description>
-    <lastBuildDate>Mon, 14 Dec 2020 15:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 15:08:31 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第64話]]></title>
+      <link>https://mangacross.jp/comics/aomori/64</link>
+      
+        <pubDate>Tue, 15 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[赤カブの漬物]]></description>
+      <content:encoded><![CDATA[赤カブの漬物]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/64</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/7jVpZXi7h_a9vHY9G3UUb6DuHlGaMKd45Doz4heerAQ/episode_thumbnail/thumb_double.png?1607669458" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第63話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/55</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/AIeYVknoP7Yuep81Cr6Xgey7NJnCqxZYCwCPuW_82KQ/episode_thumbnail/thumb_double.png?1596180763" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/aomori/3</link>
-      
-        <pubDate>Tue, 05 Jun 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[せんべい汁]]></description>
-      <content:encoded><![CDATA[せんべい汁]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/3</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/VwbNCZ_p1YK2UpX8ECNGtJWv1tjnd66GaEUACAgPzvU/episode_thumbnail/thumb_double.png?1572598845" length="0" type="image/png"/>
       
     </item>
     

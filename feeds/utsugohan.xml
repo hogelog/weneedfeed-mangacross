@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 14 Dec 2020 15:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 15:11:16 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第138話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/31</link>
+      
+        <pubDate>Tue, 15 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[雨ハラスメントと長崎ちゃんぽん]]></description>
+      <content:encoded><![CDATA[雨ハラスメントと長崎ちゃんぽん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/31</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RmG9Z-lnZJKxYU3UdhDMkebazje__gkIolVjZySp21E/episode_thumbnail/thumb_double.png?1606980194" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第11話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/22</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/cb4drfsomhFR3TvvIMOSTj6IWRmF-NJB01INyNgKg04/episode_thumbnail/thumb_double.png?1596177872" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第133話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/21</link>
-      
-        <pubDate>Tue, 21 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[悪意のハンバーガー]]></description>
-      <content:encoded><![CDATA[悪意のハンバーガー]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/21</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/K1k7f1OK3w2B0JGvU4n89wuIcG_ePJ1cL_7_ID7zRdQ/episode_thumbnail/thumb_double.png?1594626199" length="0" type="image/png"/>
       
     </item>
     

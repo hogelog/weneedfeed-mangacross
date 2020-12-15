@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/orietsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
     <description><![CDATA[サブキャラ・織津江大志活躍！]]></description>
-    <lastBuildDate>Mon, 14 Dec 2020 15:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 15:10:34 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第10話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/10</link>
+      
+        <pubDate>Tue, 15 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[海いこうぜ!!]]></description>
+      <content:encoded><![CDATA[海いこうぜ!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/10</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/oMuIQtQOYNCzjKUC7vNIlUrNEVB6VqeT3kaZgu0_tsI/episode_thumbnail/thumb_double.png?1607667225" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第9話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/9</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/29vnSTCnYYoOMUpo-Lf1y_Rqt4B8fzJeEYojh_ejdtk/episode_thumbnail/thumb_double.png?1605496893" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/8</link>
-      
-        <pubDate>Tue, 20 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[魚と虫と木の実はサバイバル食の基本]]></description>
-      <content:encoded><![CDATA[魚と虫と木の実はサバイバル食の基本]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/8</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ISDfzwbTrZbKHqsi6Bjj4QMAbwpS7PZGA7m8L604ABs/episode_thumbnail/thumb_double.png?1602823265" length="0" type="image/png"/>
       
     </item>
     
