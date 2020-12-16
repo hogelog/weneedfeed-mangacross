@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/beastars.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/beastars.xml" rel="self"/>
     <description><![CDATA[狼レゴシの動物群像劇!!]]></description>
-    <lastBuildDate>Tue, 15 Dec 2020 15:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 15:08:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第47話]]></title>
+      <link>https://mangacross.jp/comics/beastars/49</link>
+      
+        <pubDate>Wed, 16 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[潮風だけが知っている]]></description>
+      <content:encoded><![CDATA[潮風だけが知っている]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/49</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/JtDpJnEBkBPOwM6ybuk6cmGdNEre7hMJSmq_8GUDOyg/episode_thumbnail/thumb_double.png?1598508606" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第46話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/beastars/40</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/hdq-KvB46sPbZB-IpLjPP2v_X5sLL0i9w9iM0eRLlRA/episode_thumbnail/thumb_double.png?1598424709" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第37話]]></title>
-      <link>https://mangacross.jp/comics/beastars/39</link>
-      
-        <pubDate>Mon, 23 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[雨雲の誘導]]></description>
-      <content:encoded><![CDATA[雨雲の誘導]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/beastars/39</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/iTN9Kt8x-ph6-f6gtf5ADAkgX6WxBXCCFwd-4W3zZwE/episode_thumbnail/thumb_double.png?1598423447" length="0" type="image/png"/>
       
     </item>
     
