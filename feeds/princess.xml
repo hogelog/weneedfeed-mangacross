@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/princess.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/princess.xml" rel="self"/>
     <description><![CDATA[男子禁制百合コメディ！]]></description>
-    <lastBuildDate>Wed, 16 Dec 2020 15:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 15:10:29 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第19話]]></title>
+      <link>https://mangacross.jp/comics/princess/19</link>
+      
+        <pubDate>Thu, 17 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[NO SUGAR,NO LIFE]]></description>
+      <content:encoded><![CDATA[NO SUGAR,NO LIFE]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/19</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qRV1vB675yG9H31mQO7DBbPpOr0jRQKyJLN_g5a2dEU/episode_thumbnail/thumb_double.png?1607918282" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第18話]]></title>

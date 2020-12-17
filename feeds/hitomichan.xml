@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hitomichan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hitomichan.xml" rel="self"/>
     <description><![CDATA[三白眼女子の不器用コメディ♪]]></description>
-    <lastBuildDate>Wed, 16 Dec 2020 15:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 15:09:31 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第50話]]></title>
+      <link>https://mangacross.jp/comics/hitomichan/50</link>
+      
+        <pubDate>Thu, 17 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/50</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/cTTXzN-M_zXPD03YqCxjmjmRBXCtl3GtliymDrd5lqw/episode_thumbnail/thumb_double.png?1607918554" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第49話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/48</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Z4YkkNjOqD5mHb_KItmvA4pH8Zen9XZe7nqZKyj4juk/episode_thumbnail/thumb_double.png?1604298387" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第47話]]></title>
-      <link>https://mangacross.jp/comics/hitomichan/47</link>
-      
-        <pubDate>Thu, 17 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/47</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/lCuOforBIBa9pdyVuMMVDcTLbxENvLKbML6rElG_bLw/episode_thumbnail/thumb_double.png?1600071849" length="0" type="image/png"/>
       
     </item>
     

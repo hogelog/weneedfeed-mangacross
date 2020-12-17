@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Wed, 16 Dec 2020 15:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 15:11:08 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[Karte.59]]></title>
@@ -66,6 +66,34 @@
     </item>
     
     <item>
+      <title><![CDATA[Karte.48]]></title>
+      <link>https://mangacross.jp/comics/yabai/52</link>
+      
+        <pubDate>Tue, 30 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らはゆっくり歩いた]]></description>
+      <content:encoded><![CDATA[僕らはゆっくり歩いた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/52</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/BzhoiDQn0SbPtbnGwNlHDkyfitBwwJoiAMzjXlDY3qY/episode_thumbnail/thumb_double.png?1593070253" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.47]]></title>
+      <link>https://mangacross.jp/comics/yabai/51</link>
+      
+        <pubDate>Tue, 16 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は可愛いが言えない]]></description>
+      <content:encoded><![CDATA[僕は可愛いが言えない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/51</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/0V4IuU3Aufkdv5z305fxBalY0icXjfXHy2h_m2a3eSQ/episode_thumbnail/thumb_double.png?1591931119" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
       <title><![CDATA[コミックス3巻発売記念特別編]]></title>
       <link>https://mangacross.jp/comics/yabai/50</link>
       
@@ -80,6 +108,34 @@
     </item>
     
     <item>
+      <title><![CDATA[Karte.46]]></title>
+      <link>https://mangacross.jp/comics/yabai/49</link>
+      
+        <pubDate>Tue, 02 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は連行された]]></description>
+      <content:encoded><![CDATA[僕は連行された]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/49</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/2Of6zt9DHrc_4IaqOrvs0L7caNp_RYWVQBXO8O9iWCw/episode_thumbnail/thumb_double.png?1590747262" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.45]]></title>
+      <link>https://mangacross.jp/comics/yabai/48</link>
+      
+        <pubDate>Tue, 19 May 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は待ち合わせをした]]></description>
+      <content:encoded><![CDATA[僕は待ち合わせをした]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/48</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/UMXWUSe1jIez7VDIoNHvOWFdXpOSAT0h9k5MWZbcADk/episode_thumbnail/thumb_double.png?1589519189" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
       <title><![CDATA[番外編2]]></title>
       <link>https://mangacross.jp/comics/yabai/21</link>
       
@@ -90,62 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/21</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/JHIsL5OvUkY8cYQzz-9juYrmK0Io8mLKeXHEf5n2hsQ/episode_thumbnail/thumb_double.jpg?1546839909" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[番外編1]]></title>
-      <link>https://mangacross.jp/comics/yabai/20</link>
-      
-        <pubDate>Tue, 08 Jan 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[山田と小林]]></description>
-      <content:encoded><![CDATA[山田と小林]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/20</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/3bLFXR2_lFMbWrPRcf7kTWhCfwPToEM6s21wmELpL8I/episode_thumbnail/thumb_double.jpg?1546839444" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.6]]></title>
-      <link>https://mangacross.jp/comics/yabai/6</link>
-      
-        <pubDate>Tue, 24 Apr 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は嫌だ]]></description>
-      <content:encoded><![CDATA[僕は嫌だ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/6</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Innu8vHQOtND3ldQrYm1OwnC46IYxYnBA_ZHn54Xn4o/episode_thumbnail/thumb_double.png?1577168944" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.5]]></title>
-      <link>https://mangacross.jp/comics/yabai/5</link>
-      
-        <pubDate>Tue, 10 Apr 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は遭遇した]]></description>
-      <content:encoded><![CDATA[僕は遭遇した]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/5</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/-6IL9QPeaJ73Uk-67axbwIQXNrjRqhVAPa_NJQH9QRo/episode_thumbnail/thumb_double.png?1577168989" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.4]]></title>
-      <link>https://mangacross.jp/comics/yabai/4</link>
-      
-        <pubDate>Fri, 06 Apr 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は渡した]]></description>
-      <content:encoded><![CDATA[僕は渡した]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/LNEHobdBv1vD_MkPGg_Bv8E4t1ooZRfreJO7Z2zYPNg/episode_thumbnail/thumb_double.png?1577169063" length="0" type="image/png"/>
       
     </item>
     

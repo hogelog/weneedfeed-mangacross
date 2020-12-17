@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 16 Dec 2020 15:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 15:09:57 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/14</link>
+      
+        <pubDate>Thu, 17 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[紅葉②]]></description>
+      <content:encoded><![CDATA[紅葉②]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/14</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/1VE0nJ1r0d4sQ6owTpCu-HE1CJEDhZG8M9258yJJXl8/episode_thumbnail/thumb_double.png?1607412241" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第13話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/13</link>
+      
+        <pubDate>Thu, 17 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[紅葉]]></description>
+      <content:encoded><![CDATA[紅葉]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/13</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/x5ShLgOLxNYS9gTyDICKDtg6K7LJgLi2dtRKJDfQDXg/episode_thumbnail/thumb_double.png?1607410860" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第12話]]></title>
@@ -118,34 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/5</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/d_SyDhG1X9gUdHVfM2WCGx7MKtW4p4gW0sS8VBvtO70/episode_thumbnail/thumb_double.png?1593669691" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第4話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/4</link>
-      
-        <pubDate>Thu, 11 Jun 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[香水]]></description>
-      <content:encoded><![CDATA[香水]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/BaakV33SlzqpNj5y1oL3d8n8oi3xTxsj2pAWSb2V3Xs/episode_thumbnail/thumb_double.png?1591334785" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/3</link>
-      
-        <pubDate>Thu, 14 May 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[制服]]></description>
-      <content:encoded><![CDATA[制服]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/3</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/8AoNupDehBFCNGHmfiwi0pLyWN_N0GYdyC6wRjOLeLg/episode_thumbnail/thumb_double.png?1586412727" length="0" type="image/png"/>
       
     </item>
     
