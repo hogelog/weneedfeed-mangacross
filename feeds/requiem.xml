@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/requiem.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
     <description><![CDATA[黄金聖闘士たちの激闘録！！]]></description>
-    <lastBuildDate>Mon, 21 Dec 2020 15:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 15:13:22 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話]]></title>
+      <link>https://mangacross.jp/comics/requiem/9</link>
+      
+        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[楔]]></description>
+      <content:encoded><![CDATA[楔]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/3Bev-gBo87UUpxmy1QO46mBgCBDuv6WygTs6MipfL7c/episode_thumbnail/thumb_double.png?1608276676" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第8話]]></title>

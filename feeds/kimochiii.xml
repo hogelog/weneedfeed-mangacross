@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kimochiii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kimochiii.xml" rel="self"/>
     <description><![CDATA[気持ちよさを求める実録漫画！]]></description>
-    <lastBuildDate>Mon, 21 Dec 2020 15:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 15:12:48 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/22</link>
+      
+        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[菌活]]></description>
+      <content:encoded><![CDATA[菌活]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/62rWwokC2U66U97jLcXupmeD7o0w9WSzxHuUYIVNZrw/episode_thumbnail/thumb_double.png?1608275448" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/13</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/7CL6HDZxTgQ8TMMwQrTkYXORX7p_DFy0W7Z1DGWruoM/episode_thumbnail/thumb_double.png?1596767919" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第12話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/12</link>
-      
-        <pubDate>Tue, 28 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ハードボイルドウォーキング]]></description>
-      <content:encoded><![CDATA[ハードボイルドウォーキング]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/12</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/aTl03R8NQbC1dfZEtAUceUYf-C6nI0-NFO3rGddcwCA/episode_thumbnail/thumb_double.png?1595827783" length="0" type="image/png"/>
       
     </item>
     

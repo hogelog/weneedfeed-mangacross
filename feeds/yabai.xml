@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 21 Dec 2020 15:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 15:13:56 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.60]]></title>
+      <link>https://mangacross.jp/comics/yabai/65</link>
+      
+        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は楽しいのに]]></description>
+      <content:encoded><![CDATA[僕は楽しいのに]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/65</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qNxm3cOeY4YkRZIwO2L8uCxBn-7SJpJDUSed10gUFvU/episode_thumbnail/thumb_double.png?1608269733" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.59]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/48</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/UMXWUSe1jIez7VDIoNHvOWFdXpOSAT0h9k5MWZbcADk/episode_thumbnail/thumb_double.png?1589519189" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[番外編2]]></title>
-      <link>https://mangacross.jp/comics/yabai/21</link>
-      
-        <pubDate>Tue, 08 Jan 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[山田はなぜ口の周りに食べカスをつけてしまうのか会議]]></description>
-      <content:encoded><![CDATA[山田はなぜ口の周りに食べカスをつけてしまうのか会議]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/21</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/JHIsL5OvUkY8cYQzz-9juYrmK0Io8mLKeXHEf5n2hsQ/episode_thumbnail/thumb_double.jpg?1546839909" length="0" type="image/jpeg"/>
       
     </item>
     

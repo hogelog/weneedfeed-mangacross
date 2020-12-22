@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/maounomusume.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/maounomusume.xml" rel="self"/>
     <description><![CDATA[キモチだだ漏れ異世界ラブコメ]]></description>
-    <lastBuildDate>Mon, 21 Dec 2020 15:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 15:12:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第19話]]></title>
+      <link>https://mangacross.jp/comics/maounomusume/19</link>
+      
+        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/19</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/lztruD1OV1nz3qTTUGpw7HM85L1UskYD7RTsny0uHJE/episode_thumbnail/thumb_double.png?1608275128" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第18話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/17</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/JV41ZW4cRI6x9IhDrYrdEJGidJ77M1UfE2NL02OlXJs/episode_thumbnail/thumb_double.png?1605496569" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第16話]]></title>
-      <link>https://mangacross.jp/comics/maounomusume/16</link>
-      
-        <pubDate>Tue, 03 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/16</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/wjZG0u9RJTbpCCP69hAmrRG5paDMjwIrKAR4bYeLmBo/episode_thumbnail/thumb_double.png?1604298330" length="0" type="image/png"/>
       
     </item>
     
