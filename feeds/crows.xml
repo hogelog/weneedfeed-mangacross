@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Tue, 22 Dec 2020 15:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 15:12:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第66話①]]></title>
+      <link>https://mangacross.jp/comics/crows/249</link>
+      
+        <pubDate>Wed, 23 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[夢！]]></description>
+      <content:encoded><![CDATA[夢！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/249</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zkqFQe6hFq7AKK9WxsImiaYJWbYRZFKpelLhzHTiN5I/episode_thumbnail/thumb_double.png?1606275223" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第65話④]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/247</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Pqe8-ji8blxJl4JD8ORbVekjP0W-PfOfLWG9Sb2SwCY/episode_thumbnail/thumb_double.png?1606274827" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第65話②]]></title>
-      <link>https://mangacross.jp/comics/crows/246</link>
-      
-        <pubDate>Wed, 16 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[結成パルコ＆デンジャラーズ！]]></description>
-      <content:encoded><![CDATA[結成パルコ＆デンジャラーズ！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/246</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/yXjShrOUpwWcD2y4DxAOKd5dhEbZC3gQO-n1x0xtpXE/episode_thumbnail/thumb_double.png?1606274553" length="0" type="image/png"/>
       
     </item>
     
