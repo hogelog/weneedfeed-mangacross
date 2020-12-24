@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 23 Dec 2020 15:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 15:12:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第16話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/16</link>
+      
+        <pubDate>Thu, 24 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[雪ダルマ]]></description>
+      <content:encoded><![CDATA[雪ダルマ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/16</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ioM9u1Nar6gzIsoUGac57iQHFDZf7IkjXfvGC1x1QOc/episode_thumbnail/thumb_double.png?1607413271" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第15話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/15</link>
+      
+        <pubDate>Thu, 24 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[サンタクロース]]></description>
+      <content:encoded><![CDATA[サンタクロース]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/15</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Ro3TEvvQaMg_58-zh_ucSFenYFJ1X4cmZDlYNx48Kv0/episode_thumbnail/thumb_double.png?1607412463" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第14話]]></title>
@@ -118,34 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/7</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/sosPeF6jYqyrSXkvOXSFeGd4dvlLLvsdsjfiqTLfW-Y/episode_thumbnail/thumb_double.png?1597127805" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第6話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/6</link>
-      
-        <pubDate>Thu, 13 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[詐欺]]></description>
-      <content:encoded><![CDATA[詐欺]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/6</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/jrQa_UguSKnmOnH-Sx7Bu281SXZay4-zraRWF1Q2wX0/episode_thumbnail/thumb_double.png?1595901994" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第5話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/5</link>
-      
-        <pubDate>Thu, 09 Jul 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[かけっこ]]></description>
-      <content:encoded><![CDATA[かけっこ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/5</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/d_SyDhG1X9gUdHVfM2WCGx7MKtW4p4gW0sS8VBvtO70/episode_thumbnail/thumb_double.png?1593669691" length="0" type="image/png"/>
       
     </item>
     

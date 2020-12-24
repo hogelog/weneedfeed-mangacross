@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 23 Dec 2020 15:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 15:14:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/usokitsu/3</link>
+      
+        <pubDate>Thu, 24 Dec 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[汚れきった部屋の中で]]></description>
+      <content:encoded><![CDATA[汚れきった部屋の中で]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/4eTxKjswtikMsJR2d57-4RtzPovTxH96hS8AaGGDfyE/episode_thumbnail/thumb_double.png?1608614362" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第2話]]></title>
