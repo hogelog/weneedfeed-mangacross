@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Tue, 29 Dec 2020 15:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 15:10:50 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第66話③]]></title>
@@ -34,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/250</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/wMI0bln4G9A27fzkxo5JzO_hGf3EBblSEUcN1Xv9s24/episode_thumbnail/thumb_double.png?1606275366" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第66話①]]></title>
-      <link>https://mangacross.jp/comics/crows/249</link>
-      
-        <pubDate>Wed, 23 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[夢！]]></description>
-      <content:encoded><![CDATA[夢！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/249</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/zkqFQe6hFq7AKK9WxsImiaYJWbYRZFKpelLhzHTiN5I/episode_thumbnail/thumb_double.png?1606275223" length="0" type="image/png"/>
       
     </item>
     
