@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 04 Jan 2021 15:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:14:05 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第12話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/32</link>
+      
+        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[干支を食べることが縁起的に良いのか悪いのか知らない]]></description>
+      <content:encoded><![CDATA[干支を食べることが縁起的に良いのか悪いのか知らない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/32</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/lIk4EPhhOwE5RaK02X47UdrXb8BsIM5ycEAG6zdLazs/episode_thumbnail/thumb_double.png?1608865139" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第138話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/23</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/hft_Xz5uieVvd4t_xGteAC1MqZOfYD-lo3Mhxy6xdDs/episode_thumbnail/thumb_double.png?1597207974" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第7話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/22</link>
-      
-        <pubDate>Tue, 04 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[うどん生産量2位の県]]></description>
-      <content:encoded><![CDATA[うどん生産量2位の県]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/22</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/cb4drfsomhFR3TvvIMOSTj6IWRmF-NJB01INyNgKg04/episode_thumbnail/thumb_double.png?1596177872" length="0" type="image/png"/>
       
     </item>
     

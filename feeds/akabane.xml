@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Mon, 04 Jan 2021 15:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:11:22 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第19話]]></title>
+      <link>https://mangacross.jp/comics/akabane/20</link>
+      
+        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[幽霊現る!? 除霊せよ赤羽課！]]></description>
+      <content:encoded><![CDATA[幽霊現る!? 除霊せよ赤羽課！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/20</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6J0sEBGct_6nMtyOwipdo6x3BenK7hVdWiou_ReITlQ/episode_thumbnail/thumb_double.png?1608865720" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第18話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/18</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/GxF9eYkYCclU0jHN4fd_n75jYD-DgYV1tZDgQdU-efg/episode_thumbnail/thumb_double.png?1604038791" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第16話]]></title>
-      <link>https://mangacross.jp/comics/akabane/17</link>
-      
-        <pubDate>Tue, 06 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ディナーでデート!? 上司の相手を探れ！]]></description>
-      <content:encoded><![CDATA[ディナーでデート!? 上司の相手を探れ！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/17</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/eD18RGH8TOl9sbuHiljKtF2XpTYJHiB0_cgyRwKSz0I/episode_thumbnail/thumb_double.png?1601542809" length="0" type="image/png"/>
       
     </item>
     

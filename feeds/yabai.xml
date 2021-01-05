@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 04 Jan 2021 15:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:14:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.61]]></title>
+      <link>https://mangacross.jp/comics/yabai/66</link>
+      
+        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らは探している]]></description>
+      <content:encoded><![CDATA[僕らは探している]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/66</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZHM35ramGf992EL9TFIhKbyY_QTug8X134LMdQQjz48/episode_thumbnail/thumb_double.png?1608864921" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.60]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/64</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/rlcMKOsMkvitgTprnteLtd8vY-JsF75vmfZkeqrToHs/episode_thumbnail/thumb_double.png?1607069960" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.58]]></title>
-      <link>https://mangacross.jp/comics/yabai/63</link>
-      
-        <pubDate>Tue, 17 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は頼りたい]]></description>
-      <content:encoded><![CDATA[僕は頼りたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/63</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/b-QOfT9ssZPHoXqF_LT2IK009gaCxB9u2vuMsn-b_aA/episode_thumbnail/thumb_double.png?1605494136" length="0" type="image/png"/>
       
     </item>
     
