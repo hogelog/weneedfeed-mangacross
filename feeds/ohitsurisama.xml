@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ohitsurisama.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ohitsurisama.xml" rel="self"/>
     <description><![CDATA[お一人様女子、必釣日誌!!]]></description>
-    <lastBuildDate>Wed, 06 Jan 2021 15:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 15:13:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第95話]]></title>
+      <link>https://mangacross.jp/comics/ohitsurisama/95</link>
+      
+        <pubDate>Thu, 07 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[LTアジ②(金アジ)]]></description>
+      <content:encoded><![CDATA[LTアジ②(金アジ)]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/95</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/xj5yGesEfDYdvdlIXOi8Z4KiGXpFEcdshH5pmB0VWMI/episode_thumbnail/thumb_double.png?1609834154" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第94話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/93</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/1H7htv4_PAVJ9g5zdMbdboLRWf28Qy0flYBbgAr311s/episode_thumbnail/thumb_double.png?1606875932" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第92話]]></title>
-      <link>https://mangacross.jp/comics/ohitsurisama/92</link>
-      
-        <pubDate>Thu, 19 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[チニング②(クロダイ)]]></description>
-      <content:encoded><![CDATA[チニング②(クロダイ)]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/92</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/aPAt2XZlobZkkyNhoNiH0XSl1uhPy0WNcZtne0mFPJU/episode_thumbnail/thumb_double.png?1605518965" length="0" type="image/png"/>
       
     </item>
     
