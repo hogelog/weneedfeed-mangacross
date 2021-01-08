@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Thu, 07 Jan 2021 15:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 15:13:47 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第67話②]]></title>
+      <link>https://mangacross.jp/comics/crows/254</link>
+      
+        <pubDate>Fri, 08 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[始動！スネイク・ヘッズ！]]></description>
+      <content:encoded><![CDATA[始動！スネイク・ヘッズ！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/254</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ypGi7TOah4EZQ29BYiNW6doBPf9JdkEdQQoW1Dl2gYM/episode_thumbnail/thumb_double.png?1606276335" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第67話①]]></title>
