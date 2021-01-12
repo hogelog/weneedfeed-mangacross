@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Mon, 11 Jan 2021 15:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2021 15:21:33 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第11話 前半]]></title>
+      <link>https://mangacross.jp/comics/umigui/21</link>
+      
+        <pubDate>Tue, 12 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[無人島の夜]]></description>
+      <content:encoded><![CDATA[無人島の夜]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/5lvVxRFtWr_wrNMs7ejPwTPg7M2KDGxvVaFuWVLp-v0/episode_thumbnail/thumb_double.png?1610074020" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第10話 後半]]></title>
