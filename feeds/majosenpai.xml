@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/majosenpai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/majosenpai.xml" rel="self"/>
     <description><![CDATA[魔女、だけど普通の会社員]]></description>
-    <lastBuildDate>Tue, 12 Jan 2021 15:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 15:26:46 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第42話]]></title>
@@ -48,48 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/40</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/9ydUYoLu61v1MZ7aMuoXZEFWJTg4ViB-9Hc7gXcImC4/episode_thumbnail/thumb_double.png?1602653284" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第39話]]></title>
-      <link>https://mangacross.jp/comics/majosenpai/39</link>
-      
-        <pubDate>Thu, 01 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/39</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/sLNHz36uqJzpmOVAmCkIzhIJ9q2wR9pUZDnrKkhPsjU/episode_thumbnail/thumb_double.png?1601357576" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第38話]]></title>
-      <link>https://mangacross.jp/comics/majosenpai/38</link>
-      
-        <pubDate>Thu, 17 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/38</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/6PsvDX73DyEUtI9EX0K8b5BmSgNrCobnBA7aFF-ar-M/episode_thumbnail/thumb_double.png?1600051803" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第37話]]></title>
-      <link>https://mangacross.jp/comics/majosenpai/37</link>
-      
-        <pubDate>Thu, 27 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/37</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/TUsYC8Z6U22G4vkV2d644hyKUV4y8s2wBlb1lvMXHCU/episode_thumbnail/thumb_double.png?1598343543" length="0" type="image/png"/>
       
     </item>
     
@@ -146,6 +104,34 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/3</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ySakctIOhXxmsC1p8ghyFBQxTi2oKV15bC0MAaNHEZg/episode_thumbnail/thumb_double.jpg?1538367646" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/majosenpai/2</link>
+      
+        <pubDate>Thu, 13 Sep 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/y9jHiK3WYtm3_KEEMpEgb1XRobRiyKFKcF_lXtZnpyk/episode_thumbnail/thumb_double.jpg?1538367638" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/majosenpai/1</link>
+      
+        <pubDate>Thu, 30 Aug 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/majosenpai/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZlnWHyUrPILCql5wGqeYX05tc8P13xGZyaYM0qe2tPs/episode_thumbnail/thumb_double.jpg?1538367630" length="0" type="image/jpeg"/>
       
     </item>
     
