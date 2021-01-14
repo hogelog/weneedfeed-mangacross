@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 13 Jan 2021 15:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 15:24:58 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第18話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/18</link>
+      
+        <pubDate>Thu, 14 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[おもちゃ]]></description>
+      <content:encoded><![CDATA[おもちゃ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/18</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/XZUjcUsMUgm-vYzf4uCa33AdQNREjF6BWzHyCpG11Sg/episode_thumbnail/thumb_double.png?1607415175" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第17話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/9</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/qG5UcF58nw-ICSf9X08FYttrdkl6_ZmLj-1r8OYd8qs/episode_thumbnail/thumb_double.png?1601023198" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/8</link>
-      
-        <pubDate>Thu, 08 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[タピオカ]]></description>
-      <content:encoded><![CDATA[タピオカ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/8</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/JwMlO0Hv7AY-V8M7OxfbLqhACQGZoPlab52VvmVORKA/episode_thumbnail/thumb_double.png?1600246017" length="0" type="image/png"/>
       
     </item>
     

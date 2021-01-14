@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crossoverrev.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crossoverrev.xml" rel="self"/>
     <description><![CDATA[伝説のクルマ漫画が、再び！]]></description>
-    <lastBuildDate>Wed, 13 Jan 2021 15:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 15:23:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.44]]></title>
+      <link>https://mangacross.jp/comics/crossoverrev/44</link>
+      
+        <pubDate>Thu, 14 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[be connected]]></description>
+      <content:encoded><![CDATA[be connected]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/44</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/o9pRO6h2EgiNhIAhi5pgGd4ko5pSZ-G1nU63eipz6U8/episode_thumbnail/thumb_double.png?1610431505" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[ACT.43]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/35</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/snLvOyVeVMamCC3TVTV47KKPXuYtG9Anlabnlf8Wrsk/episode_thumbnail/thumb_double.png?1597125602" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[ACT.2]]></title>
-      <link>https://mangacross.jp/comics/crossoverrev/2</link>
-      
-        <pubDate>Thu, 28 Mar 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[涼子！ 再走！]]></description>
-      <content:encoded><![CDATA[涼子！ 再走！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/PCrQ-3fc9-jNvl6Ri5xFtDxJrj6CuV23LaInJQZ0skc/episode_thumbnail/thumb_double.jpg?1553236033" length="0" type="image/jpeg"/>
       
     </item>
     
