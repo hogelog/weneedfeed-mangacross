@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 18 Jan 2021 15:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 15:25:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.62]]></title>
+      <link>https://mangacross.jp/comics/yabai/67</link>
+      
+        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はお風呂をいただいた]]></description>
+      <content:encoded><![CDATA[僕はお風呂をいただいた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/67</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/80GTcPRn9wfqCFX-5VmxIlXd6TENZTwck6R7TyMhgbg/episode_thumbnail/thumb_double.png?1610686426" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.61]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/65</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/qNxm3cOeY4YkRZIwO2L8uCxBn-7SJpJDUSed10gUFvU/episode_thumbnail/thumb_double.png?1608269733" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.59]]></title>
-      <link>https://mangacross.jp/comics/yabai/64</link>
-      
-        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕はバラしてしまった]]></description>
-      <content:encoded><![CDATA[僕はバラしてしまった]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/64</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/rlcMKOsMkvitgTprnteLtd8vY-JsF75vmfZkeqrToHs/episode_thumbnail/thumb_double.png?1607069960" length="0" type="image/png"/>
       
     </item>
     

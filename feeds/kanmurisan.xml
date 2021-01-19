@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kanmurisan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kanmurisan.xml" rel="self"/>
     <description><![CDATA[時計店を営むお姉さんの日常]]></description>
-    <lastBuildDate>Mon, 18 Jan 2021 15:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 15:23:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/kanmurisan/22</link>
+      
+        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[嫌な仲間ね～]]></description>
+      <content:encoded><![CDATA[嫌な仲間ね～]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/P2DLoV4H4aGtSmjiEcPcEEog7TR6j5EB-pElnspNEJ4/episode_thumbnail/thumb_double.png?1610687949" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/20</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/7BOrWESYT3AuokoqHb1_2DWzdrdlq1ecG0CAoLMruPY/episode_thumbnail/thumb_double.png?1605497408" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/kanmurisan/19</link>
-      
-        <pubDate>Thu, 05 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[気が散るんですが…]]></description>
-      <content:encoded><![CDATA[気が散るんですが…]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/19</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/VKwDp_ROBxEZqUE6UDPA360RIS66FIbyOmd45el4xz8/episode_thumbnail/thumb_double.png?1604295495" length="0" type="image/png"/>
       
     </item>
     

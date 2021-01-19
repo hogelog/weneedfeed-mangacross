@@ -7,49 +7,7 @@
     <link>https://mangacross.jp/api/comics/miyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/miyu.xml" rel="self"/>
     <description><![CDATA[妖しく美しい吸血姫浪漫、再起動。]]></description>
-    <lastBuildDate>Mon, 18 Jan 2021 15:25:14 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[最終話 後編]]></title>
-      <link>https://mangacross.jp/comics/miyu/63</link>
-      
-        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/miyu/63</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/XkCGeTMQDgMNZOJoTafruc7IhhalCBcOsLEUFALLwwM/episode_thumbnail/thumb_double.png?1602211201" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[最終話 前編]]></title>
-      <link>https://mangacross.jp/comics/miyu/62</link>
-      
-        <pubDate>Tue, 22 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/miyu/62</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/aPhNzZbtvID-Z7OVV5yp87iAO-xg01U6wR1Ef3Q0XE8/episode_thumbnail/thumb_double.png?1600405387" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第33話 後編]]></title>
-      <link>https://mangacross.jp/comics/miyu/61</link>
-      
-        <pubDate>Tue, 08 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/miyu/61</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ihg1YGy7Pt1F3aFdqVPmjFX-cFlryLLDEKvluSdvXcU/episode_thumbnail/thumb_double.png?1599198264" length="0" type="image/png"/>
-      
-    </item>
+    <lastBuildDate>Tue, 19 Jan 2021 15:24:14 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話 後編]]></title>

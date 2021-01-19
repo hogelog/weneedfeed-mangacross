@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/orietsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
     <description><![CDATA[サブキャラ・織津江大志活躍！]]></description>
-    <lastBuildDate>Mon, 18 Jan 2021 15:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 15:24:22 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第11話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/11</link>
+      
+        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[自然界での怪我はほとんど死と同義]]></description>
+      <content:encoded><![CDATA[自然界での怪我はほとんど死と同義]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/11</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/C63VU_IwSRrqkwGxXBKFOARZrDWaEy7e8kYcD8gHjeg/episode_thumbnail/thumb_double.png?1610687266" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第10話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/10</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/oMuIQtQOYNCzjKUC7vNIlUrNEVB6VqeT3kaZgu0_tsI/episode_thumbnail/thumb_double.png?1607667225" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第9話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/9</link>
-      
-        <pubDate>Tue, 17 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></description>
-      <content:encoded><![CDATA[そのスペックで人間様のお株奪うのやめてくれませんか？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/9</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/29vnSTCnYYoOMUpo-Lf1y_Rqt4B8fzJeEYojh_ejdtk/episode_thumbnail/thumb_double.png?1605496893" length="0" type="image/png"/>
       
     </item>
     

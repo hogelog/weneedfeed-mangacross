@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 18 Jan 2021 15:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 15:25:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第139話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/33</link>
+      
+        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は赤い服を着たことがない]]></description>
+      <content:encoded><![CDATA[僕は赤い服を着たことがない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/33</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/FN45V_FE9ALiRph8xsfVVYNkTXKWwzjp4OFoLQG2gU0/episode_thumbnail/thumb_double.png?1609825869" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第12話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/24</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/NGuUn0oXUUrtb8srJJ0yHq5koW_ZrZu4FCOk6d97Itg/episode_thumbnail/thumb_double.png?1598512891" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第134話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/23</link>
-      
-        <pubDate>Tue, 18 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[空虚すぎるフォーチュンクッキー]]></description>
-      <content:encoded><![CDATA[空虚すぎるフォーチュンクッキー]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/23</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/hft_Xz5uieVvd4t_xGteAC1MqZOfYD-lo3Mhxy6xdDs/episode_thumbnail/thumb_double.png?1597207974" length="0" type="image/png"/>
       
     </item>
     
