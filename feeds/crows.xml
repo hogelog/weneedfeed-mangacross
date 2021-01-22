@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Thu, 21 Jan 2021 15:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 15:24:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第68話④]]></title>
+      <link>https://mangacross.jp/comics/crows/260</link>
+      
+        <pubDate>Fri, 22 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[急襲！]]></description>
+      <content:encoded><![CDATA[急襲！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/260</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/FsIzgQ8dA-9ZB9T0arZkJOJn55DMIDRCqVMzKJdXWPg/episode_thumbnail/thumb_double.png?1606278271" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第68話③]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/258</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/uRcfST4MAultKY2dItW6rHGKCbxZsVMBVi1haLLEKok/episode_thumbnail/thumb_double.png?1606277939" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第68話①]]></title>
-      <link>https://mangacross.jp/comics/crows/257</link>
-      
-        <pubDate>Fri, 15 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[急襲！]]></description>
-      <content:encoded><![CDATA[急襲！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/257</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/_KuugAKZtV4KNyD1UviVlAPQS2_zCeMEAT1cH5UjojY/episode_thumbnail/thumb_double.png?1606277685" length="0" type="image/png"/>
       
     </item>
     
