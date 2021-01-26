@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Mon, 25 Jan 2021 15:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 15:10:46 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第11話 後半]]></title>
+      <link>https://mangacross.jp/comics/umigui/22</link>
+      
+        <pubDate>Tue, 26 Jan 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ヤドカリ]]></description>
+      <content:encoded><![CDATA[ヤドカリ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/W05NJYCA8AfvmQctsdZDHsCsP7AtrZap_JGCanXZ2JE/episode_thumbnail/thumb_double.png?1611298465" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第11話 前半]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/20</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/6i9YSLFRQQIlaglY_Z3LW_m9xxOkYRTK587abhWUj8s/episode_thumbnail/thumb_double.png?1608277670" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第10話 前半]]></title>
-      <link>https://mangacross.jp/comics/umigui/19</link>
-      
-        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ダメな大人]]></description>
-      <content:encoded><![CDATA[ダメな大人]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/19</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ZfoUMeukHYJrYkfDNbKFqbGTMgr1FGUCtlIcL5spGfU/episode_thumbnail/thumb_double.png?1607071779" length="0" type="image/png"/>
       
     </item>
     
