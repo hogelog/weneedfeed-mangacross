@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yushun2020.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yushun2020.xml" rel="self"/>
     <description><![CDATA[「優駿の門」のスピンオフ！]]></description>
-    <lastBuildDate>Wed, 27 Jan 2021 15:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 15:11:31 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第71話]]></title>
+      <link>https://mangacross.jp/comics/yushun2020/71</link>
+      
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0900</pubDate>
+      
+      <description><![CDATA[もう一度ボクと夢をみてくれませんか 71]]></description>
+      <content:encoded><![CDATA[もう一度ボクと夢をみてくれませんか 71]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/71</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/cqiDTlxMT8jKLB23fom5LmpueyIR_rfT43_20e6qWQE/episode_thumbnail/thumb_double.png?1611650454" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第70話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/62</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/zyMZVEfdozJZ_CZhB0wWkqAYV3Vvx7Rdp0IjTP6Erc4/episode_thumbnail/thumb_double.png?1605690007" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第61話]]></title>
-      <link>https://mangacross.jp/comics/yushun2020/61</link>
-      
-        <pubDate>Fri, 13 Nov 2020 00:00:00 +0900</pubDate>
-      
-      <description><![CDATA[もう一度ボクと夢を見てくれませんか 61]]></description>
-      <content:encoded><![CDATA[もう一度ボクと夢を見てくれませんか 61]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/61</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Q2E1qSHHYLG_-upDbOoc4hb440CXQ8GmiwkXKjesCIs/episode_thumbnail/thumb_double.png?1604907517" length="0" type="image/png"/>
       
     </item>
     
