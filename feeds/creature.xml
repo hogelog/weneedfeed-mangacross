@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/creature.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/creature.xml" rel="self"/>
     <description><![CDATA[異世界でクリ娘とハーレムしちゃう!?]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:25:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第48話]]></title>
+      <link>https://mangacross.jp/comics/creature/48</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[バジリスク2]]></description>
+      <content:encoded><![CDATA[バジリスク2]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/creature/48</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/xtIGhkVQO2Zt5QgBmD853WCvY75v3t_Mgo_UIAo2SqQ/episode_thumbnail/thumb_double.png?1612158580" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第47話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/47</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ZNTcjsAcPXqbUcNCUCDiMctbfAOzOBFn1ni4Mvz6pYY/episode_thumbnail/thumb_double.png?1608865437" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第46話]]></title>
-      <link>https://mangacross.jp/comics/creature/46</link>
-      
-        <pubDate>Tue, 01 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[全滅確認]]></description>
-      <content:encoded><![CDATA[全滅確認]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/creature/46</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/_sEqu-Ag_nh26qfLP8PYZfhepzx4EyA78bjCzm2BJvU/episode_thumbnail/thumb_double.png?1606462897" length="0" type="image/png"/>
       
     </item>
     

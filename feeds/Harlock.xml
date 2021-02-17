@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/Harlock.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/Harlock.xml" rel="self"/>
     <description><![CDATA[スペースパイレーツロマン！！]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:26:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Vol.24]]></title>
+      <link>https://mangacross.jp/comics/Harlock/24</link>
+      
+        <pubDate>Tue, 09 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/24</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/KXc_KnD7E4a6NsGUpEimgg_guKRy__xrZjDkxkNnxOk/episode_thumbnail/thumb_double.png?1612512830" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Vol.23]]></title>
+      <link>https://mangacross.jp/comics/Harlock/23</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZOj6ICVqpAERoqvTTh-lbxCwTbIrr_S16hrTW1YdPPk/episode_thumbnail/thumb_double.png?1611900588" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Vol.22]]></title>
@@ -118,34 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/15</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/r2yBHWaDriUv4FUcMgrupyk29I3t1XBM38HHLiNWrC0/episode_thumbnail/thumb_double.png?1606461705" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Vol.14]]></title>
-      <link>https://mangacross.jp/comics/Harlock/14</link>
-      
-        <pubDate>Tue, 14 Jan 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/14</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/tfnqYv2gaXscMrAcwrsuYG3dGK5eUnfPQ0qgusiAhKs/episode_thumbnail/thumb_double.png?1578553564" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Vol.13]]></title>
-      <link>https://mangacross.jp/comics/Harlock/13</link>
-      
-        <pubDate>Tue, 07 Jan 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/Harlock/13</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/HMRMBw860qA-HwMIxJoBTAl_xfcU38D-8JRajNczhwU/episode_thumbnail/thumb_double.png?1577414276" length="0" type="image/png"/>
       
     </item>
     

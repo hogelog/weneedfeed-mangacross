@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:27:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第13話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/34</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ベートーベンとコーヒー豆]]></description>
+      <content:encoded><![CDATA[ベートーベンとコーヒー豆]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/34</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/VfiH2XlVo93D-dPq80acen8nK3gbGuYMVWpRSEckjL4/episode_thumbnail/thumb_double.png?1611898427" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第139話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/25</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/15ioOI4u35WzUsAqJOLd7lVaTWTY5o3aXH-MoTZvjIU/episode_thumbnail/thumb_double.png?1600052146" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第8話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/24</link>
-      
-        <pubDate>Tue, 01 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ピザの箱は赤子を抱くように温かい]]></description>
-      <content:encoded><![CDATA[ピザの箱は赤子を抱くように温かい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/24</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/NGuUn0oXUUrtb8srJJ0yHq5koW_ZrZu4FCOk6d97Itg/episode_thumbnail/thumb_double.png?1598512891" length="0" type="image/png"/>
       
     </item>
     

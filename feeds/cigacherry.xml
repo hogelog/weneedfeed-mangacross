@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/cigacherry.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/cigacherry.xml" rel="self"/>
     <description><![CDATA[この先輩…控えめに言って、最高です！]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:25:34 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[10巻＆11巻発売記念 番外編]]></title>
+      <link>https://mangacross.jp/comics/cigacherry/129</link>
+      
+        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/cigacherry/129</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qzrZ1w41MpTs1GnD-ctT7OkqC3TwvUa7G2r6Qa2KR04/episode_thumbnail/thumb_double.png?1613107792" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[特別編]]></title>

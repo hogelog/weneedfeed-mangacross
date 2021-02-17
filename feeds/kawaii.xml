@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:26:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第40話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/49</link>
+      
+        <pubDate>Thu, 11 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[チョコが欲しいと言わせたい]]></description>
+      <content:encoded><![CDATA[チョコが欲しいと言わせたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/49</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RnBTKc9HaexXbhLbNBNGM26eRCh13aQw2HOe9W0Rzd0/episode_thumbnail/thumb_double.png?1612851572" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第39話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/40</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/H6eNsKnRYqpUmcWvTUsNir88tuSII4lWFzs7hpnwPAs/episode_thumbnail/thumb_double.png?1602652904" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第32話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/39</link>
-      
-        <pubDate>Thu, 01 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[敬語で言わせたい]]></description>
-      <content:encoded><![CDATA[敬語で言わせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/39</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/vzmMnj67RXWiga7LdnbGNfEslwhucAQpa5-fQStVuBs/episode_thumbnail/thumb_double.png?1601357100" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:25:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第20話]]></title>
+      <link>https://mangacross.jp/comics/akabane/21</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[コラボカフェ！ アカバネアイドルに大変身!?]]></description>
+      <content:encoded><![CDATA[コラボカフェ！ アカバネアイドルに大変身!?]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/7jkhvApfEJm_t2sw2jUZZueTxRKm5H5DQ2lpi6kJSHU/episode_thumbnail/thumb_double.png?1611896967" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第19話]]></title>

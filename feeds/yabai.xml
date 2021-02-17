@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:28:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.64]]></title>
+      <link>https://mangacross.jp/comics/yabai/69</link>
+      
+        <pubDate>Tue, 09 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らは大人じゃない]]></description>
+      <content:encoded><![CDATA[僕らは大人じゃない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/69</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6JZBq4N6wuOOvonXKLk-ZGxjLcDagkpogwLv5I_ye5I/episode_thumbnail/thumb_double.png?1612506718" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.63]]></title>
+      <link>https://mangacross.jp/comics/yabai/68</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は受け止めた]]></description>
+      <content:encoded><![CDATA[僕は受け止めた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/68</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Pa2vfrxFPFi1OtxRdWwwHoYPKXw2IBEQPDs3vBTLQJk/episode_thumbnail/thumb_double.png?1611895420" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.62]]></title>
@@ -20,34 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/67</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/80GTcPRn9wfqCFX-5VmxIlXd6TENZTwck6R7TyMhgbg/episode_thumbnail/thumb_double.png?1610686426" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.61]]></title>
-      <link>https://mangacross.jp/comics/yabai/66</link>
-      
-        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らは探している]]></description>
-      <content:encoded><![CDATA[僕らは探している]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/66</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ZHM35ramGf992EL9TFIhKbyY_QTug8X134LMdQQjz48/episode_thumbnail/thumb_double.png?1608864921" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.60]]></title>
-      <link>https://mangacross.jp/comics/yabai/65</link>
-      
-        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は楽しいのに]]></description>
-      <content:encoded><![CDATA[僕は楽しいのに]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/65</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/qNxm3cOeY4YkRZIwO2L8uCxBn-7SJpJDUSed10gUFvU/episode_thumbnail/thumb_double.png?1608269733" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/aomori.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/aomori.xml" rel="self"/>
     <description><![CDATA[他には無い青森グルメまんが！]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:25:10 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第68話]]></title>
+      <link>https://mangacross.jp/comics/aomori/68</link>
+      
+        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[奥入瀬ガーリックポーク]]></description>
+      <content:encoded><![CDATA[奥入瀬ガーリックポーク]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/68</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/K_ayHVmBDzavvBoIk247uiN1FTgGxjCpg2zoEyB2_Ec/episode_thumbnail/thumb_double.png?1613112446" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第67話]]></title>
+      <link>https://mangacross.jp/comics/aomori/67</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[けの汁]]></description>
+      <content:encoded><![CDATA[けの汁]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/67</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/OpT9DO7oDGmC8yDafDrSrP3zCYiU9PskLVMLLgxurJY/episode_thumbnail/thumb_double.png?1611900175" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第66話]]></title>
@@ -118,34 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/59</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/iZL1S-rMXX0JjdjcxAdfa1K4Qb2-qiH4ZDW_vL05IJU/episode_thumbnail/thumb_double.png?1601542950" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第58話]]></title>
-      <link>https://mangacross.jp/comics/aomori/58</link>
-      
-        <pubDate>Tue, 15 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[中泊メバル]]></description>
-      <content:encoded><![CDATA[中泊メバル]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/58</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/eLoJaeim-iEEUodzWjyXq5KVGEdv8oM1iEeEaPbSnW4/episode_thumbnail/thumb_double.png?1599802151" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第57話]]></title>
-      <link>https://mangacross.jp/comics/aomori/57</link>
-      
-        <pubDate>Tue, 01 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[清水森ナンバ]]></description>
-      <content:encoded><![CDATA[清水森ナンバ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/57</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/01wqx9GvGap0gSomSBQdv0p7DTfyOKPOgFBrlDmcohI/episode_thumbnail/thumb_double.png?1598514532" length="0" type="image/png"/>
       
     </item>
     

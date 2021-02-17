@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/maounomusume.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/maounomusume.xml" rel="self"/>
     <description><![CDATA[キモチだだ漏れ異世界ラブコメ]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:27:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/maounomusume/22</link>
+      
+        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Jx5s6eiKVjI4X6fOvfN0Z-9CsRD35fnPGJ1mdl53yqs/episode_thumbnail/thumb_double.png?1613111863" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第21話]]></title>
+      <link>https://mangacross.jp/comics/maounomusume/21</link>
+      
+        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/L8pyGkD2zGUo0F5xjabWJZCedDkzPkt7gS5cQioUkAY/episode_thumbnail/thumb_double.png?1611899240" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -20,34 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/20</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/hBoC_YZ6WM882mpzxGcucj4M_tTKzTkZB7vJDG3UdzQ/episode_thumbnail/thumb_double.png?1610686883" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/maounomusume/19</link>
-      
-        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/19</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/lztruD1OV1nz3qTTUGpw7HM85L1UskYD7RTsny0uHJE/episode_thumbnail/thumb_double.png?1608275128" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第18話]]></title>
-      <link>https://mangacross.jp/comics/maounomusume/18</link>
-      
-        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/18</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/v55B3Bgd6mKnYk7Oqt-fMW4yjAI5oyN2mtW9z3gUC00/episode_thumbnail/thumb_double.png?1607071571" length="0" type="image/png"/>
       
     </item>
     

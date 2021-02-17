@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crossoverrev.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crossoverrev.xml" rel="self"/>
     <description><![CDATA[伝説のクルマ漫画が、再び！]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:25:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.45]]></title>
+      <link>https://mangacross.jp/comics/crossoverrev/45</link>
+      
+        <pubDate>Thu, 11 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[TRUTH]]></description>
+      <content:encoded><![CDATA[TRUTH]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/45</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/3Yvr33JlYOAGTY9q_0wj7wFN8POK59ZYHImmrfgX8G8/episode_thumbnail/thumb_double.png?1612851787" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[ACT.44]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/36</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/QeBAXHJpaZPKBo_zKHS1SeIlYOGQEp5mYB4rAAm316k/episode_thumbnail/thumb_double.png?1598341658" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[ACT.35]]></title>
-      <link>https://mangacross.jp/comics/crossoverrev/35</link>
-      
-        <pubDate>Thu, 13 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[涙流して意固まる]]></description>
-      <content:encoded><![CDATA[涙流して意固まる]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/35</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/snLvOyVeVMamCC3TVTV47KKPXuYtG9Anlabnlf8Wrsk/episode_thumbnail/thumb_double.png?1597125602" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shiomai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shiomai.xml" rel="self"/>
     <description><![CDATA[青春群像コメディ]]></description>
-    <lastBuildDate>Mon, 01 Feb 2021 15:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 15:27:39 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話（5巻発売記念特別配信）]]></title>
+      <link>https://mangacross.jp/comics/shiomai/21</link>
+      
+        <pubDate>Mon, 08 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Cp8lkMffluvGAJzQ2nniVqTHvyQgru_oJLsShl9Z2Yg/episode_thumbnail/thumb_double.png?1612747652" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[クロス第14話]]></title>
@@ -52,44 +66,86 @@
     </item>
     
     <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/shiomai/3</link>
+      <title><![CDATA[クロス第11話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/14</link>
       
-        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
+        <pubDate>Thu, 27 Aug 2020 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[それからそれで]]></description>
-      <content:encoded><![CDATA[それからそれで]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/3</guid>
+      <description><![CDATA[スーパーうさうさもみもみフィーバータイム]]></description>
+      <content:encoded><![CDATA[スーパーうさうさもみもみフィーバータイム]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/14</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/1bonDbyNHZljzTAyXZGHaXu0lHc265n6BLvza-KDaQA/episode_thumbnail/thumb_double.jpg?1554777882" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話]]></title>
-      <link>https://mangacross.jp/comics/shiomai/2</link>
-      
-        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[近くの団地に住んでいる男がよ]]></description>
-      <content:encoded><![CDATA[近くの団地に住んでいる男がよ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/W3G6WqJZRK0ejCdo6Dg2fG4Zklr_DCQn5YumF3VbcEo/episode_thumbnail/thumb_double.jpg?1554777847" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/jPa-jRmvAPs2zRKkJJER0HpAZ87aALPKXMinwiK8P40/episode_thumbnail/thumb_double.png?1598342427" length="0" type="image/png"/>
       
     </item>
     
     <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://mangacross.jp/comics/shiomai/1</link>
+      <title><![CDATA[クロス第10話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/13</link>
       
-        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
+        <pubDate>Thu, 16 Jul 2020 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[潮が舞い込む海のそばの田舎町]]></description>
-      <content:encoded><![CDATA[潮が舞い込む海のそばの田舎町]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/1</guid>
+      <description><![CDATA[西]]></description>
+      <content:encoded><![CDATA[西]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/13</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/wK1g0gBCyeuAd2Z2OTqw0rO6kY-gXxfKvsCdGJPBG_0/episode_thumbnail/thumb_double.jpg?1554777809" length="0" type="image/jpeg"/>
+        <enclosure url="https://mangacross.jp/images/episode/3bTNOEOWCU6nnEmydN2WljFwnt4h09jzxRxErcfSHG8/episode_thumbnail/thumb_double.png?1594621890" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[クロス第9話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/12</link>
+      
+        <pubDate>Thu, 25 Jun 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[校外ボランティア活動]]></description>
+      <content:encoded><![CDATA[校外ボランティア活動]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/12</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Iy39OqFWUgMyLAmpY6Qqo1I_JLTkBRVTPr7DHqgoY84/episode_thumbnail/thumb_double.png?1592891711" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[クロス第8話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/11</link>
+      
+        <pubDate>Thu, 20 Feb 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[バイト休憩室]]></description>
+      <content:encoded><![CDATA[バイト休憩室]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/11</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Regz8ZO3WylG4mJOIYRsOOSF0aac-nlDyd8I8xaTPdw/episode_thumbnail/thumb_double.png?1581670582" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[クロス第7話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/10</link>
+      
+        <pubDate>Thu, 30 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[みんなでアニメ映画を観る会]]></description>
+      <content:encoded><![CDATA[みんなでアニメ映画を観る会]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/10</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zjs0MWnXCvVUD3WAuZJXglzfusflqCfAyxD-V0HsDKA/episode_thumbnail/thumb_double.png?1580186955" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[クロス第6話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/9</link>
+      
+        <pubDate>Thu, 26 Sep 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[トラクラ]]></description>
+      <content:encoded><![CDATA[トラクラ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/B7G0ROSFsRB874qa4G95JxV5nVgsHKmL_gGG43tSRrM/episode_thumbnail/thumb_double.png?1569302800" length="0" type="image/png"/>
       
     </item>
     
