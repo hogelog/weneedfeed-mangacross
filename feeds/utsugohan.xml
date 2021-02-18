@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Wed, 17 Feb 2021 15:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 15:18:02 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第140話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/35</link>
+      
+        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[2021年のすべて]]></description>
+      <content:encoded><![CDATA[2021年のすべて]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/35</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qd3QUf7tJyMF-5rkSseSWF6BRwPWhrWLpFmGURCHguA/episode_thumbnail/thumb_double.png?1613627492" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第13話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/26</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Z50JvrC12z8AIiGGnUd-KVjZqiXtg_5kFIzK3U6m9bM/episode_thumbnail/thumb_double.png?1601542345" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第135話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/25</link>
-      
-        <pubDate>Tue, 15 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[スイカと花火]]></description>
-      <content:encoded><![CDATA[スイカと花火]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/25</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/15ioOI4u35WzUsAqJOLd7lVaTWTY5o3aXH-MoTZvjIU/episode_thumbnail/thumb_double.png?1600052146" length="0" type="image/png"/>
       
     </item>
     

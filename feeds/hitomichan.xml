@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hitomichan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hitomichan.xml" rel="self"/>
     <description><![CDATA[三白眼女子の不器用コメディ♪]]></description>
-    <lastBuildDate>Wed, 17 Feb 2021 15:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 15:16:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第54話]]></title>
+      <link>https://mangacross.jp/comics/hitomichan/54</link>
+      
+        <pubDate>Thu, 18 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/54</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/nVFGikRmPblRKr-RGiSetLPYKeKcdYBEFVzgDRPoGzA/episode_thumbnail/thumb_double.png?1613456123" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第53話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/52</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/TFWB48vpO8GfYbtISeC0oRd6NRaRng2MxSSRQXQ4Kuw/episode_thumbnail/thumb_double.png?1611031619" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第51話]]></title>
-      <link>https://mangacross.jp/comics/hitomichan/51</link>
-      
-        <pubDate>Thu, 07 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hitomichan/51</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/y8xKV5ra3zPeGNvyXS3qtzW5K-KyQRypL8WOx_Lx4xs/episode_thumbnail/thumb_double.png?1609834571" length="0" type="image/png"/>
       
     </item>
     
