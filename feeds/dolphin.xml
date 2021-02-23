@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dolphin.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
     <description><![CDATA[実話にもとづく横浜暴走族浪漫！]]></description>
-    <lastBuildDate>Mon, 22 Feb 2021 15:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 15:21:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第二章 第五十五話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/100</link>
+      
+        <pubDate>Tue, 23 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[約束]]></description>
+      <content:encoded><![CDATA[約束]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/100</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/372xAaIHsEWmti1hk9nfgdls54S7V_44r-ngmydv-D4/episode_thumbnail/thumb_double.png?1613723736" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第二章 第五十四話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/98</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/4Fzr7RvMTJXLI7vfrRWaC0RMKZRpRsSOjqyjPj0yMCs/episode_thumbnail/thumb_double.png?1608278967" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第二章 第五十二話]]></title>
-      <link>https://mangacross.jp/comics/dolphin/97</link>
-      
-        <pubDate>Tue, 10 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[意地]]></description>
-      <content:encoded><![CDATA[意地]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/97</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/kd6D_ymNDEWCS78cCQ3kYtfMU-UQDp84RZgYR8h-fpU/episode_thumbnail/thumb_double.png?1604904701" length="0" type="image/png"/>
       
     </item>
     
