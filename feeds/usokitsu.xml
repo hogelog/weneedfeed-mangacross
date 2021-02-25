@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 24 Feb 2021 15:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 15:24:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/usokitsu/5</link>
+      
+        <pubDate>Thu, 25 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[空を見上げたら]]></description>
+      <content:encoded><![CDATA[空を見上げたら]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/yzx7vts2f2DPE_d-2WbxOqaeKkYFHg4gT6PwM2W2FYY/episode_thumbnail/thumb_double.png?1613981238" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第4話]]></title>

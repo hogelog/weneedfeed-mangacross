@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 24 Feb 2021 15:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 15:23:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第21話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/21</link>
+      
+        <pubDate>Thu, 25 Feb 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ヘッドホン]]></description>
+      <content:encoded><![CDATA[ヘッドホン]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/92Dniphqm4FaX5ZmZsHjC1K6vSMac8KJFxRX_Ccd3Tw/episode_thumbnail/thumb_double.png?1612924377" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/12</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Oln8aNsYYx1X5YrlB_Pbmhn3AqhbJGlebJ3o2jR7zFE/episode_thumbnail/thumb_double.png?1607410702" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第11話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/11</link>
-      
-        <pubDate>Thu, 26 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[お化け屋敷]]></description>
-      <content:encoded><![CDATA[お化け屋敷]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/eGiYOcyr3Ax3yYK4LNbqvzSaZZOzKF_ma17QObkdkeE/episode_thumbnail/thumb_double.png?1603862723" length="0" type="image/png"/>
       
     </item>
     
