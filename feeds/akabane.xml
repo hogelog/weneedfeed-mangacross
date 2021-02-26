@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Thu, 25 Feb 2021 15:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Feb 2021 15:20:46 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -48,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/19</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XuvQY377sz-_kyT5RpoaQmkaIHkWG1kZf1DS_7z7RDg/episode_thumbnail/thumb_double.png?1606464698" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第17話]]></title>
-      <link>https://mangacross.jp/comics/akabane/18</link>
-      
-        <pubDate>Tue, 03 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[にゃんにゃん！ ねこ娘大量発生!?]]></description>
-      <content:encoded><![CDATA[にゃんにゃん！ ねこ娘大量発生!?]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/18</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/GxF9eYkYCclU0jHN4fd_n75jYD-DgYV1tZDgQdU-efg/episode_thumbnail/thumb_double.png?1604038791" length="0" type="image/png"/>
       
     </item>
     
