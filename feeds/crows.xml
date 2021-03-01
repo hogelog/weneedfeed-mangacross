@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Sun, 28 Feb 2021 15:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 15:16:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第73話①]]></title>
+      <link>https://mangacross.jp/comics/crows/276</link>
+      
+        <pubDate>Mon, 01 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[満月の夜！]]></description>
+      <content:encoded><![CDATA[満月の夜！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/276</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/QMCmVjgRY-aTCNcdNMzhhYoIqjohdZw6hbtvHKTyHd8/episode_thumbnail/thumb_double.png?1613527107" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第72話③]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/274</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Mp4gNSxu4Vh24jVAWzQ_0_BTkUG7MRZbft58V_Y1aO0/episode_thumbnail/thumb_double.png?1613383156" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第72話①]]></title>
-      <link>https://mangacross.jp/comics/crows/273</link>
-      
-        <pubDate>Mon, 22 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[Calling！]]></description>
-      <content:encoded><![CDATA[Calling！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/273</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/vkCSVl5oYIVbixvte2nDs7cu70uKYzu6YODxHjmr2FY/episode_thumbnail/thumb_double.png?1613382876" length="0" type="image/png"/>
       
     </item>
     
