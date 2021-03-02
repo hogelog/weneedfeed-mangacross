@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Mon, 01 Mar 2021 15:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 15:21:38 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第49話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/50</link>
+      
+        <pubDate>Tue, 02 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ちゃんぽん食べよ！]]></description>
+      <content:encoded><![CDATA[ちゃんぽん食べよ！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/50</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Tx1KB0SSVVG66caWtGjo1O7ZRNS-wpoAABQNQQdDTao/episode_thumbnail/thumb_double.png?1614319866" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第48話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/48</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/5NQGyshQkiPk3Y0VA-pz43jALblwrj0b1u_PGXhRUB4/episode_thumbnail/thumb_double.jpg?1562900195" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第46話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/47</link>
-      
-        <pubDate>Tue, 02 Jul 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[バリ好いとーよ]]></description>
-      <content:encoded><![CDATA[バリ好いとーよ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/47</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/uoEI_TZbGrV8V7Gidtsx7EiuAcnyMzKUlYlLEXxR18Q/episode_thumbnail/thumb_double.jpg?1561950106" length="0" type="image/jpeg"/>
       
     </item>
     

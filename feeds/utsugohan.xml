@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 01 Mar 2021 15:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 15:23:19 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第14話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/36</link>
+      
+        <pubDate>Tue, 02 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[誤謬が好きすぎる]]></description>
+      <content:encoded><![CDATA[誤謬が好きすぎる]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/36</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fiHBVTbCS_MX1aOXc1UyJcoweD8VMxMLHHpkBYQN3Yg/episode_thumbnail/thumb_double.png?1614315533" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第140話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/27</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/v-HPSpBe9dxIUt8tK461gdMJ8w3AD03J89TJwXK7Oj0/episode_thumbnail/thumb_double.png?1602140407" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第9話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/26</link>
-      
-        <pubDate>Tue, 06 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[自己啓発とサンドイッチ]]></description>
-      <content:encoded><![CDATA[自己啓発とサンドイッチ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/26</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Z50JvrC12z8AIiGGnUd-KVjZqiXtg_5kFIzK3U6m9bM/episode_thumbnail/thumb_double.png?1601542345" length="0" type="image/png"/>
       
     </item>
     
