@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ohitsurisama.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ohitsurisama.xml" rel="self"/>
     <description><![CDATA[お一人様女子、必釣日誌!!]]></description>
-    <lastBuildDate>Wed, 03 Mar 2021 15:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 15:18:33 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第99話]]></title>
+      <link>https://mangacross.jp/comics/ohitsurisama/99</link>
+      
+        <pubDate>Thu, 04 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[SUPフィッシング③]]></description>
+      <content:encoded><![CDATA[SUPフィッシング③]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/99</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/tv2P32YfXZ_WAGp1CNZBrXWT78J9wyJC6Ddl5XeOtgU/episode_thumbnail/thumb_double.png?1614586108" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第98話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/97</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/wxT0NmAOzb-ASut1BrukWDct4w-Zn5910Sgc6WGf3P0/episode_thumbnail/thumb_double.png?1612234513" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第96話]]></title>
-      <link>https://mangacross.jp/comics/ohitsurisama/96</link>
-      
-        <pubDate>Thu, 21 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[チビエギ(ヒイカ)]]></description>
-      <content:encoded><![CDATA[チビエギ(ヒイカ)]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/96</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/jN4k2wF4zuExyRB9gcmHrUU0hV_d3VAPPUhBKrb-lfc/episode_thumbnail/thumb_double.png?1611024309" length="0" type="image/png"/>
       
     </item>
     
