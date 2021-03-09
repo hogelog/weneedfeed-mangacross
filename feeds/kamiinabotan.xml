@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kamiinabotan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kamiinabotan.xml" rel="self"/>
     <description><![CDATA[ほのぼの飲酒ガールズコメディ]]></description>
-    <lastBuildDate>Mon, 08 Mar 2021 15:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 15:23:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[#21]]></title>
+      <link>https://mangacross.jp/comics/kamiinabotan/23</link>
+      
+        <pubDate>Tue, 09 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kamiinabotan/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/MS7nYSnAjRsSIDTZ2TsFkVTDJGpIcJPfsX2PuVi_XSg/episode_thumbnail/thumb_double.png?1615179614" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[#20]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kamiinabotan/21</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/arF0Br_8ANlOasa5GpfkE_mYPJCmO2unmaYPYZv_Uak/episode_thumbnail/thumb_double.png?1608273046" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[#18.5]]></title>
-      <link>https://mangacross.jp/comics/kamiinabotan/20</link>
-      
-        <pubDate>Tue, 20 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kamiinabotan/20</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/rUwjD56IOJKsZ2OPUkpRte-0rMkJWwTjahpj4jXPLnw/episode_thumbnail/thumb_double.png?1602822430" length="0" type="image/png"/>
       
     </item>
     
