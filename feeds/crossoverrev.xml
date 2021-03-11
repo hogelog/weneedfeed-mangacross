@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crossoverrev.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crossoverrev.xml" rel="self"/>
     <description><![CDATA[伝説のクルマ漫画が、再び！]]></description>
-    <lastBuildDate>Wed, 10 Mar 2021 15:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 15:22:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.46]]></title>
+      <link>https://mangacross.jp/comics/crossoverrev/46</link>
+      
+        <pubDate>Thu, 11 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[a.R.i.S.]]></description>
+      <content:encoded><![CDATA[a.R.i.S.]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/46</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/9J3jrBubI8ji4DfmSwJvxdXmihhtXp-aVjzuzMNw4sk/episode_thumbnail/thumb_double.jpg?1615345421" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[ACT.45]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/37</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/KKElRGlmaD4nGonOLio9RxOrjlgfcOdZeg3E4DK0PY4/episode_thumbnail/thumb_double.png?1599533003" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[ACT.36]]></title>
-      <link>https://mangacross.jp/comics/crossoverrev/36</link>
-      
-        <pubDate>Thu, 27 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[レヴの怨霊？]]></description>
-      <content:encoded><![CDATA[レヴの怨霊？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/36</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/QeBAXHJpaZPKBo_zKHS1SeIlYOGQEp5mYB4rAAm316k/episode_thumbnail/thumb_double.png?1598341658" length="0" type="image/png"/>
       
     </item>
     

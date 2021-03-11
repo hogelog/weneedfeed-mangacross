@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/daikyochu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/daikyochu.xml" rel="self"/>
     <description><![CDATA[昆虫パニック漫画、新章突入!!]]></description>
-    <lastBuildDate>Wed, 10 Mar 2021 15:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 15:22:24 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第20話（前編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/40</link>
+      
+        <pubDate>Thu, 11 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[発覚]]></description>
+      <content:encoded><![CDATA[発覚]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/40</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/EGF_GnZUN09lZ6_6ou_NNP5vB7-EygcmM140W5eykbQ/episode_thumbnail/thumb_double.png?1615279452" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第19話（後編）]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/39</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/yPEnWZ07jjfp1E5bJPoPWaDIy4biQiHfOBjUl7I0dW0/episode_thumbnail/thumb_double.png?1613978104" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話（前編）]]></title>
-      <link>https://mangacross.jp/comics/daikyochu/38</link>
-      
-        <pubDate>Thu, 11 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[誘引]]></description>
-      <content:encoded><![CDATA[誘引]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/38</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/DMhcyLxG1ItiuDRoPwnciRFghJVM-VtC_yf5aeitrzc/episode_thumbnail/thumb_double.png?1612751460" length="0" type="image/png"/>
       
     </item>
     
