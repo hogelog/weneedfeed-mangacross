@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 15 Mar 2021 15:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:24:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第141話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/37</link>
+      
+        <pubDate>Tue, 16 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[マインドフルネスですべてなんとかなる]]></description>
+      <content:encoded><![CDATA[マインドフルネスですべてなんとかなる]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/37</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/lXF_mo7Z_KiN1tjaEGf3lIpu-fWSLd1uIMsuuzCtW1g/episode_thumbnail/thumb_double.png?1614325401" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第14話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/28</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/TGxxlY1Ucsob4uAqmrb4Emv9jiHaLcikypBdXCkkWAQ/episode_thumbnail/thumb_double.png?1604037872" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第136話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/27</link>
-      
-        <pubDate>Tue, 20 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[袋1枚に３円払って環境問題に思いを馳せたりしない]]></description>
-      <content:encoded><![CDATA[袋1枚に３円払って環境問題に思いを馳せたりしない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/27</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/v-HPSpBe9dxIUt8tK461gdMJ8w3AD03J89TJwXK7Oj0/episode_thumbnail/thumb_double.png?1602140407" length="0" type="image/png"/>
       
     </item>
     

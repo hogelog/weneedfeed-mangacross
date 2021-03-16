@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Mon, 15 Mar 2021 15:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:23:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第50話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/51</link>
+      
+        <pubDate>Tue, 16 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[髪をほどいた君の仕草が]]></description>
+      <content:encoded><![CDATA[髪をほどいた君の仕草が]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/51</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fj670pQ7IS6oNuk6VwdPPVMklbT1HJRRTFD-nbajK48/episode_thumbnail/thumb_double.png?1615517676" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第49話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/49</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/I1M9BMF7GlcIXFW7Rvw55idN1Z7xzIDCa50vbC01wVU/episode_thumbnail/thumb_double.png?1570769213" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第47話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/48</link>
-      
-        <pubDate>Tue, 16 Jul 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[一日一本ヤクルトを]]></description>
-      <content:encoded><![CDATA[一日一本ヤクルトを]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/48</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/5NQGyshQkiPk3Y0VA-pz43jALblwrj0b1u_PGXhRUB4/episode_thumbnail/thumb_double.jpg?1562900195" length="0" type="image/jpeg"/>
       
     </item>
     

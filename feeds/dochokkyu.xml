@@ -7,7 +7,35 @@
     <link>https://mangacross.jp/api/comics/dochokkyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dochokkyu.xml" rel="self"/>
     <description><![CDATA[「!!」多めの高血圧ラブコメ]]></description>
-    <lastBuildDate>Mon, 15 Mar 2021 15:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:23:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://mangacross.jp/comics/dochokkyu/14</link>
+      
+        <pubDate>Thu, 30 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[第一歩]]></description>
+      <content:encoded><![CDATA[第一歩]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/14</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/c5oPI_HdzB-BA45YFzX4pukSyTgU_BDV82XErW7a8xU/episode_thumbnail/thumb_double.png?1576730138" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第13話]]></title>
+      <link>https://mangacross.jp/comics/dochokkyu/13</link>
+      
+        <pubDate>Tue, 28 Jan 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[恋（後編）]]></description>
+      <content:encoded><![CDATA[恋（後編）]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/13</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/9XQ3UoUF4YyD5-Bh7gThou7CqGq9llS1ZrJ1xqxm1yU/episode_thumbnail/thumb_double.png?1576723350" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第2話]]></title>

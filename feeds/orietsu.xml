@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/orietsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
     <description><![CDATA[サブキャラ・織津江大志活躍！]]></description>
-    <lastBuildDate>Mon, 15 Mar 2021 15:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:24:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第13話]]></title>
+      <link>https://mangacross.jp/comics/orietsu/13</link>
+      
+        <pubDate>Tue, 16 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[大が小を兼ねるとは限らない]]></description>
+      <content:encoded><![CDATA[大が小を兼ねるとは限らない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/13</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/CtllDCD6K2QdSJMynO0lGmPlF76_dnbAQJR1MEzUl5o/episode_thumbnail/thumb_double.png?1615518355" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第12話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/12</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/OvHYCDGODbHS2pNxWIcwq3w3OxxobF5bm7z6CIe_KcQ/episode_thumbnail/thumb_double.png?1613108974" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第11話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/11</link>
-      
-        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[自然界での怪我はほとんど死と同義]]></description>
-      <content:encoded><![CDATA[自然界での怪我はほとんど死と同義]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/C63VU_IwSRrqkwGxXBKFOARZrDWaEy7e8kYcD8gHjeg/episode_thumbnail/thumb_double.png?1610687266" length="0" type="image/png"/>
       
     </item>
     

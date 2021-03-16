@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kanmurisan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kanmurisan.xml" rel="self"/>
     <description><![CDATA[時計店を営むお姉さんの日常]]></description>
-    <lastBuildDate>Mon, 15 Mar 2021 15:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:23:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第24話]]></title>
+      <link>https://mangacross.jp/comics/kanmurisan/24</link>
+      
+        <pubDate>Tue, 16 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[中入りませんか？]]></description>
+      <content:encoded><![CDATA[中入りませんか？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/24</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/drPHDRzX3v_xGszKL42xYy8ZQOiur9eSqpLjDQdOkk4/episode_thumbnail/thumb_double.png?1615519054" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第23話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/22</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/P2DLoV4H4aGtSmjiEcPcEEog7TR6j5EB-pElnspNEJ4/episode_thumbnail/thumb_double.png?1610687949" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第21話]]></title>
-      <link>https://mangacross.jp/comics/kanmurisan/21</link>
-      
-        <pubDate>Tue, 15 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[私のお腹です…]]></description>
-      <content:encoded><![CDATA[私のお腹です…]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kanmurisan/21</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9Kd14YFw3M7Vzi55TwyJHL3_rT9syjzeJ7ESyAxyljQ/episode_thumbnail/thumb_double.png?1607662590" length="0" type="image/png"/>
       
     </item>
     
