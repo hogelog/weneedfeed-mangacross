@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Tue, 16 Mar 2021 15:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 15:22:10 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第75話①]]></title>
+      <link>https://mangacross.jp/comics/crows/283</link>
+      
+        <pubDate>Mon, 15 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[出撃！坊屋春道！]]></description>
+      <content:encoded><![CDATA[出撃！坊屋春道！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/283</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/erPQAysmcZsFSFQPiF5IMLujzbbrcL4h8Rv1pB8umq0/episode_thumbnail/thumb_double.png?1613528885" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第74話③]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/281</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/CdXyWQQPDefHSeXGuZ0TRabrqMrPNr5n8i89zI2OBJQ/episode_thumbnail/thumb_double.png?1613528425" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第74話①]]></title>
-      <link>https://mangacross.jp/comics/crows/280</link>
-      
-        <pubDate>Mon, 08 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ビトーとリューシン！]]></description>
-      <content:encoded><![CDATA[ビトーとリューシン！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/280</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/r6HhJahsHSSLJYEfbz3fTd3fE15-sdnpus434qXxzvk/episode_thumbnail/thumb_double.png?1613528220" length="0" type="image/png"/>
       
     </item>
     
