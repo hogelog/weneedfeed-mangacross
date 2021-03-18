@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dochokkyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dochokkyu.xml" rel="self"/>
     <description><![CDATA[「!!」多めの高血圧ラブコメ]]></description>
-    <lastBuildDate>Wed, 17 Mar 2021 15:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 15:22:31 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第25話]]></title>
+      <link>https://mangacross.jp/comics/dochokkyu/29</link>
+      
+        <pubDate>Thu, 18 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ええっ!? まさかの仮進級!!!]]></description>
+      <content:encoded><![CDATA[ええっ!? まさかの仮進級!!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/29</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/87SrIbfrVRbC3foDApmt2CfOeC4utxZ_z14Yi93HPVM/episode_thumbnail/thumb_double.png?1615879520" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第14話]]></title>

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/princess.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/princess.xml" rel="self"/>
     <description><![CDATA[男子禁制百合コメディ！]]></description>
-    <lastBuildDate>Wed, 17 Mar 2021 15:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 15:23:39 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第21話]]></title>
+      <link>https://mangacross.jp/comics/princess/21</link>
+      
+        <pubDate>Thu, 18 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[…のお母さま]]></description>
+      <content:encoded><![CDATA[…のお母さま]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/v8j8CHwIJIcDyVwMNwFt-Ou7FIiD_gW9WNyHlnHkn-c/episode_thumbnail/thumb_double.png?1615877553" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/princess/2</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/3veCm0dJgaBj8gb04ozsmXwGEAXbdF5htGGCvs-xQWA/episode_thumbnail/thumb_double.png?1563859546" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://mangacross.jp/comics/princess/1</link>
-      
-        <pubDate>Thu, 18 Jul 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ときめきのメモリアル]]></description>
-      <content:encoded><![CDATA[ときめきのメモリアル]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/princess/1</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/KKyeFayaLuw_-dtKt0zsti5MV7QIquCYXEEX7oVTWws/episode_thumbnail/thumb_double.?1563251275" length="0" type=""/>
       
     </item>
     
