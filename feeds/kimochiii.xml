@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kimochiii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kimochiii.xml" rel="self"/>
     <description><![CDATA[気持ちよさを求める実録漫画！]]></description>
-    <lastBuildDate>Mon, 22 Mar 2021 15:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 15:24:18 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[最終話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/28</link>
+      
+        <pubDate>Tue, 23 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[気持ちいい体]]></description>
+      <content:encoded><![CDATA[気持ちいい体]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/28</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/IQPWnQv1Gtx0ccx7cFgzLb0DtdR0KbUMqJYesycpapU/episode_thumbnail/thumb_double.png?1616135174" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第27話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/19</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ZKWWhkEohtYEOz9XxucWFw4CfqBO8JLD4YB_5Ogyppk/episode_thumbnail/thumb_double.png?1604644880" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第17話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/17</link>
-      
-        <pubDate>Tue, 13 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[貸し切りサウナ]]></description>
-      <content:encoded><![CDATA[貸し切りサウナ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/17</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/7VvYP6Qt7Gqz4fBQWQopxOXqTE8qxVuSr3lBykiK76k/episode_thumbnail/thumb_double.png?1602212043" length="0" type="image/png"/>
       
     </item>
     
