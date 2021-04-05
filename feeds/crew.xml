@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crew.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crew.xml" rel="self"/>
     <description><![CDATA[元CAが描くCAお仕事まんが！]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 15:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 06:54:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[#47]]></title>
+      <link>https://mangacross.jp/comics/crew/56</link>
+      
+        <pubDate>Tue, 30 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[救命ボートでございます!!]]></description>
+      <content:encoded><![CDATA[救命ボートでございます!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crew/56</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/DN8hWhDjp-uWrC4syhKMoHugyp0Ml1KXJF_Ikyavb7A/episode_thumbnail/thumb_double.png?1616726397" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[#46]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crew/54</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/_nLCp7t3yGoEPfqpn3JAwt1pKOXa_9eJo4_v9H7jvfE/episode_thumbnail/thumb_double.png?1598243249" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[#44]]></title>
-      <link>https://mangacross.jp/comics/crew/53</link>
-      
-        <pubDate>Thu, 26 Dec 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[機内清掃でございます!!]]></description>
-      <content:encoded><![CDATA[機内清掃でございます!!]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crew/53</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/hHJxPmjOeA13FJqfx4MdawZo3Nj3-EH2XbO8Lr4qLwI/episode_thumbnail/thumb_double.png?1577161645" length="0" type="image/png"/>
       
     </item>
     

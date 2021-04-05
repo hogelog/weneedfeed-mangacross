@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dochokkyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dochokkyu.xml" rel="self"/>
     <description><![CDATA[「!!」多めの高血圧ラブコメ]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 15:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 06:54:24 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第26話]]></title>
+      <link>https://mangacross.jp/comics/dochokkyu/30</link>
+      
+        <pubDate>Thu, 01 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[真子、女の自主勉強]]></description>
+      <content:encoded><![CDATA[真子、女の自主勉強]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/30</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/O16_QkBV6J1mHwG6Equ1TZdV5nUXWe2ybdJZ57eVWh8/episode_thumbnail/thumb_double.png?1616563524" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第25話]]></title>

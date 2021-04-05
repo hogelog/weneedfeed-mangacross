@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/saeismsecond.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/saeismsecond.xml" rel="self"/>
     <description><![CDATA[束縛サイコサスペンス、新章！]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 15:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 06:55:52 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第54話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/54</link>
+      
+        <pubDate>Tue, 30 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ゴメンネ①]]></description>
+      <content:encoded><![CDATA[ゴメンネ①]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/54</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/D6fwf3m2j5P4p1ZtUMBhDGjVo1f8roJgRanSvUyzOqo/episode_thumbnail/thumb_double.png?1616728001" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第53話]]></title>

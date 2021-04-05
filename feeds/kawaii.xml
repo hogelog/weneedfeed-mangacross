@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 15:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 06:55:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第43話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/52</link>
+      
+        <pubDate>Thu, 25 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[野洲の魅力を言わせたい]]></description>
+      <content:encoded><![CDATA[野洲の魅力を言わせたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/52</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-9u4Yz1OQD1gEIK7doqKehieUCBO8c28PUwHHfwgriM/episode_thumbnail/thumb_double.png?1616554564" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第42話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/43</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/kQU3xoQWMqShPoMJd2IRbmIsrtmS_ZnCPbWHa0_7Xfw/episode_thumbnail/thumb_double.png?1604458870" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Twitter再掲載 第9話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/42</link>
-      
-        <pubDate>Tue, 03 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[「〇」だと言わせたい]]></description>
-      <content:encoded><![CDATA[「〇」だと言わせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/42</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Ld8walnSZuGnNFStuDuKWJSMON5xIV74_Ej4qFGHwvw/episode_thumbnail/thumb_double.png?1604050919" length="0" type="image/png"/>
       
     </item>
     

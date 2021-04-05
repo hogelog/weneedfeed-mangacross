@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Tue, 23 Mar 2021 15:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 06:55:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第23話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/23</link>
+      
+        <pubDate>Thu, 25 Mar 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[花粉症]]></description>
+      <content:encoded><![CDATA[花粉症]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rSSvjqJnOw0FsVq_lBt0zSByTq4hmKdL3pwVR3NMZvs/episode_thumbnail/thumb_double.png?1612925232" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第22話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/14</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/1VE0nJ1r0d4sQ6owTpCu-HE1CJEDhZG8M9258yJJXl8/episode_thumbnail/thumb_double.png?1607412241" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第13話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/13</link>
-      
-        <pubDate>Thu, 17 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[紅葉]]></description>
-      <content:encoded><![CDATA[紅葉]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/13</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/x5ShLgOLxNYS9gTyDICKDtg6K7LJgLi2dtRKJDfQDXg/episode_thumbnail/thumb_double.png?1607410860" length="0" type="image/png"/>
       
     </item>
     
