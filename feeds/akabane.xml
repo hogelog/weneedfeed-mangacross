@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Mon, 05 Apr 2021 15:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:21:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/akabane/23</link>
+      
+        <pubDate>Tue, 06 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[デート!? ふたりだけの休日！]]></description>
+      <content:encoded><![CDATA[デート!? ふたりだけの休日！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ChHoCxGIMaYr5ggotyJOKmHtTILCrsLd0IBlehLGl7Q/episode_thumbnail/thumb_double.png?1617344689" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/21</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/7jkhvApfEJm_t2sw2jUZZueTxRKm5H5DQ2lpi6kJSHU/episode_thumbnail/thumb_double.png?1611896967" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/akabane/20</link>
-      
-        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[幽霊現る!? 除霊せよ赤羽課！]]></description>
-      <content:encoded><![CDATA[幽霊現る!? 除霊せよ赤羽課！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/20</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/6J0sEBGct_6nMtyOwipdo6x3BenK7hVdWiou_ReITlQ/episode_thumbnail/thumb_double.png?1608865720" length="0" type="image/png"/>
       
     </item>
     

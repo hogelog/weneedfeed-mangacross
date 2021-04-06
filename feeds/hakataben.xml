@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Mon, 05 Apr 2021 15:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:22:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/hakataben/53</link>
+      
+        <pubDate>Tue, 06 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[にわかせんぺいで仲直り]]></description>
+      <content:encoded><![CDATA[にわかせんぺいで仲直り]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/53</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RJY77Rfedv4woqu7kcQtLQIE6Sof49e1AqZPSSm2JoM/episode_thumbnail/thumb_double.png?1617342667" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第51話]]></title>

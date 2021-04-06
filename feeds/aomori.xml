@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/aomori.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/aomori.xml" rel="self"/>
     <description><![CDATA[他には無い青森グルメまんが！]]></description>
-    <lastBuildDate>Mon, 05 Apr 2021 15:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:21:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第71話]]></title>
+      <link>https://mangacross.jp/comics/aomori/71</link>
+      
+        <pubDate>Tue, 06 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/71</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/DdXm8E7dOtaWFP1ZejWSt4U55ks5umbdlaiSunfQAKU/episode_thumbnail/thumb_double.png?1617344223" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第70話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/aomori/62</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XIcs_ky9l8-f04b2heNPtQkeiy5ahZIiAHLg0sFcooc/episode_thumbnail/thumb_double.png?1605497560" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第61話]]></title>
-      <link>https://mangacross.jp/comics/aomori/61</link>
-      
-        <pubDate>Tue, 03 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[棒パン]]></description>
-      <content:encoded><![CDATA[棒パン]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/aomori/61</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/HV-ss3u4klGpN8qvU9f1O8hSTnPf01M7R7otX6wwdq8/episode_thumbnail/thumb_double.png?1604039756" length="0" type="image/png"/>
       
     </item>
     
