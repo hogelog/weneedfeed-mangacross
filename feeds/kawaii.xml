@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 07 Apr 2021 15:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 15:22:25 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第44話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/53</link>
+      
+        <pubDate>Thu, 08 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[結婚相手を認めない]]></description>
+      <content:encoded><![CDATA[結婚相手を認めない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/53</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fVe7b77mIsc1sU3KpiD5i1VS8teUdnQX1LvtXAhWHO8/episode_thumbnail/thumb_double.png?1617787723" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第43話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/44</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Q7KA8HsgnQvHSFIu_ERjWLQrc4bNm5IItxW0X-87nJA/episode_thumbnail/thumb_double.png?1606271557" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第34話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/43</link>
-      
-        <pubDate>Thu, 05 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[「守山」と言わせたい]]></description>
-      <content:encoded><![CDATA[「守山」と言わせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/43</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/kQU3xoQWMqShPoMJd2IRbmIsrtmS_ZnCPbWHa0_7Xfw/episode_thumbnail/thumb_double.png?1604458870" length="0" type="image/png"/>
       
     </item>
     
