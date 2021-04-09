@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dolphin.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
     <description><![CDATA[実話にもとづく横浜暴走族浪漫！]]></description>
-    <lastBuildDate>Thu, 08 Apr 2021 15:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 15:21:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第二章 第五十六話]]></title>
+      <link>https://mangacross.jp/comics/dolphin/101</link>
+      
+        <pubDate>Fri, 09 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[甘ぇンだよ]]></description>
+      <content:encoded><![CDATA[甘ぇンだよ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/101</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/csMHHSejru_7_CC9ybX65zt5ZH7zAg-wLYHMDLwrJzM/episode_thumbnail/thumb_double.png?1617954928" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第二章 第五十五話]]></title>

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Thu, 08 Apr 2021 15:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 15:21:24 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第77話④]]></title>
+      <link>https://mangacross.jp/comics/crows/293</link>
+      
+        <pubDate>Wed, 07 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[友よ…！]]></description>
+      <content:encoded><![CDATA[友よ…！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/293</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/HhhkKemNj_HK8YIMBzGB6KBfpMQYJMRmmyxnbEWYfLg/episode_thumbnail/thumb_double.png?1613531131" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第77話③]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/291</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/L2P66bcec9EI0wDd9pP-ynIaHe3VW4qBvh4ucluYpjI/episode_thumbnail/thumb_double.png?1613530653" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第77話①]]></title>
-      <link>https://mangacross.jp/comics/crows/290</link>
-      
-        <pubDate>Wed, 31 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[友よ…！]]></description>
-      <content:encoded><![CDATA[友よ…！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/290</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/icIYd-WBKzO74Kz3PfIQiICGVRB2gDUFvQtU7B7NkOs/episode_thumbnail/thumb_double.png?1613530479" length="0" type="image/png"/>
       
     </item>
     
