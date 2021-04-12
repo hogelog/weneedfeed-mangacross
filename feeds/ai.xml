@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Sun, 11 Apr 2021 15:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 15:23:37 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第7話]]></title>
+      <link>https://mangacross.jp/comics/ai/7</link>
+      
+        <pubDate>Thu, 24 Jan 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ピアノ]]></description>
+      <content:encoded><![CDATA[ピアノ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/7</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/CiW03KzL3uhSUmBok9VIFKclQexUv9WbzkfdlB3zhys/episode_thumbnail/thumb_double.jpg?1545872095" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第6話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/5</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/-mvzh-5xoXp8Uc3E74y7GjnhioEe7E71Qa16qotkVoA/episode_thumbnail/thumb_double.jpg?1545872056" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第4話]]></title>
-      <link>https://mangacross.jp/comics/ai/4</link>
-      
-        <pubDate>Thu, 27 Dec 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[恋人]]></description>
-      <content:encoded><![CDATA[恋人]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/iNzokpRBbDIiSpUt1x12OSwIDy6iTJYEWlmo_chnmM0/episode_thumbnail/thumb_double.jpg?1545872004" length="0" type="image/jpeg"/>
       
     </item>
     
