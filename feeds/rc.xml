@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/rc.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/rc.xml" rel="self"/>
     <description><![CDATA[ラジコンカーの魅力満載！！]]></description>
-    <lastBuildDate>Mon, 12 Apr 2021 15:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 15:23:17 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第27話]]></title>
+      <link>https://mangacross.jp/comics/rc/27</link>
+      
+        <pubDate>Tue, 13 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[RC動画撮れるかな？]]></description>
+      <content:encoded><![CDATA[RC動画撮れるかな？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/rc/27</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Op-PW1BWADTo57QAfqEGLTB3Hvb8FA51Gwpqhe8V2Ao/episode_thumbnail/thumb_double.png?1617951049" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第26話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/rc/25</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/9iXWi9feyNNph_r3Wi0-QwGa8LXleF1Emyofbzng7sQ/episode_thumbnail/thumb_double.png?1603431547" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第24話]]></title>
-      <link>https://mangacross.jp/comics/rc/24</link>
-      
-        <pubDate>Tue, 08 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ストラディバリウス組み立てられるかな？]]></description>
-      <content:encoded><![CDATA[ストラディバリウス組み立てられるかな？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/rc/24</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/j8w0Zumt7Uoviu0h2Z-fOMGXNiJPcHUFfulVvjwR5Ss/episode_thumbnail/thumb_double.png?1599196060" length="0" type="image/png"/>
       
     </item>
     

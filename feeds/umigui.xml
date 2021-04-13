@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Mon, 12 Apr 2021 15:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 15:23:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第14話 前半]]></title>
+      <link>https://mangacross.jp/comics/umigui/27</link>
+      
+        <pubDate>Tue, 13 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[勝ち目]]></description>
+      <content:encoded><![CDATA[勝ち目]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/27</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/SHDgd2kd8QxtFyTVI3IQj2ZRseemsqPESlU0mWpvXRE/episode_thumbnail/thumb_double.png?1617953544" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第13話 後半]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/umigui/25</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/pCAlf_fmb18PY8yN5-eVUt1dJwh4s8w1nXHA_J8VUtA/episode_thumbnail/thumb_double.png?1615123453" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第12話 後半]]></title>
-      <link>https://mangacross.jp/comics/umigui/24</link>
-      
-        <pubDate>Tue, 23 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[嫉妬]]></description>
-      <content:encoded><![CDATA[嫉妬]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/24</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/V3hI7ZSpVb0yKlV0ayHKoBGDaVG5iQod9Qc2plqy79Y/episode_thumbnail/thumb_double.png?1613722923" length="0" type="image/png"/>
       
     </item>
     

@@ -7,13 +7,13 @@
     <link>https://mangacross.jp/api/comics/dolphin.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dolphin.xml" rel="self"/>
     <description><![CDATA[実話にもとづく横浜暴走族浪漫！]]></description>
-    <lastBuildDate>Mon, 12 Apr 2021 15:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 15:21:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第二章 第五十六話]]></title>
       <link>https://mangacross.jp/comics/dolphin/101</link>
       
-        <pubDate>Fri, 09 Apr 2021 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 13 Apr 2021 10:00:00 +0900</pubDate>
       
       <description><![CDATA[甘ぇンだよ]]></description>
       <content:encoded><![CDATA[甘ぇンだよ]]></content:encoded>
@@ -48,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/99</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/g1Cd5Z1HRkaZRk27A4oRZJmiWoZ_PMXbJsaVLsFn9YA/episode_thumbnail/thumb_double.png?1611297585" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第二章 第五十三話]]></title>
-      <link>https://mangacross.jp/comics/dolphin/98</link>
-      
-        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[追悼集会]]></description>
-      <content:encoded><![CDATA[追悼集会]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/dolphin/98</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/4Fzr7RvMTJXLI7vfrRWaC0RMKZRpRsSOjqyjPj0yMCs/episode_thumbnail/thumb_double.png?1608278967" length="0" type="image/png"/>
       
     </item>
     
