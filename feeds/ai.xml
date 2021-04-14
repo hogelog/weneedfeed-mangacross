@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 13 Apr 2021 15:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 15:23:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第8話]]></title>
+      <link>https://mangacross.jp/comics/ai/8</link>
+      
+        <pubDate>Thu, 31 Jan 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ミチ]]></description>
+      <content:encoded><![CDATA[ミチ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/8</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/2Xiz112shTDWjCxxVFBLA0vzQTi__TLLRsMQhT_Qtlw/episode_thumbnail/thumb_double.jpg?1545872117" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第7話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/6</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/MF3UrodlI2D7xWb-zJiKUjCI_SjXD5I6jHS-SDOGOPA/episode_thumbnail/thumb_double.jpg?1545872075" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第5話]]></title>
-      <link>https://mangacross.jp/comics/ai/5</link>
-      
-        <pubDate>Thu, 10 Jan 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[富豪の秘密]]></description>
-      <content:encoded><![CDATA[富豪の秘密]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/5</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/-mvzh-5xoXp8Uc3E74y7GjnhioEe7E71Qa16qotkVoA/episode_thumbnail/thumb_double.jpg?1545872056" length="0" type="image/jpeg"/>
       
     </item>
     
