@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shiomai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shiomai.xml" rel="self"/>
     <description><![CDATA[青春群像コメディ]]></description>
-    <lastBuildDate>Wed, 14 Apr 2021 15:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 15:23:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[クロス第15話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/22</link>
+      
+        <pubDate>Thu, 15 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[先輩先輩]]></description>
+      <content:encoded><![CDATA[先輩先輩]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/mr-wdwv5iVgHquWrKMaM2iLJVlaFchrAGKvH_fQVHZA/episode_thumbnail/thumb_double.png?1618208084" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第9話（5巻発売記念特別配信）]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/10</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/zjs0MWnXCvVUD3WAuZJXglzfusflqCfAyxD-V0HsDKA/episode_thumbnail/thumb_double.png?1580186955" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[クロス第6話]]></title>
-      <link>https://mangacross.jp/comics/shiomai/9</link>
-      
-        <pubDate>Thu, 26 Sep 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[トラクラ]]></description>
-      <content:encoded><![CDATA[トラクラ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/9</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/B7G0ROSFsRB874qa4G95JxV5nVgsHKmL_gGG43tSRrM/episode_thumbnail/thumb_double.png?1569302800" length="0" type="image/png"/>
       
     </item>
     
