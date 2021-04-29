@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/maounomusume.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/maounomusume.xml" rel="self"/>
     <description><![CDATA[キモチだだ漏れ異世界ラブコメ]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:23:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第25話]]></title>
+      <link>https://mangacross.jp/comics/maounomusume/25</link>
+      
+        <pubDate>Tue, 20 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/25</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/CQ3KwjcWbCmxQNTxsnZtAggcCImimobwf3MtWQQbzl4/episode_thumbnail/thumb_double.png?1618554788" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第24話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/23</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/lR6JD-e16ngAWfAqaWSlcMlNIBWrHAg0Lr9dw92TGgM/episode_thumbnail/thumb_double.png?1614325163" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第22話]]></title>
-      <link>https://mangacross.jp/comics/maounomusume/22</link>
-      
-        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/maounomusume/22</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Jx5s6eiKVjI4X6fOvfN0Z-9CsRD35fnPGJ1mdl53yqs/episode_thumbnail/thumb_double.png?1613111863" length="0" type="image/png"/>
       
     </item>
     

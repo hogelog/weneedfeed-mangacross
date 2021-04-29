@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:23:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第142話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/39</link>
+      
+        <pubDate>Tue, 20 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[高級食パンがもたらす最上の幸福に抗え]]></description>
+      <content:encoded><![CDATA[高級食パンがもたらす最上の幸福に抗え]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/39</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/WVNd-5YcGEjTMs35ltGYu9U9fmZhbg3h-sPGt_EJ_oo/episode_thumbnail/thumb_double.png?1618295873" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第15話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/30</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/4OS9Dmc0b1x55GeKj-65xdvRnIhd_GgfuhVybHs_XU8/episode_thumbnail/thumb_double.png?1606464096" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第137話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/29</link>
-      
-        <pubDate>Tue, 17 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[250回蒸されてから捨てられる小豆]]></description>
-      <content:encoded><![CDATA[250回蒸されてから捨てられる小豆]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/29</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/kDCHHDcIJ1jxxHldse0AuvS88D50afIgPOU4iOBtEdA/episode_thumbnail/thumb_double.png?1604909377" length="0" type="image/png"/>
       
     </item>
     

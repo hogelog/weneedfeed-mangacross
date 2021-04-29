@@ -7,49 +7,7 @@
     <link>https://mangacross.jp/api/comics/orietsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/orietsu.xml" rel="self"/>
     <description><![CDATA[サブキャラ・織津江大志活躍！]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:21:57 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[第13話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/13</link>
-      
-        <pubDate>Tue, 16 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[大が小を兼ねるとは限らない]]></description>
-      <content:encoded><![CDATA[大が小を兼ねるとは限らない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/13</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CtllDCD6K2QdSJMynO0lGmPlF76_dnbAQJR1MEzUl5o/episode_thumbnail/thumb_double.png?1615518355" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第12話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/12</link>
-      
-        <pubDate>Tue, 16 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[水面下のデカイ生物ってなんでこんなに怖いんでしょうね]]></description>
-      <content:encoded><![CDATA[水面下のデカイ生物ってなんでこんなに怖いんでしょうね]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/12</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/OvHYCDGODbHS2pNxWIcwq3w3OxxobF5bm7z6CIe_KcQ/episode_thumbnail/thumb_double.png?1613108974" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://mangacross.jp/comics/orietsu/1</link>
-      
-        <pubDate>Tue, 17 Mar 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[異世界転移とか冗談じゃないですよ]]></description>
-      <content:encoded><![CDATA[異世界転移とか冗談じゃないですよ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/orietsu/1</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/HJU-l4uY29NULcFmB5eTZpsi04hOUKC94SJElfO2iec/episode_thumbnail/thumb_double.png?1584005558" length="0" type="image/png"/>
-      
-    </item>
+    <lastBuildDate>Thu, 29 Apr 2021 15:23:17 +0000</lastBuildDate>
     
   </channel>
 </rss>

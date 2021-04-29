@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dotennen.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dotennen.xml" rel="self"/>
     <description><![CDATA[ど天然上司とのお仕事コメディ]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:22:14 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第24話]]></title>
+      <link>https://mangacross.jp/comics/dotennen/25</link>
+      
+        <pubDate>Thu, 22 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dotennen/25</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/tNMhVU9q0tC8fuliPLxAslNR-IffMED7Nq8EDpQ9c74/episode_thumbnail/thumb_double.png?1618895915" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第23話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/dotennen/24</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/-XDryve9TPLq59nbs6QImWQ347lDoYpLRlubqXEF0UM/episode_thumbnail/thumb_double.png?1608707759" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第22話]]></title>
-      <link>https://mangacross.jp/comics/dotennen/23</link>
-      
-        <pubDate>Thu, 26 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/dotennen/23</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CTs8Aa9ZmMtT1UNBorxS4YWqRKVIT_FT0W3yxv-ctmo/episode_thumbnail/thumb_double.png?1606270457" length="0" type="image/png"/>
       
     </item>
     

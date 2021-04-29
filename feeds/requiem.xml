@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/requiem.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
     <description><![CDATA[黄金聖闘士たちの激闘録！！]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:23:29 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第12話]]></title>
@@ -52,100 +52,16 @@
     </item>
     
     <item>
-      <title><![CDATA[第9話]]></title>
-      <link>https://mangacross.jp/comics/requiem/9</link>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/requiem/1</link>
       
-        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 28 Jan 2020 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[楔]]></description>
-      <content:encoded><![CDATA[楔]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/9</guid>
+      <description><![CDATA[帰還]]></description>
+      <content:encoded><![CDATA[帰還]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/3Bev-gBo87UUpxmy1QO46mBgCBDuv6WygTs6MipfL7c/episode_thumbnail/thumb_double.png?1608276676" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話]]></title>
-      <link>https://mangacross.jp/comics/requiem/8</link>
-      
-        <pubDate>Tue, 08 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[聖域改悪]]></description>
-      <content:encoded><![CDATA[聖域改悪]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/8</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/F4EFMlvSjkdcN9b7RNBMbeXg_ikzKhwnmVBUkF803xI/episode_thumbnail/thumb_double.png?1607070860" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第7話]]></title>
-      <link>https://mangacross.jp/comics/requiem/7</link>
-      
-        <pubDate>Tue, 24 Nov 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[粛清の業火]]></description>
-      <content:encoded><![CDATA[粛清の業火]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/7</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/AqnKkEjDtqrR5gViP9dbZGqK-A2gS7XUbirTM9w2_CA/episode_thumbnail/thumb_double.png?1605851677" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第6話]]></title>
-      <link>https://mangacross.jp/comics/requiem/6</link>
-      
-        <pubDate>Tue, 29 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[大神乃小宇宙]]></description>
-      <content:encoded><![CDATA[大神乃小宇宙]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/6</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Ege_4i-brX2RNEgTZswXOwpLv-wPmieqn2WH0FbfKKo/episode_thumbnail/thumb_double.png?1600998674" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第5話]]></title>
-      <link>https://mangacross.jp/comics/requiem/5</link>
-      
-        <pubDate>Tue, 30 Jun 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[悪衣]]></description>
-      <content:encoded><![CDATA[悪衣]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/5</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9ZDMsW2mrydm5OS0DjC5yabmaXtqmcDt284eAY_7iqE/episode_thumbnail/thumb_double.png?1593070785" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第4話]]></title>
-      <link>https://mangacross.jp/comics/requiem/4</link>
-      
-        <pubDate>Tue, 19 May 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[天馬星座の聖衣]]></description>
-      <content:encoded><![CDATA[天馬星座の聖衣]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/7pv-Ya3mq8uvSmmKAWUYLzdhDSvbAwMmc914dMSXqBM/episode_thumbnail/thumb_double.png?1589519562" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/requiem/3</link>
-      
-        <pubDate>Tue, 21 Apr 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[最後の聖闘士]]></description>
-      <content:encoded><![CDATA[最後の聖闘士]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/3</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Pzxhsz0z7GQcW5JPkopsHbTGKlLpdN7MJOQCwSxyYAc/episode_thumbnail/thumb_double.png?1587107209" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/HemalNumbyCrjBnuRkSN_Ubgzs3KrPp2L-Jm2CaKY3M/episode_thumbnail/thumb_double.png?1579848527" length="0" type="image/png"/>
       
     </item>
     

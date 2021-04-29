@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shiomai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shiomai.xml" rel="self"/>
     <description><![CDATA[青春群像コメディ]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:23:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[クロス第16話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/23</link>
+      
+        <pubDate>Thu, 22 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[女男男男男]]></description>
+      <content:encoded><![CDATA[女男男男男]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rAn9TdmJFCI9zelqjnBIrEuyEcqU0PalTLmXSuvq4xs/episode_thumbnail/thumb_double.png?1618887480" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[クロス第15話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/11</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Regz8ZO3WylG4mJOIYRsOOSF0aac-nlDyd8I8xaTPdw/episode_thumbnail/thumb_double.png?1581670582" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[クロス第7話]]></title>
-      <link>https://mangacross.jp/comics/shiomai/10</link>
-      
-        <pubDate>Thu, 30 Jan 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[みんなでアニメ映画を観る会]]></description>
-      <content:encoded><![CDATA[みんなでアニメ映画を観る会]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/10</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/zjs0MWnXCvVUD3WAuZJXglzfusflqCfAyxD-V0HsDKA/episode_thumbnail/thumb_double.png?1580186955" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:22:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第25話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/25</link>
+      
+        <pubDate>Thu, 22 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[鯉のぼり]]></description>
+      <content:encoded><![CDATA[鯉のぼり]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/25</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/aIXKHHUamuXB-xLDKpUq_NbP5pntNOHeM01UJkE4lJM/episode_thumbnail/thumb_double.png?1616035394" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第24話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/16</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ioM9u1Nar6gzIsoUGac57iQHFDZf7IkjXfvGC1x1QOc/episode_thumbnail/thumb_double.png?1607413271" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第15話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/15</link>
-      
-        <pubDate>Thu, 24 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[サンタクロース]]></description>
-      <content:encoded><![CDATA[サンタクロース]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/15</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Ro3TEvvQaMg_58-zh_ucSFenYFJ1X4cmZDlYNx48Kv0/episode_thumbnail/thumb_double.png?1607412463" length="0" type="image/png"/>
       
     </item>
     

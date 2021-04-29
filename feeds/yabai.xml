@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:24:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.69]]></title>
+      <link>https://mangacross.jp/comics/yabai/74</link>
+      
+        <pubDate>Tue, 20 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は信じてみたい]]></description>
+      <content:encoded><![CDATA[僕は信じてみたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/74</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/OSJUHFBJSverTnq7PGIY5yGOJMW0dU8xF09ss1FQJ5E/episode_thumbnail/thumb_double.png?1618550745" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.68]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/72</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/EWGyui1ljYybGQrDo3ye5K1uuVBEzMI_QdvQjCGIk94/episode_thumbnail/thumb_double.png?1616134434" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.66]]></title>
-      <link>https://mangacross.jp/comics/yabai/71</link>
-      
-        <pubDate>Tue, 09 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は投げられた]]></description>
-      <content:encoded><![CDATA[僕は投げられた]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/71</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/d0nX9B4SFUySLBd5leGTrbfauaSlHmXW8aAgRM9zGL8/episode_thumbnail/thumb_double.png?1615118877" length="0" type="image/png"/>
       
     </item>
     

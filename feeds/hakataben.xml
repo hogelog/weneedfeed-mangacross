@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Sun, 18 Apr 2021 15:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 15:22:20 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第53話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/55</link>
+      
+        <pubDate>Tue, 27 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[博多弁先生]]></description>
+      <content:encoded><![CDATA[博多弁先生]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/55</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/LOg6nle7niLv2jtN5jCNb98_yMY0YJJnVnwxGfzcIiQ/episode_thumbnail/thumb_double.png?1619157504" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第52話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/53</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/RJY77Rfedv4woqu7kcQtLQIE6Sof49e1AqZPSSm2JoM/episode_thumbnail/thumb_double.png?1617342667" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第51話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/52</link>
-      
-        <pubDate>Tue, 30 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[甘い匂いに誘われて]]></description>
-      <content:encoded><![CDATA[甘い匂いに誘われて]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/52</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/XIpe_O-UfycP-wAeTwa8Rz1504qtjXWAQWM6WKbbK6k/episode_thumbnail/thumb_double.png?1616726987" length="0" type="image/png"/>
       
     </item>
     
