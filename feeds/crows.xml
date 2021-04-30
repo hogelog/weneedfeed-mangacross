@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Thu, 29 Apr 2021 15:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 15:22:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第80話②]]></title>
+      <link>https://mangacross.jp/comics/crows/302</link>
+      
+        <pubDate>Fri, 30 Apr 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[頂点を狙え！]]></description>
+      <content:encoded><![CDATA[頂点を狙え！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/302</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/YXXEOKyFkxSa97eZkZEFnxg4uQHxiXFxZtKqBZR7ikg/episode_thumbnail/thumb_double.png?1618797862" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第80話①]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/300</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/mWAGfkT8ADbDTeRAkcl-tP5m7p7Jo6nP7giBetGHh-Q/episode_thumbnail/thumb_double.png?1618307782" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第79話③]]></title>
-      <link>https://mangacross.jp/comics/crows/299</link>
-      
-        <pubDate>Wed, 21 Apr 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[キングジョー吠える！]]></description>
-      <content:encoded><![CDATA[キングジョー吠える！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/299</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/P_sS1VBIx1eVAb_uNNTLsqnzrKu_cslPRqKOr2qMj3Y/episode_thumbnail/thumb_double.png?1618307683" length="0" type="image/png"/>
       
     </item>
     
