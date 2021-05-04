@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 03 May 2021 15:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 15:22:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第16話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/40</link>
+      
+        <pubDate>Tue, 04 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[人生に万全な日は無い]]></description>
+      <content:encoded><![CDATA[人生に万全な日は無い]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/40</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/dSfb2ZribQnlBtvcPIh_qlCrwzgKl0xxNOEdatD0Imk/episode_thumbnail/thumb_double.png?1619761225" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第142話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/31</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/RmG9Z-lnZJKxYU3UdhDMkebazje__gkIolVjZySp21E/episode_thumbnail/thumb_double.png?1606980194" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第11話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/30</link>
-      
-        <pubDate>Tue, 01 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[人間の、なれの果て]]></description>
-      <content:encoded><![CDATA[人間の、なれの果て]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/30</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/4OS9Dmc0b1x55GeKj-65xdvRnIhd_GgfuhVybHs_XU8/episode_thumbnail/thumb_double.png?1606464096" length="0" type="image/png"/>
       
     </item>
     

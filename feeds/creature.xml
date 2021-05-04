@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/creature.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/creature.xml" rel="self"/>
     <description><![CDATA[異世界でクリ娘とハーレムしちゃう!?]]></description>
-    <lastBuildDate>Mon, 03 May 2021 15:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 15:20:42 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第51話]]></title>
+      <link>https://mangacross.jp/comics/creature/51</link>
+      
+        <pubDate>Tue, 04 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[マンティコア]]></description>
+      <content:encoded><![CDATA[マンティコア]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/creature/51</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/jMM1GEkhDjWS5czeqSqBOfgN7v7osI73n3wZm0C7tuQ/episode_thumbnail/thumb_double.png?1619763870" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第50話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/creature/50</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/NlL5hhW3L2X5tQaYHXJd9y_hS6gq-YNxD_Et9HReKtw/episode_thumbnail/thumb_double.png?1617343402" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第49話]]></title>
-      <link>https://mangacross.jp/comics/creature/49</link>
-      
-        <pubDate>Tue, 02 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[オルワちゃん陶芸日誌]]></description>
-      <content:encoded><![CDATA[オルワちゃん陶芸日誌]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/creature/49</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/knmoLjNbUYcXlXV9aRZhEvd3P-cnQMv0MA0CVxT6AY0/episode_thumbnail/thumb_double.png?1614320486" length="0" type="image/png"/>
       
     </item>
     

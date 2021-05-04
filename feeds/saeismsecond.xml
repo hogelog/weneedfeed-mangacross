@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/saeismsecond.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/saeismsecond.xml" rel="self"/>
     <description><![CDATA[束縛サイコサスペンス、新章！]]></description>
-    <lastBuildDate>Mon, 03 May 2021 15:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 15:22:32 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第55話]]></title>
+      <link>https://mangacross.jp/comics/saeismsecond/55</link>
+      
+        <pubDate>Tue, 04 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ゴメンネ②]]></description>
+      <content:encoded><![CDATA[ゴメンネ②]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/55</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/isp_MUzQUDEGrs3VGVtIDmjDZqjkdR8w6akqq3r2q2E/episode_thumbnail/thumb_double.png?1619764445" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第54話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/2</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/TXaVef-Sjnyd6baB1-GoZR_kxN7CdYFNGfo-QmLSsvI/episode_thumbnail/thumb_double.png?1572936435" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://mangacross.jp/comics/saeismsecond/1</link>
-      
-        <pubDate>Tue, 22 May 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[フタタビ①]]></description>
-      <content:encoded><![CDATA[フタタビ①]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/saeismsecond/1</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/zfy9n3GAFJy1_Gxa4ivflfohJLVZ5i3PRcJ17xIlwSo/episode_thumbnail/thumb_double.png?1572936409" length="0" type="image/png"/>
       
     </item>
     

@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Mon, 03 May 2021 15:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 15:20:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第23話]]></title>
+      <link>https://mangacross.jp/comics/akabane/24</link>
+      
+        <pubDate>Tue, 04 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[告白!? 青梅流の秘薬!!]]></description>
+      <content:encoded><![CDATA[告白!? 青梅流の秘薬!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/24</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-Iwz7vwc2-JC6i9czJsuwvSzj_vESe09rXXbGURh75U/episode_thumbnail/thumb_double.png?1619764893" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第22話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/22</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/MjPeRwettfmm779u-ev0HoG0L0M9Z0SUWzYyABW1LYM/episode_thumbnail/thumb_double.png?1614322451" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第20話]]></title>
-      <link>https://mangacross.jp/comics/akabane/21</link>
-      
-        <pubDate>Tue, 02 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[コラボカフェ！ アカバネアイドルに大変身!?]]></description>
-      <content:encoded><![CDATA[コラボカフェ！ アカバネアイドルに大変身!?]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/21</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/7jkhvApfEJm_t2sw2jUZZueTxRKm5H5DQ2lpi6kJSHU/episode_thumbnail/thumb_double.png?1611896967" length="0" type="image/png"/>
       
     </item>
     
