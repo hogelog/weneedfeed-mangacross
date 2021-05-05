@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 04 May 2021 15:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 15:19:52 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://mangacross.jp/comics/ai/14</link>
+      
+        <pubDate>Thu, 14 Mar 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[氷河を越えて]]></description>
+      <content:encoded><![CDATA[氷河を越えて]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/14</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/T0HDLaz8wG3M6C_1NsULgnu40Va27VNVXLCZAj0l9pk/episode_thumbnail/thumb_double.jpg?1552379821" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第13話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/12</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/7I7DH-SpqJB-cHEm9gZfY5Jm6qaVkjKm1Hik9xLt4R4/episode_thumbnail/thumb_double.jpg?1551166769" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第11話]]></title>
-      <link>https://mangacross.jp/comics/ai/11</link>
-      
-        <pubDate>Thu, 21 Feb 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[寡黙な彼女]]></description>
-      <content:encoded><![CDATA[寡黙な彼女]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9ZHaQ4ad_y7TpB1jnmzmE5qF0zniTs0bsm5TBOag5Qg/episode_thumbnail/thumb_double.jpg?1550628295" length="0" type="image/jpeg"/>
       
     </item>
     
