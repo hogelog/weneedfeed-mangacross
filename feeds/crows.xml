@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Sun, 09 May 2021 15:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 15:19:49 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第81話③]]></title>
+      <link>https://mangacross.jp/comics/crows/306</link>
+      
+        <pubDate>Mon, 10 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[頂上からの展望！]]></description>
+      <content:encoded><![CDATA[頂上からの展望！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/306</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qwwhsjoJfpTAhbw5YWtKXdMxKvsJXcVY2x35UgXA1Lw/episode_thumbnail/thumb_double.png?1618799956" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第81話②]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/304</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/A_sauBkhSnVR-rM8jeBCzB5qhK4epoALsAG5bzksRRw/episode_thumbnail/thumb_double.png?1618798761" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第80話③]]></title>
-      <link>https://mangacross.jp/comics/crows/303</link>
-      
-        <pubDate>Mon, 03 May 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[頂点を狙え！]]></description>
-      <content:encoded><![CDATA[頂点を狙え！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/303</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/33K3XeaxB3l7lUFOAFkbcdwykGTsgP29WhZUxZHXTaA/episode_thumbnail/thumb_double.png?1618798180" length="0" type="image/png"/>
       
     </item>
     
