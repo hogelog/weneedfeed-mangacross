@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[方言少女4コマ！]]></description>
-    <lastBuildDate>Mon, 10 May 2021 15:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 15:22:05 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第54話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/56</link>
+      
+        <pubDate>Tue, 11 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[長いものなあに？]]></description>
+      <content:encoded><![CDATA[長いものなあに？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/56</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6ZExscrQ4VKlAziJflynsfOvnBs-CEw6b2G5j0NJByQ/episode_thumbnail/thumb_double.png?1620364738" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第53話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/54</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/xW41QmdV7MjfwM7n9wlgCdZ4A5iivh3dy-Xj558y7Ss/episode_thumbnail/thumb_double.png?1617952081" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[特別編]]></title>
-      <link>https://mangacross.jp/comics/hakataben/53</link>
-      
-        <pubDate>Tue, 06 Apr 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[にわかせんぺいで仲直り]]></description>
-      <content:encoded><![CDATA[にわかせんぺいで仲直り]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/53</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/RJY77Rfedv4woqu7kcQtLQIE6Sof49e1AqZPSSm2JoM/episode_thumbnail/thumb_double.png?1617342667" length="0" type="image/png"/>
       
     </item>
     
