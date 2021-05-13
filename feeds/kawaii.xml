@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 12 May 2021 15:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 15:23:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第46話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/55</link>
+      
+        <pubDate>Thu, 13 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[正直者に言わせたい]]></description>
+      <content:encoded><![CDATA[正直者に言わせたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/55</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Fc5Mj948ps5XcvsM5tXVAWsRRpZMfMZk_o2AFn04xDE/episode_thumbnail/thumb_double.png?1620621361" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第45話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/46</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/CwQgvYI0iI9nU6q-BOkXVPEoX6IJg0GiYozoUWgZ3MM/episode_thumbnail/thumb_double.png?1608614064" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第36話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/45</link>
-      
-        <pubDate>Thu, 10 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[クールな後輩に言わされたい]]></description>
-      <content:encoded><![CDATA[クールな後輩に言わされたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/45</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/nrjTf6dcQ1WkvO0NYlD4oDgqtzP1wORRUsRf9UST8dY/episode_thumbnail/thumb_double.png?1607418310" length="0" type="image/png"/>
       
     </item>
     
