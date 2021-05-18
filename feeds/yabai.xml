@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 17 May 2021 15:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 15:25:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.71]]></title>
+      <link>https://mangacross.jp/comics/yabai/76</link>
+      
+        <pubDate>Tue, 18 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は山田と]]></description>
+      <content:encoded><![CDATA[僕は山田と]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/76</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/SC1bjLiybkjn5e4Px0yJxT3plKslJoW7r8_CKkV3WJw/episode_thumbnail/thumb_double.png?1620966809" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.70]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/74</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/OSJUHFBJSverTnq7PGIY5yGOJMW0dU8xF09ss1FQJ5E/episode_thumbnail/thumb_double.png?1618550745" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.68]]></title>
-      <link>https://mangacross.jp/comics/yabai/73</link>
-      
-        <pubDate>Tue, 06 Apr 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は誘われた]]></description>
-      <content:encoded><![CDATA[僕は誘われた]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/73</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/-_vZaSluHG5i4k4m3HoBiFHths4sNO-KbigaCGhIVso/episode_thumbnail/thumb_double.png?1617342319" length="0" type="image/png"/>
       
     </item>
     
