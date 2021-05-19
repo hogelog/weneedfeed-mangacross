@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 18 May 2021 15:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 May 2021 15:21:28 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第18話]]></title>
+      <link>https://mangacross.jp/comics/ai/18</link>
+      
+        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[やり直し]]></description>
+      <content:encoded><![CDATA[やり直し]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/18</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-1nZ0bQ3tEYbF_-s_Ozz4r8So70OmljXt9hXRsCxi5E/episode_thumbnail/thumb_double.jpg?1554871395" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第17話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/16</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/x2uTPeXu-4gBDtbxwwQRk7SNaJkxf-fKyZSqepAM85I/episode_thumbnail/thumb_double.jpg?1553236750" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第15話]]></title>
-      <link>https://mangacross.jp/comics/ai/15</link>
-      
-        <pubDate>Thu, 21 Mar 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ファントムボディ]]></description>
-      <content:encoded><![CDATA[ファントムボディ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/15</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/EC6OyUMONyRWfWgm03y8fa6R1zD_wX6huyEmW8-GV6U/episode_thumbnail/thumb_double.jpg?1552891591" length="0" type="image/jpeg"/>
       
     </item>
     
