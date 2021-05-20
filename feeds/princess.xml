@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/princess.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/princess.xml" rel="self"/>
     <description><![CDATA[男子禁制百合コメディ！]]></description>
-    <lastBuildDate>Wed, 19 May 2021 15:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 15:24:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/princess/22</link>
+      
+        <pubDate>Thu, 20 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[血の引力]]></description>
+      <content:encoded><![CDATA[血の引力]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/princess/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zvSrkbg02m3RZstGwCOotnTmfsE1xueEwtAY-e4GRn0/episode_thumbnail/thumb_double.png?1621319006" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/princess/3</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XcZsWY0CQ_f3I41MYc0V6pqQnHhbRBr4_HEN3L2QeLA/episode_thumbnail/thumb_double.png?1564385675" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話]]></title>
-      <link>https://mangacross.jp/comics/princess/2</link>
-      
-        <pubDate>Thu, 25 Jul 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[シンデレラのガールズ]]></description>
-      <content:encoded><![CDATA[シンデレラのガールズ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/princess/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/3veCm0dJgaBj8gb04ozsmXwGEAXbdF5htGGCvs-xQWA/episode_thumbnail/thumb_double.png?1563859546" length="0" type="image/png"/>
       
     </item>
     

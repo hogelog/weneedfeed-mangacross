@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shiomai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/shiomai.xml" rel="self"/>
     <description><![CDATA[青春群像コメディ]]></description>
-    <lastBuildDate>Wed, 19 May 2021 15:23:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 15:24:22 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[クロス第17話]]></title>
+      <link>https://mangacross.jp/comics/shiomai/24</link>
+      
+        <pubDate>Thu, 20 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[バックアタックだ！]]></description>
+      <content:encoded><![CDATA[バックアタックだ！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shiomai/24</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Szns0WimP3wBW4UCB_9HmmuzFxBhyqbEBWaM28wxwHw/episode_thumbnail/thumb_double.png?1621316119" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[クロス第16話]]></title>
