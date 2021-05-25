@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/rc.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/rc.xml" rel="self"/>
     <description><![CDATA[ラジコンカーの魅力満載！！]]></description>
-    <lastBuildDate>Mon, 24 May 2021 15:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 15:24:43 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第28話]]></title>
+      <link>https://mangacross.jp/comics/rc/28</link>
+      
+        <pubDate>Tue, 25 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[激安飛行機飛べるかな？]]></description>
+      <content:encoded><![CDATA[激安飛行機飛べるかな？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/rc/28</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ek12FfkSC7ltRDB0S7sOqgJldu8eGu8mx1ubVBiuAyA/episode_thumbnail/thumb_double.png?1621580779" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第27話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/rc/26</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/vIY1I83wuurMYGgl2nk8NJ7h-KOboDMg6BJlpQuawMo/episode_thumbnail/thumb_double.png?1607070548" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第25話]]></title>
-      <link>https://mangacross.jp/comics/rc/25</link>
-      
-        <pubDate>Tue, 27 Oct 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[猛暑にラジコンできるかな？]]></description>
-      <content:encoded><![CDATA[猛暑にラジコンできるかな？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/rc/25</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9iXWi9feyNNph_r3Wi0-QwGa8LXleF1Emyofbzng7sQ/episode_thumbnail/thumb_double.png?1603431547" length="0" type="image/png"/>
       
     </item>
     

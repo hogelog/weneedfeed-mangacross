@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crew.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crew.xml" rel="self"/>
     <description><![CDATA[元CAが描くCAお仕事まんが！]]></description>
-    <lastBuildDate>Mon, 24 May 2021 15:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 15:23:02 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[教官編１]]></title>
+      <link>https://mangacross.jp/comics/crew/57</link>
+      
+        <pubDate>Tue, 25 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[異動でございます!!]]></description>
+      <content:encoded><![CDATA[異動でございます!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crew/57</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Kgglkm4J__BrRUjdG_lteMdGI1JbgyLTBUQWQhu2Ym8/episode_thumbnail/thumb_double.png?1621579269" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[#47]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crew/55</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/X3i-TWgNIlvNhTBy9fGPMdqbPrSQatu4zejEey1Kyh8/episode_thumbnail/thumb_double.png?1613720749" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[#45]]></title>
-      <link>https://mangacross.jp/comics/crew/54</link>
-      
-        <pubDate>Tue, 25 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[人気者のお祝いでございます!!]]></description>
-      <content:encoded><![CDATA[人気者のお祝いでございます!!]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crew/54</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/_nLCp7t3yGoEPfqpn3JAwt1pKOXa_9eJo4_v9H7jvfE/episode_thumbnail/thumb_double.png?1598243249" length="0" type="image/png"/>
       
     </item>
     
