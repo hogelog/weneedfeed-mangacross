@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 25 May 2021 15:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 May 2021 15:25:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第20話]]></title>
+      <link>https://mangacross.jp/comics/ai/20</link>
+      
+        <pubDate>Thu, 25 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[お別れ]]></description>
+      <content:encoded><![CDATA[お別れ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/20</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/U8YRmwMrH7C6UUac26LagNHHvZd-ccgaxc7Ylx_VkUI/episode_thumbnail/thumb_double.jpg?1555910195" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第19話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/18</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/-1nZ0bQ3tEYbF_-s_Ozz4r8So70OmljXt9hXRsCxi5E/episode_thumbnail/thumb_double.jpg?1554871395" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第17話]]></title>
-      <link>https://mangacross.jp/comics/ai/17</link>
-      
-        <pubDate>Thu, 04 Apr 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ホワイトデー]]></description>
-      <content:encoded><![CDATA[ホワイトデー]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/17</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/fP9LtHPZRCqZEFbe06sVAArTgVQ0EV9S6s7gom3k0-I/episode_thumbnail/thumb_double.jpg?1554186465" length="0" type="image/jpeg"/>
       
     </item>
     
