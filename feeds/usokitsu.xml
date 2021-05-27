@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 26 May 2021 15:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 15:34:49 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第8話]]></title>
+      <link>https://mangacross.jp/comics/usokitsu/8</link>
+      
+        <pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ここもさわって？]]></description>
+      <content:encoded><![CDATA[ここもさわって？]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/8</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/A1pTnJQjb6VYOgbJMD_4nukpnfZRqL4-1gVr9XGuOD4/episode_thumbnail/thumb_double.png?1621836459" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第7話]]></title>

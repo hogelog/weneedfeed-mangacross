@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 26 May 2021 15:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 15:33:59 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第47話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/56</link>
+      
+        <pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[幼なじみに言っときたい]]></description>
+      <content:encoded><![CDATA[幼なじみに言っときたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/56</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/d2Apl-qJcqUaQSLMONGWiv2LNqOoJreRsVcsM9TvF9M/episode_thumbnail/thumb_double.png?1621994188" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第46話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/47</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/lE3z3ZVDYThPJA_feOTAXm0aQdCTFlap859mdUa2vhw/episode_thumbnail/thumb_double.png?1610430369" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第37話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/46</link>
-      
-        <pubDate>Thu, 24 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[心理テストを解かせたい]]></description>
-      <content:encoded><![CDATA[心理テストを解かせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/46</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CwQgvYI0iI9nU6q-BOkXVPEoX6IJg0GiYozoUWgZ3MM/episode_thumbnail/thumb_double.png?1608614064" length="0" type="image/png"/>
       
     </item>
     

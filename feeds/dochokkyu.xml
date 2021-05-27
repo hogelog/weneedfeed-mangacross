@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/dochokkyu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/dochokkyu.xml" rel="self"/>
     <description><![CDATA[「!!」多めの高血圧ラブコメ]]></description>
-    <lastBuildDate>Wed, 26 May 2021 15:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 15:33:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第30話]]></title>
+      <link>https://mangacross.jp/comics/dochokkyu/34</link>
+      
+        <pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[まごころを、きみに]]></description>
+      <content:encoded><![CDATA[まごころを、きみに]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/34</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/UHxzxOfAat9feBbwCXLjHLQJLDR5lvbnuZkGzT3INR8/episode_thumbnail/thumb_double.png?1616655963" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第29話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/33</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/fwZnS-xbDwzCkfvgpUrfkJnKOhLXAVN8BF2HrOEaWYk/episode_thumbnail/thumb_double.png?1616566218" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第28話]]></title>
-      <link>https://mangacross.jp/comics/dochokkyu/32</link>
-      
-        <pubDate>Thu, 29 Apr 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[青嵐]]></description>
-      <content:encoded><![CDATA[青嵐]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/dochokkyu/32</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/LOe3MsetvlAvrM70Ze1hS6Fmw4HMs0UWQsYTq-acNVA/episode_thumbnail/thumb_double.png?1616565501" length="0" type="image/png"/>
       
     </item>
     

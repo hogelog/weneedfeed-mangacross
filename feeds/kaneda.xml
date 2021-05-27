@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 26 May 2021 15:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 15:33:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第27話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/27</link>
+      
+        <pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[階段]]></description>
+      <content:encoded><![CDATA[階段]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/27</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Si4AQLZlwABcc4V2drXeslhrd_Lb09iv7zLoV-M7Hg0/episode_thumbnail/thumb_double.png?1616046393" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第26話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/18</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XZUjcUsMUgm-vYzf4uCa33AdQNREjF6BWzHyCpG11Sg/episode_thumbnail/thumb_double.png?1607415175" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第17話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/17</link>
-      
-        <pubDate>Thu, 07 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[初詣]]></description>
-      <content:encoded><![CDATA[初詣]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/17</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/oYVRDeoLaCcBCBdroftPRhrwOEF36Zn_BZECfkQKwSc/episode_thumbnail/thumb_double.png?1607414594" length="0" type="image/png"/>
       
     </item>
     
