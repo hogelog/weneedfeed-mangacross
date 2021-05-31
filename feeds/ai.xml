@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Sun, 30 May 2021 15:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 15:37:46 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第21話]]></title>
+      <link>https://mangacross.jp/comics/ai/21</link>
+      
+        <pubDate>Thu, 02 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[シャロンとブライアン]]></description>
+      <content:encoded><![CDATA[シャロンとブライアン]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/21</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Zm1Z5bNMTAOxGG3FWd5xSr2_ARTSDPkVkevIaysJnsM/episode_thumbnail/thumb_double.jpg?1556096887" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第20話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/19</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/LB8R2D0qFAWfEPMMB_9FbSmxN9lcGssCH4purjloGuo/episode_thumbnail/thumb_double.jpg?1554974498" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第18話]]></title>
-      <link>https://mangacross.jp/comics/ai/18</link>
-      
-        <pubDate>Thu, 11 Apr 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[やり直し]]></description>
-      <content:encoded><![CDATA[やり直し]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/18</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/-1nZ0bQ3tEYbF_-s_Ozz4r8So70OmljXt9hXRsCxi5E/episode_thumbnail/thumb_double.jpg?1554871395" length="0" type="image/jpeg"/>
       
     </item>
     
