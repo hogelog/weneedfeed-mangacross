@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Mon, 31 May 2021 15:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 15:48:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第24話]]></title>
+      <link>https://mangacross.jp/comics/akabane/25</link>
+      
+        <pubDate>Tue, 01 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[なでし子の秘密！ ドキドキ夜のオフィス]]></description>
+      <content:encoded><![CDATA[なでし子の秘密！ ドキドキ夜のオフィス]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/25</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-u8zckB6ZKNZZZSi95KknqKpEPvIFCQbqP3lWYerdHU/episode_thumbnail/thumb_double.png?1622189735" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第23話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/23</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ChHoCxGIMaYr5ggotyJOKmHtTILCrsLd0IBlehLGl7Q/episode_thumbnail/thumb_double.png?1617344689" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第21話]]></title>
-      <link>https://mangacross.jp/comics/akabane/22</link>
-      
-        <pubDate>Tue, 02 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[がんばれ色取！ これが赤羽課の上司]]></description>
-      <content:encoded><![CDATA[がんばれ色取！ これが赤羽課の上司]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/22</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/MjPeRwettfmm779u-ev0HoG0L0M9Z0SUWzYyABW1LYM/episode_thumbnail/thumb_double.png?1614322451" length="0" type="image/png"/>
       
     </item>
     

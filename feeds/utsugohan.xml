@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 31 May 2021 15:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 15:50:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[マンガクロス第17話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/42</link>
+      
+        <pubDate>Tue, 01 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[宝くじは愚者の税金ではない]]></description>
+      <content:encoded><![CDATA[宝くじは愚者の税金ではない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/42</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/oV1Mez1U-Z2MaHmI5ThrtB20gcvLmarepqZglYbBDLw/episode_thumbnail/thumb_double.png?1622186625" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第143話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/33</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/FN45V_FE9ALiRph8xsfVVYNkTXKWwzjp4OFoLQG2gU0/episode_thumbnail/thumb_double.png?1609825869" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[マンガクロス第12話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/32</link>
-      
-        <pubDate>Tue, 05 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[干支を食べることが縁起的に良いのか悪いのか知らない]]></description>
-      <content:encoded><![CDATA[干支を食べることが縁起的に良いのか悪いのか知らない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/32</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/lIk4EPhhOwE5RaK02X47UdrXb8BsIM5ycEAG6zdLazs/episode_thumbnail/thumb_double.png?1608865139" length="0" type="image/png"/>
       
     </item>
     
