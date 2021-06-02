@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 01 Jun 2021 15:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 15:59:12 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話]]></title>
+      <link>https://mangacross.jp/comics/ai/22</link>
+      
+        <pubDate>Thu, 09 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[オーラ治療]]></description>
+      <content:encoded><![CDATA[オーラ治療]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/22</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/yUccWZoztIUTvw7KM8SNJ8dCNfqgnjKWibbZPeFLyVM/episode_thumbnail/thumb_double.jpg?1557206679" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/20</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/U8YRmwMrH7C6UUac26LagNHHvZd-ccgaxc7Ylx_VkUI/episode_thumbnail/thumb_double.jpg?1555910195" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/ai/19</link>
-      
-        <pubDate>Thu, 18 Apr 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[エモーショナルマシン]]></description>
-      <content:encoded><![CDATA[エモーショナルマシン]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/19</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/LB8R2D0qFAWfEPMMB_9FbSmxN9lcGssCH4purjloGuo/episode_thumbnail/thumb_double.jpg?1554974498" length="0" type="image/jpeg"/>
       
     </item>
     
