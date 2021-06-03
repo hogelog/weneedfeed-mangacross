@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yushun2020.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yushun2020.xml" rel="self"/>
     <description><![CDATA[「優駿の門」のスピンオフ！]]></description>
-    <lastBuildDate>Wed, 02 Jun 2021 16:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 15:40:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第89話]]></title>
+      <link>https://mangacross.jp/comics/yushun2020/89</link>
+      
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0900</pubDate>
+      
+      <description><![CDATA[もう一度ボクと夢を見てくれませんか 89]]></description>
+      <content:encoded><![CDATA[もう一度ボクと夢を見てくれませんか 89]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/89</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/n90Ojoypi2pvl5nt345fidSg8H8UCrQjK9im3Ae3wu8/episode_thumbnail/thumb_double.png?1622453856" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第88話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/80</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/aMgVHK2YHINX9Tv16zLuIxrn00TI6lutEYJHO5hCwso/episode_thumbnail/thumb_double.png?1617183626" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第79話]]></title>
-      <link>https://mangacross.jp/comics/yushun2020/79</link>
-      
-        <pubDate>Fri, 26 Mar 2021 00:00:00 +0900</pubDate>
-      
-      <description><![CDATA[もう一度ボクと夢を見てくれませんか 79]]></description>
-      <content:encoded><![CDATA[もう一度ボクと夢を見てくれませんか 79]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yushun2020/79</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/3j2-gRU2iaCl3s5nT_2vYz5gfL2E167vCJkjrfaN0ao/episode_thumbnail/thumb_double.png?1616483351" length="0" type="image/png"/>
       
     </item>
     
