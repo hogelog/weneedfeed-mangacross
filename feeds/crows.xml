@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Thu, 03 Jun 2021 15:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 15:51:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第84話③]]></title>
+      <link>https://mangacross.jp/comics/crows/317</link>
+      
+        <pubDate>Fri, 04 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[傷顔の哀歌！]]></description>
+      <content:encoded><![CDATA[傷顔の哀歌！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/317</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/PC63zE4xlqqtgoTyMt3LaPLizyYtywQ4Aj2RrEtD2FE/episode_thumbnail/thumb_double.png?1620961641" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第84話②]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/315</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/IQG3WI6_-iLX4n-NFpG9ohpzL76GgHlCYNuNgYw97c4/episode_thumbnail/thumb_double.png?1620961193" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第83話④]]></title>
-      <link>https://mangacross.jp/comics/crows/314</link>
-      
-        <pubDate>Fri, 28 May 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[黒焚連合総長の座！]]></description>
-      <content:encoded><![CDATA[黒焚連合総長の座！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/314</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/5UnD0guR7n8b0UyDuLlJ8LL_Bg0egD356RGdkGgVut0/episode_thumbnail/thumb_double.png?1620960329" length="0" type="image/png"/>
       
     </item>
     
