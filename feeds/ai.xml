@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Sun, 06 Jun 2021 15:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 15:43:21 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第23話]]></title>
+      <link>https://mangacross.jp/comics/ai/23</link>
+      
+        <pubDate>Thu, 16 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ルーム410]]></description>
+      <content:encoded><![CDATA[ルーム410]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/23</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/T070IVQvBVuwEswifuG0mL8L0dRWboahvq9271VvXQM/episode_thumbnail/thumb_double.jpg?1557733053" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第22話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/21</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Zm1Z5bNMTAOxGG3FWd5xSr2_ARTSDPkVkevIaysJnsM/episode_thumbnail/thumb_double.jpg?1556096887" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第20話]]></title>
-      <link>https://mangacross.jp/comics/ai/20</link>
-      
-        <pubDate>Thu, 25 Apr 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[お別れ]]></description>
-      <content:encoded><![CDATA[お別れ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/20</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/U8YRmwMrH7C6UUac26LagNHHvZd-ccgaxc7Ylx_VkUI/episode_thumbnail/thumb_double.jpg?1555910195" length="0" type="image/jpeg"/>
       
     </item>
     
