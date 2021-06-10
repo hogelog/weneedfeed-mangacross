@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crossoverrev.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crossoverrev.xml" rel="self"/>
     <description><![CDATA[伝説のクルマ漫画が、再び！]]></description>
-    <lastBuildDate>Wed, 09 Jun 2021 15:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 15:21:08 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.51]]></title>
+      <link>https://mangacross.jp/comics/crossoverrev/52</link>
+      
+        <pubDate>Thu, 10 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[サワコ＋シルビア＝サビアの陣技]]></description>
+      <content:encoded><![CDATA[サワコ＋シルビア＝サビアの陣技]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/52</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/CHHkEkkZ89IJ4_uUxD3lqinwqjhQWyxWQDFMUz02ra8/episode_thumbnail/thumb_double.png?1623046588" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[ACT.50]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/43</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/2_kEUJay9-QujxH3OJYyeyxatxt2sGTRM8Fu4YtInYk/episode_thumbnail/thumb_double.png?1608699196" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[ACT.2]]></title>
-      <link>https://mangacross.jp/comics/crossoverrev/2</link>
-      
-        <pubDate>Thu, 28 Mar 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[涼子！ 再走！]]></description>
-      <content:encoded><![CDATA[涼子！ 再走！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crossoverrev/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/PCrQ-3fc9-jNvl6Ri5xFtDxJrj6CuV23LaInJQZ0skc/episode_thumbnail/thumb_double.jpg?1553236033" length="0" type="image/jpeg"/>
       
     </item>
     

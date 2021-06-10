@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kawaii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kawaii.xml" rel="self"/>
     <description><![CDATA[言わせたい純情ラブコメ♡]]></description>
-    <lastBuildDate>Wed, 09 Jun 2021 15:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 15:22:27 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第48話]]></title>
+      <link>https://mangacross.jp/comics/kawaii/57</link>
+      
+        <pubDate>Thu, 10 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[かわいい後輩はにおわせたい]]></description>
+      <content:encoded><![CDATA[かわいい後輩はにおわせたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/57</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/9fVMt6Jmi4ynoFanMs-47WniC0Lf_5H_gPllWUfbDHE/episode_thumbnail/thumb_double.png?1623128732" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第47話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/48</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/NPnxjA-VD9RNpSkpir7eUPcr4vBKJemhkqf_ogSSxuc/episode_thumbnail/thumb_double.png?1611564682" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第38話]]></title>
-      <link>https://mangacross.jp/comics/kawaii/47</link>
-      
-        <pubDate>Thu, 14 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[そっちの事情も言わせたい]]></description>
-      <content:encoded><![CDATA[そっちの事情も言わせたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kawaii/47</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/lE3z3ZVDYThPJA_feOTAXm0aQdCTFlap859mdUa2vhw/episode_thumbnail/thumb_double.png?1610430369" length="0" type="image/png"/>
       
     </item>
     
