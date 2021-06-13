@@ -7,21 +7,7 @@
     <link>https://mangacross.jp/api/comics/kimochiii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kimochiii.xml" rel="self"/>
     <description><![CDATA[気持ちよさを求める実録漫画！]]></description>
-    <lastBuildDate>Sat, 12 Jun 2021 15:20:49 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[最終話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/28</link>
-      
-        <pubDate>Tue, 23 Mar 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[気持ちいい体]]></description>
-      <content:encoded><![CDATA[気持ちいい体]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/28</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/IQPWnQv1Gtx0ccx7cFgzLb0DtdR0KbUMqJYesycpapU/episode_thumbnail/thumb_double.png?1616135174" length="0" type="image/png"/>
-      
-    </item>
+    <lastBuildDate>Sun, 13 Jun 2021 15:20:46 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第27話]]></title>
@@ -34,76 +20,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/27</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/dISLEELFyK0CcAN4w8iDZaNmC9GlOMivdRwrRPzBFgU/episode_thumbnail/thumb_double.png?1615122731" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第26話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/26</link>
-      
-        <pubDate>Tue, 23 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[炭火焼肉]]></description>
-      <content:encoded><![CDATA[炭火焼肉]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/26</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/lQYKZAANfEOfZt0vJiZnUiJaMFRoDRqGzz_XnYht4Wo/episode_thumbnail/thumb_double.png?1613721365" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第25話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/25</link>
-      
-        <pubDate>Tue, 09 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[お家で気持ちいい2]]></description>
-      <content:encoded><![CDATA[お家で気持ちいい2]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/25</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/po4NJgSNFL9IxFiZJRD5QfaO2l2gzxySrBJ8gwX39NU/episode_thumbnail/thumb_double.png?1612511271" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第24話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/24</link>
-      
-        <pubDate>Tue, 26 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ストレッチ]]></description>
-      <content:encoded><![CDATA[ストレッチ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/24</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ok_TbMK8mxGQ6_ftpPWgXeqcEGdfiAkAR0cnI6qGxvI/episode_thumbnail/thumb_double.png?1611294394" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第23話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/23</link>
-      
-        <pubDate>Tue, 12 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[温活]]></description>
-      <content:encoded><![CDATA[温活]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/23</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/fo6sxD7BAOdGXRALqpn1Bb094HizsWnae0t0_vaLcxA/episode_thumbnail/thumb_double.png?1610072881" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第22話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/22</link>
-      
-        <pubDate>Tue, 22 Dec 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[菌活]]></description>
-      <content:encoded><![CDATA[菌活]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/22</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/62rWwokC2U66U97jLcXupmeD7o0w9WSzxHuUYIVNZrw/episode_thumbnail/thumb_double.png?1608275448" length="0" type="image/png"/>
       
     </item>
     
@@ -122,30 +38,72 @@
     </item>
     
     <item>
-      <title><![CDATA[第20話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/20</link>
+      <title><![CDATA[第7話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/7</link>
       
-        <pubDate>Tue, 24 Nov 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 12 May 2020 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[海ご飯]]></description>
-      <content:encoded><![CDATA[海ご飯]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/20</guid>
+      <description><![CDATA[焚き火]]></description>
+      <content:encoded><![CDATA[焚き火]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/7</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/HrQ0KGUK3zBhdoAu6Pdpfq_vqgHxWnF7Ex5pqeZNMf0/episode_thumbnail/thumb_double.png?1605851378" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/oE8gEyPDL6sOJmjGVSq9eiYyIudIjARX1JYpO1jbt28/episode_thumbnail/thumb_double.png?1588927016" length="0" type="image/png"/>
       
     </item>
     
     <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/kimochiii/19</link>
+      <title><![CDATA[第5話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/5</link>
       
-        <pubDate>Tue, 10 Nov 2020 10:00:00 +0900</pubDate>
+        <pubDate>Tue, 14 Apr 2020 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[砂風呂]]></description>
-      <content:encoded><![CDATA[砂風呂]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/19</guid>
+      <description><![CDATA[岩盤浴]]></description>
+      <content:encoded><![CDATA[岩盤浴]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/5</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/ZKWWhkEohtYEOz9XxucWFw4CfqBO8JLD4YB_5Ogyppk/episode_thumbnail/thumb_double.png?1604644880" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/1w9gNe1ZnekTiADRzppj69Dwxe18Qvqac9NrL1XRcrg/episode_thumbnail/thumb_double.png?1586421322" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/3</link>
+      
+        <pubDate>Tue, 10 Mar 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ファスティング]]></description>
+      <content:encoded><![CDATA[ファスティング]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/oUvB1qi-icGML2db1zUdV1GmIX5fhtLHRvMOExYxTYQ/episode_thumbnail/thumb_double.png?1583387391" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/2</link>
+      
+        <pubDate>Tue, 25 Feb 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[箱根登山]]></description>
+      <content:encoded><![CDATA[箱根登山]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/m62M_Nk_pXDkn00r4HLqbWxyP-z6rGDGSU2IqZDHyZQ/episode_thumbnail/thumb_double.png?1582192330" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/1</link>
+      
+        <pubDate>Tue, 11 Feb 2020 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[サウナ]]></description>
+      <content:encoded><![CDATA[サウナ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/64D9VKZz3HbsaPuppaqEnrMa4LMH1OrJdv8q-iKz6eA/episode_thumbnail/thumb_double.png?1581472252" length="0" type="image/png"/>
       
     </item>
     
