@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/utsugohan.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/utsugohan.xml" rel="self"/>
     <description><![CDATA[冴えない男の一人メシ]]></description>
-    <lastBuildDate>Mon, 14 Jun 2021 15:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 15:22:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第144話]]></title>
+      <link>https://mangacross.jp/comics/utsugohan/43</link>
+      
+        <pubDate>Tue, 15 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[猫動画見る以外何もする気がしない]]></description>
+      <content:encoded><![CDATA[猫動画見る以外何もする気がしない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/43</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/7pU8h5Km2t1GHEgV7APFW0UK-ayH7qCEXk8Ri_ZlR0o/episode_thumbnail/thumb_double.png?1623137265" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[マンガクロス第17話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/34</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/VfiH2XlVo93D-dPq80acen8nK3gbGuYMVWpRSEckjL4/episode_thumbnail/thumb_double.png?1611898427" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第139話]]></title>
-      <link>https://mangacross.jp/comics/utsugohan/33</link>
-      
-        <pubDate>Tue, 19 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は赤い服を着たことがない]]></description>
-      <content:encoded><![CDATA[僕は赤い服を着たことがない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/utsugohan/33</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/FN45V_FE9ALiRph8xsfVVYNkTXKWwzjp4OFoLQG2gU0/episode_thumbnail/thumb_double.png?1609825869" length="0" type="image/png"/>
       
     </item>
     
