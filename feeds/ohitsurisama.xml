@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ohitsurisama.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ohitsurisama.xml" rel="self"/>
     <description><![CDATA[お一人様女子、必釣日誌!!]]></description>
-    <lastBuildDate>Wed, 16 Jun 2021 15:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 15:22:17 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第105話]]></title>
+      <link>https://mangacross.jp/comics/ohitsurisama/105</link>
+      
+        <pubDate>Thu, 17 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[中禅寺湖③(レイクトラウト)]]></description>
+      <content:encoded><![CDATA[中禅寺湖③(レイクトラウト)]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/105</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/IoA-2OFvrbNhNQY3kMJdE-BgFO9SvxNpx-IJ0cT6NQA/episode_thumbnail/thumb_double.png?1623651155" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第104話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/103</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/J9K8V_yFFmeRpNr-wagpoufN-g-jeVAZ0GfbhgxmNeU/episode_thumbnail/thumb_double.png?1621322392" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第102話]]></title>
-      <link>https://mangacross.jp/comics/ohitsurisama/102</link>
-      
-        <pubDate>Thu, 06 May 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[潮干狩り②]]></description>
-      <content:encoded><![CDATA[潮干狩り②]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ohitsurisama/102</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/oU-pO9ckGLYDaYds-vRVaBADMr4i0T65bxoechwcnxs/episode_thumbnail/thumb_double.png?1619769144" length="0" type="image/png"/>
       
     </item>
     

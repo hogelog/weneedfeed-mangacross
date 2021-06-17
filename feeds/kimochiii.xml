@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kimochiii.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kimochiii.xml" rel="self"/>
     <description><![CDATA[気持ちよさを求める実録漫画！]]></description>
-    <lastBuildDate>Wed, 16 Jun 2021 15:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 15:21:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/kimochiii/29</link>
+      
+        <pubDate>Thu, 17 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[2・3巻発売!!]]></description>
+      <content:encoded><![CDATA[2・3巻発売!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kimochiii/29</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/brmU-xEyvU2QMfF5767mumNxLxaGmCcJLBFfM1DpF8k/episode_thumbnail/thumb_double.png?1623647283" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第27話]]></title>
