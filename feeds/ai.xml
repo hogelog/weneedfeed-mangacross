@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Sun, 20 Jun 2021 15:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 15:19:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第27話]]></title>
+      <link>https://mangacross.jp/comics/ai/27</link>
+      
+        <pubDate>Thu, 13 Jun 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[元通り]]></description>
+      <content:encoded><![CDATA[元通り]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/27</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/X0UX8XH-4cVtrErLw0og3z4hLnLgTubjgqv8bEWsbnQ/episode_thumbnail/thumb_double.jpg?1559890807" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第26話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/25</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/X1uZWhM7y-9X0-bZSTS_CqNEXQ_5x34d1xSJWQHwTd8/episode_thumbnail/thumb_double.jpg?1558936703" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第24話]]></title>
-      <link>https://mangacross.jp/comics/ai/24</link>
-      
-        <pubDate>Thu, 23 May 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[山の鍛冶屋]]></description>
-      <content:encoded><![CDATA[山の鍛冶屋]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/24</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/kwp5Bqy5wLDhOauI5WCFyXvabbV30cEjDbejcGex8VU/episode_thumbnail/thumb_double.jpg?1558408742" length="0" type="image/jpeg"/>
       
     </item>
     
