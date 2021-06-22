@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/requiem.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/requiem.xml" rel="self"/>
     <description><![CDATA[黄金聖闘士たちの激闘録！！]]></description>
-    <lastBuildDate>Mon, 21 Jun 2021 15:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 15:21:40 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第14話]]></title>
+      <link>https://mangacross.jp/comics/requiem/14</link>
+      
+        <pubDate>Tue, 22 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[大いなる謀]]></description>
+      <content:encoded><![CDATA[大いなる謀]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/14</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Z4APRVBRLij-fjM62KEuG1343tu-vDSsaDeLfRGno1A/episode_thumbnail/thumb_double.png?1624001860" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第13話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/requiem/12</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/cIbTW6XF4lw_gUI60HW3FWrf5NvE0mtJTM1ZHWwYBXE/episode_thumbnail/thumb_double.png?1616727593" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第11話]]></title>
-      <link>https://mangacross.jp/comics/requiem/11</link>
-      
-        <pubDate>Tue, 23 Feb 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[現世の楔]]></description>
-      <content:encoded><![CDATA[現世の楔]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/requiem/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/6rnoqdtm8IC-NXGVQo02GU2Vg8CWrMg6pzD9lNi2IeQ/episode_thumbnail/thumb_double.png?1613722082" length="0" type="image/png"/>
       
     </item>
     

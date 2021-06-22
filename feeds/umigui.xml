@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/umigui.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/umigui.xml" rel="self"/>
     <description><![CDATA[パニックサバイバル!!]]></description>
-    <lastBuildDate>Mon, 21 Jun 2021 15:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 15:22:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第16話 後半]]></title>
+      <link>https://mangacross.jp/comics/umigui/32</link>
+      
+        <pubDate>Tue, 22 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[スケベ親父]]></description>
+      <content:encoded><![CDATA[スケベ親父]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/umigui/32</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/EiMMUY8nKDIA1UfgqshySMp8HwWWWpHeK1gLFQvYFl0/episode_thumbnail/thumb_double.png?1624003420" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第16話 前半]]></title>
