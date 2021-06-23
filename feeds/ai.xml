@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/ai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/ai.xml" rel="self"/>
     <description><![CDATA[1話完結ヒューマノイド・オムニバス]]></description>
-    <lastBuildDate>Tue, 22 Jun 2021 15:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 15:18:23 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第28話]]></title>
+      <link>https://mangacross.jp/comics/ai/28</link>
+      
+        <pubDate>Thu, 20 Jun 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[謝罪]]></description>
+      <content:encoded><![CDATA[謝罪]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/ai/28</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/_Wg3mp_DndQ42hs-CeGIEMbYcuL9vjRzfmLWjrNDlXk/episode_thumbnail/thumb_double.jpg?1560753076" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第27話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/ai/26</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Jx1BF9zB15M_OFfUBZar_VB0glJK65VMtPIvgeB57Rw/episode_thumbnail/thumb_double.jpg?1559281823" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第25話]]></title>
-      <link>https://mangacross.jp/comics/ai/25</link>
-      
-        <pubDate>Thu, 30 May 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[半年がいっぱい]]></description>
-      <content:encoded><![CDATA[半年がいっぱい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/ai/25</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/X1uZWhM7y-9X0-bZSTS_CqNEXQ_5x34d1xSJWQHwTd8/episode_thumbnail/thumb_double.jpg?1558936703" length="0" type="image/jpeg"/>
       
     </item>
     
