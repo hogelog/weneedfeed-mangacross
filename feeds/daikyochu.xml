@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/daikyochu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/daikyochu.xml" rel="self"/>
     <description><![CDATA[昆虫パニック漫画、新章突入!!]]></description>
-    <lastBuildDate>Wed, 23 Jun 2021 15:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 15:12:34 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第23話（前編）]]></title>
+      <link>https://mangacross.jp/comics/daikyochu/46</link>
+      
+        <pubDate>Thu, 24 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[脱出船]]></description>
+      <content:encoded><![CDATA[脱出船]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/46</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/tNu0f-oS37c2PfXDCC_5bGvM6vc3t9nEUZpftM2bvOQ/episode_thumbnail/thumb_double.png?1624350893" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第22話（後編）]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/45</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/lfUNtkc4oiwmgS_lR6iFhwBBANEuIFY0-HbgRHMVw1c/episode_thumbnail/thumb_double.png?1623045636" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第22話（前編）]]></title>
-      <link>https://mangacross.jp/comics/daikyochu/44</link>
-      
-        <pubDate>Thu, 27 May 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[海上の追撃]]></description>
-      <content:encoded><![CDATA[海上の追撃]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/daikyochu/44</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Y9uN9OLdMgTib04p1DTcqwXcDaFVl5a6kteng0ZE7X4/episode_thumbnail/thumb_double.png?1621996989" length="0" type="image/png"/>
       
     </item>
     

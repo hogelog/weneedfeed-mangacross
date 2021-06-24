@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/usokitsu.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/usokitsu.xml" rel="self"/>
     <description><![CDATA[キツネ娘の純愛コメディー！]]></description>
-    <lastBuildDate>Wed, 23 Jun 2021 15:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 15:14:34 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話]]></title>
+      <link>https://mangacross.jp/comics/usokitsu/9</link>
+      
+        <pubDate>Thu, 24 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[その手のぬくもり]]></description>
+      <content:encoded><![CDATA[その手のぬくもり]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/67QM3ubb9KB81f78nha-Biq-YQQR0kEBtoo9w-xFL8Q/episode_thumbnail/thumb_double.png?1624351773" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第8話]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/8</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/A1pTnJQjb6VYOgbJMD_4nukpnfZRqL4-1gVr9XGuOD4/episode_thumbnail/thumb_double.png?1621836459" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第7話]]></title>
-      <link>https://mangacross.jp/comics/usokitsu/7</link>
-      
-        <pubDate>Thu, 22 Apr 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[まな板の上の恋]]></description>
-      <content:encoded><![CDATA[まな板の上の恋]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/usokitsu/7</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Z1y97SaWVB1bjZxCwDELb9EvZkAAdB4G_vkj90Av1j8/episode_thumbnail/thumb_double.png?1618900105" length="0" type="image/png"/>
       
     </item>
     

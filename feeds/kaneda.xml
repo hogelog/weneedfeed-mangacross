@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Wed, 23 Jun 2021 15:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 15:13:29 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第29話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/29</link>
+      
+        <pubDate>Thu, 24 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[体操服]]></description>
+      <content:encoded><![CDATA[体操服]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/29</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/QeFf-QKUFKi3j7dlgMTsdtPeGzLCv6-A2RYUH3Brtkg/episode_thumbnail/thumb_double.png?1620812267" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第28話]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/20</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/dyHEaxAizWKVebOJ1OQ81x1b-odvwzsF_GmU53HtUnk/episode_thumbnail/thumb_double.png?1607417059" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第19話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/19</link>
-      
-        <pubDate>Thu, 28 Jan 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[節分]]></description>
-      <content:encoded><![CDATA[節分]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/19</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/2HX6fv6OnKoTfWaN1BGWRdcd3mxkcXxy5Lv1qXIaybk/episode_thumbnail/thumb_double.png?1607416818" length="0" type="image/png"/>
       
     </item>
     
