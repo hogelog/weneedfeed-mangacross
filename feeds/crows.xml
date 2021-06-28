@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/crows.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/crows.xml" rel="self"/>
     <description><![CDATA[アウトサイダーの怒りと友情!]]></description>
-    <lastBuildDate>Sun, 27 Jun 2021 15:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 15:21:08 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第87話①]]></title>
+      <link>https://mangacross.jp/comics/crows/327</link>
+      
+        <pubDate>Mon, 28 Jun 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[T・K・P・Z！]]></description>
+      <content:encoded><![CDATA[T・K・P・Z！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/crows/327</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Id6WrVjJajhMjec_fcEyEu9HevdcjTqjfbhAnfqrpiY/episode_thumbnail/thumb_double.png?1624002535" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第86話④]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/crows/325</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Byt_GCXBskA8DgtLmktW3ExovxwNTrS7gjyvjWId98Y/episode_thumbnail/thumb_double.png?1620964581" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第86話②]]></title>
-      <link>https://mangacross.jp/comics/crows/324</link>
-      
-        <pubDate>Mon, 21 Jun 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[FOUR HEADS！]]></description>
-      <content:encoded><![CDATA[FOUR HEADS！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/crows/324</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/W19omnhxl_xVmwKsZv4YhTjm_MqUyvzVn0nG9mcasOE/episode_thumbnail/thumb_double.png?1620964265" length="0" type="image/png"/>
       
     </item>
     
