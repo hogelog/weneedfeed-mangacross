@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 09 Aug 2021 15:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 15:05:32 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.77]]></title>
+      <link>https://mangacross.jp/comics/yabai/82</link>
+      
+        <pubDate>Tue, 10 Aug 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は突撃訪問した]]></description>
+      <content:encoded><![CDATA[僕は突撃訪問した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/82</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zz-NC5xJR63NesVBsdNr5DJQYgkxq4gb0aM7gz9xYHI/episode_thumbnail/thumb_double.png?1628232797" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.76]]></title>
