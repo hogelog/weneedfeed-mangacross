@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Sun, 22 Aug 2021 02:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 02:06:27 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第33話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/33</link>
+      
+        <pubDate>Mon, 23 Aug 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[コーヒー]]></description>
+      <content:encoded><![CDATA[コーヒー]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/33</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ar0kNVVgIa9ZmKKilPrBVaLLpE7_ltLwbzcvEToYtkc/episode_thumbnail/thumb_double.png?1626162925" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第32話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/31</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/H12YuooRyS4UAv6x5-5_UIALL2vNRAQwPJk6W1TPMR0/episode_thumbnail/thumb_double.png?1623205533" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第30話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/30</link>
-      
-        <pubDate>Mon, 12 Jul 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[掃除]]></description>
-      <content:encoded><![CDATA[掃除]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/30</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/ZVn4qfdeWM3ER22y3rWxVsMaFEudj_0_-4ww3AaHv_M/episode_thumbnail/thumb_double.png?1623205161" length="0" type="image/png"/>
       
     </item>
     
