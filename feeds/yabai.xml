@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 23 Aug 2021 02:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 02:05:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.78]]></title>
+      <link>https://mangacross.jp/comics/yabai/83</link>
+      
+        <pubDate>Tue, 24 Aug 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は知りたい]]></description>
+      <content:encoded><![CDATA[僕は知りたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/83</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Or685bNaH4dOZX-BknbCDAnzdl9YH9-MjmzzFPPgsSQ/episode_thumbnail/thumb_double.png?1629362132" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.77]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/81</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/5NLQRQF_w6XWM2uowS8vIYEzDQzKsQp0cfKGwrF6Lt4/episode_thumbnail/thumb_double.png?1626848607" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.75]]></title>
-      <link>https://mangacross.jp/comics/yabai/80</link>
-      
-        <pubDate>Tue, 13 Jul 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕はどう生きるか]]></description>
-      <content:encoded><![CDATA[僕はどう生きるか]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/80</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/FlYIc8Ve5jX8Jr-iIenslcecS9ZMMnPGSR5kJNi0pr0/episode_thumbnail/thumb_double.png?1626058430" length="0" type="image/png"/>
       
     </item>
     
