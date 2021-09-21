@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[青春格差ラブコメディ！！]]></description>
-    <lastBuildDate>Mon, 20 Sep 2021 02:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Sep 2021 02:11:05 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.80]]></title>
+      <link>https://mangacross.jp/comics/yabai/85</link>
+      
+        <pubDate>Tue, 21 Sep 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はおままごと]]></description>
+      <content:encoded><![CDATA[僕はおままごと]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/85</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/YXCEYS37b9-sGRUdSVkHt5xWP2jhNIvFjIvMB6CEKDY/episode_thumbnail/thumb_double.png?1631782004" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.79]]></title>
