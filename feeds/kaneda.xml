@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/kaneda.json?type=public</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-mangacross/feeds/kaneda.xml" rel="self"/>
     <description><![CDATA[暴走セレブお嬢様ギャグ!!]]></description>
-    <lastBuildDate>Sun, 26 Sep 2021 02:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 02:11:14 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第35話]]></title>
+      <link>https://mangacross.jp/comics/kaneda/35</link>
+      
+        <pubDate>Mon, 27 Sep 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[月見]]></description>
+      <content:encoded><![CDATA[月見]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/35</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/OhoJ5w1MmiOnsCumaLhK4ytglMvm79GxbTlTAavZWZ0/episode_thumbnail/thumb_double.png?1629271330" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第34話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/33</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ar0kNVVgIa9ZmKKilPrBVaLLpE7_ltLwbzcvEToYtkc/episode_thumbnail/thumb_double.png?1626162925" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第32話]]></title>
-      <link>https://mangacross.jp/comics/kaneda/32</link>
-      
-        <pubDate>Mon, 09 Aug 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[水泳]]></description>
-      <content:encoded><![CDATA[水泳]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/kaneda/32</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/aIdr3X9WgozMgqykSjBZFuRuli0_3y7xw1YoWNsHEVE/episode_thumbnail/thumb_double.png?1626162623" length="0" type="image/png"/>
       
     </item>
     
